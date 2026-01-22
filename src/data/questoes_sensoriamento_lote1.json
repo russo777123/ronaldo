@@ -1,0 +1,327 @@
+[
+  {
+    "id": "101",
+    "subject": "Conceitos de SR",
+    "enunciado": "Segundo a definição de sentido amplo apresentada no manual, qual ato cotidiano poderia ser classificado como sensoriamento remoto?",
+    "opcoes": {
+      "a": "O simples ato de ler um texto.",
+      "b": "Caminhar em uma trilha.",
+      "c": "Escrever em um papel com caneta.",
+      "d": "Cortar um objeto com ferramenta de precisão."
+    },
+    "correta": "a",
+    "justificativa": "No sentido amplo, ler é SR pois os olhos (sensores) detectam a luz refletida sem contato físico (Página 7)."
+  },
+  {
+    "id": "102",
+    "subject": "Conceitos de SR",
+    "enunciado": "As definições de 'sentido restrito' de Sensoriamento Remoto focam exclusivamente em fenômenos relacionados à:",
+    "opcoes": {
+      "a": "Energia acústica.",
+      "b": "Energia eletromagnética (REM).",
+      "c": "Forças sísmicas.",
+      "d": "Variações de pressão atmosférica."
+    },
+    "correta": "b",
+    "justificativa": "O sentido restrito limita o escopo à detecção e análise da REM (Página 7)."
+  },
+  {
+    "id": "103",
+    "subject": "Pilares do SR",
+    "enunciado": "Quais são os três elementos considerados como os 'Pilares do Sensoriamento Remoto', sem os quais a atividade seria impossível?",
+    "opcoes": {
+      "a": "Câmera, Satélite e Analista.",
+      "b": "Sensores, REM e Alvos.",
+      "c": "Luz Solar, Atmosfera e Lentes.",
+      "d": "Software, Computador e Operador."
+    },
+    "correta": "b",
+    "justificativa": "Os sensores, a radiação e os alvos são os três pilares imprescindíveis (Página 8)."
+  },
+  {
+    "id": "104",
+    "subject": "Etapas do SR",
+    "enunciado": "A etapa do Sensoriamento Remoto que compreende a gravação dos dados coletados através do sensor, seja de modo analógico ou digital, é o:",
+    "opcoes": {
+      "a": "Registro.",
+      "b": "Detecção.",
+      "c": "Análise.",
+      "d": "Processamento."
+    },
+    "correta": "a",
+    "justificativa": "O registro refere-se à gravação técnica dos dados (Página 9)."
+  },
+  {
+    "id": "105",
+    "subject": "REM",
+    "enunciado": "A Radiação Eletromagnética (REM) pode ser definida como uma onda formada pela oscilação de quais campos?",
+    "opcoes": {
+      "a": "Elétrico e Gravitacional.",
+      "b": "Elétrico e Magnético.",
+      "c": "Magnético e Acústico.",
+      "d": "Gravitacional e Quântico."
+    },
+    "correta": "b",
+    "justificativa": "A REM resulta da oscilação de campos elétrico e magnético perpendiculares entre si (Página 9)."
+  },
+  {
+    "id": "106",
+    "subject": "Atributos da REM",
+    "enunciado": "A distância entre dois picos ou vales sucessivos de uma mesma onda eletromagnética é denominada:",
+    "opcoes": {
+      "a": "Frequência.",
+      "b": "Amplitude.",
+      "c": "Comprimento de onda (λ).",
+      "d": "Polarização."
+    },
+    "correta": "c",
+    "justificativa": "Definição técnica de comprimento de onda (Página 10)."
+  },
+  {
+    "id": "107",
+    "subject": "Atributos da REM",
+    "enunciado": "A relação entre a frequência (f) e o comprimento de onda (λ) na REM é caracterizada por serem grandezas:",
+    "opcoes": {
+      "a": "Diretamente proporcionais.",
+      "b": "Inversamente proporcionais.",
+      "c": "Independentes entre si.",
+      "d": "Constantes em qualquer situação."
+    },
+    "correta": "b",
+    "justificativa": "Quando a frequência aumenta, o comprimento de onda diminui proporcionalmente (Página 11)."
+  },
+  {
+    "id": "108",
+    "subject": "Atributos da REM",
+    "enunciado": "A intensidade de oscilação de uma onda, calculada pela distância do seu máximo afastamento em relação à posição de equilíbrio, é a:",
+    "opcoes": {
+      "a": "Fase.",
+      "b": "Polarização.",
+      "c": "Amplitude.",
+      "d": "Velocidade."
+    },
+    "correta": "c",
+    "justificativa": "A amplitude mede a intensidade da oscilação (Página 11)."
+  },
+  {
+    "id": "109",
+    "subject": "Atributos da REM",
+    "enunciado": "A orientação do plano que contém os elementos do vetor amplitude do campo elétrico em relação ao plano de incidência define a:",
+    "opcoes": {
+      "a": "Refração.",
+      "b": "Frequência.",
+      "c": "Polarização.",
+      "d": "Difração."
+    },
+    "correta": "c",
+    "justificativa": "A polarização refere-se à orientação do plano da onda (Página 11)."
+  },
+  {
+    "id": "110",
+    "subject": "Teoria da REM",
+    "enunciado": "Qual teoria afirma que a REM é composta por 'pacotes' de energia denominados fótons?",
+    "opcoes": {
+      "a": "Teoria Ondulatória.",
+      "b": "Teoria Quântica.",
+      "c": "Teoria Eletrostática.",
+      "d": "Teoria da Relatividade."
+    },
+    "correta": "b",
+    "justificativa": "Segundo a teoria quântica, a REM é emitida em pulsos discretos chamados fótons ou quantas (Página 12)."
+  },
+  {
+    "id": "111",
+    "subject": "Fontes de REM",
+    "enunciado": "A origem da energia utilizada no Sensoriamento Remoto provém de apenas três fontes. Quais são elas?",
+    "opcoes": {
+      "a": "Sol, Laser e Radar.",
+      "b": "Sol, Sensores e Próprios Alvos.",
+      "c": "Atmosfera, Solo e Mar.",
+      "d": "Satélites, Aviões e Drones."
+    },
+    "correta": "b",
+    "justificativa": "O manual lista: Sol, sensores (artificiais) e os próprios alvos como fontes de REM (Página 12)."
+  },
+  {
+    "id": "112",
+    "subject": "Espectro REM",
+    "enunciado": "A organização da radiação eletromagnética em regiões delimitadas por intervalos de comprimento de onda ou frequência é chamada de:",
+    "opcoes": {
+      "a": "Espectro Eletromagnético (EEM).",
+      "b": "Arco-íris Digital.",
+      "c": "Grade de Frequência.",
+      "d": "Matriz de Detecção."
+    },
+    "correta": "a",
+    "justificativa": "O EEM representa a organização sistêmica da REM (Página 13)."
+  },
+  {
+    "id": "113",
+    "subject": "Velocidade da REM",
+    "enunciado": "A velocidade da REM no vácuo é aproximadamente a mesma velocidade da luz, valendo cerca de:",
+    "opcoes": {
+      "a": "300.000 km/s.",
+      "b": "150.000 km/h.",
+      "c": "30.000 m/s.",
+      "d": "1.000.000 km/s."
+    },
+    "correta": "a",
+    "justificativa": "A velocidade é calculada como 3 x 10^8 m/s ou 300.000 km/s (Página 10)."
+  },
+  {
+    "id": "114",
+    "subject": "Unidades de Medida",
+    "enunciado": "Na medição do comprimento de onda (λ), a unidade equivalente a 10^-6 metros é denominada:",
+    "opcoes": {
+      "a": "Nanômetro (nm).",
+      "b": "Micrômetro (μm).",
+      "c": "Milímetro (mm).",
+      "d": "Centímetro (cm)."
+    },
+    "correta": "b",
+    "justificativa": "1 μm = 10^-6 m (Página 10)."
+  },
+  {
+    "id": "115",
+    "subject": "Equação da REM",
+    "enunciado": "Na teoria quântica, a quantidade de energia (Q) de um pulso de REM é igual ao produto entre a sua frequência (f) e qual constante?",
+    "opcoes": {
+      "a": "Constante de Einstein.",
+      "b": "Constante de Planck (h).",
+      "c": "Constante de Newton.",
+      "d": "Constante de Gauss."
+    },
+    "correta": "b",
+    "justificativa": "Q = f * h, onde h é a constante de Planck (Página 12)."
+  },
+  {
+    "id": "116",
+    "subject": "Radiação Solar",
+    "enunciado": "Dentre as fontes naturais, qual é a forma de energia mais abundante na atmosfera e na superfície da Terra?",
+    "opcoes": {
+      "a": "Energia térmica terrestre.",
+      "b": "REM emitida pelo Sol.",
+      "c": "Luz das estrelas.",
+      "d": "Radiação de fundo de micro-ondas."
+    },
+    "correta": "b",
+    "justificativa": "A REM solar é a fonte natural mais abundante (Página 13)."
+  },
+  {
+    "id": "117",
+    "subject": "Sensores Ativos",
+    "enunciado": "Sistemas capazes de emitir sua própria REM para iluminar o alvo, como o RADAR e o LIDAR, utilizam fontes:",
+    "opcoes": {
+      "a": "Naturais.",
+      "b": "Artificiais.",
+      "c": "Passivas.",
+      "d": "Espontâneas."
+    },
+    "correta": "b",
+    "justificativa": "RADAR e LIDAR possuem fontes artificiais de REM (Página 13)."
+  },
+  {
+    "id": "118",
+    "subject": "Sensores Ativos",
+    "enunciado": "Uma vantagem crucial dos sensores dotados de fontes artificiais (ativos) é a capacidade de operar:",
+    "opcoes": {
+      "a": "Apenas sob luz solar intensa.",
+      "b": "Durante a noite ou condições atmosféricas adversas.",
+      "c": "Somente no vácuo espacial.",
+      "d": "Sem necessidade de baterias ou energia."
+    },
+    "correta": "b",
+    "justificativa": "Eles não dependem da luz solar, podendo operar 24h (Página 13)."
+  },
+  {
+    "id": "119",
+    "subject": "REM e Alvos",
+    "enunciado": "A energia emitida pelos próprios alvos, detectável por sensores de sensoriamento remoto, ocorre principalmente na faixa do:",
+    "opcoes": {
+      "a": "Ultravioleta.",
+      "b": "Infravermelho termal.",
+      "c": "Raio-X.",
+      "d": "Luz visível azul."
+    },
+    "correta": "b",
+    "justificativa": "Alvos emitem REM principalmente na faixa termal (Página 13)."
+  },
+  {
+    "id": "120",
+    "subject": "Histórico e Ciência",
+    "enunciado": "Embora seja uma ciência moderna, os fundamentos do Sensoriamento Remoto são oriundos de quais técnicas anteriores?",
+    "opcoes": {
+      "a": "Desenho técnico e pintura.",
+      "b": "Aerofotogrametria e fotointerpretação.",
+      "c": "Escultura e moldagem.",
+      "d": "Radiotransmissão apenas."
+    },
+    "correta": "b",
+    "justificativa": "O progresso do SR está ligado a estas técnicas clássicas (Página 7)."
+  },
+  {
+    "id": "121",
+    "subject": "DefiniçãoRestrita",
+    "enunciado": "A definição de sentido restrito de SR tenta reduzir o escopo para fenômenos relacionados exclusivamente à:",
+    "opcoes": {
+      "a": "Luz visível apenas.",
+      "b": "Energia eletromagnética (REM).",
+      "c": "Calor superficial.",
+      "d": "Forma geométrica dos objetos."
+    },
+    "correta": "b",
+    "justificativa": "A REM é o único foco no sentido restrito (Página 7)."
+  },
+  {
+    "id": "122",
+    "subject": "Etapas do SR",
+    "enunciado": "Qual etapa do SR envolve a 'interpretação qualitativa' de todas as características do alvo sensoriado?",
+    "opcoes": {
+      "a": "Detecção.",
+      "b": "Registro.",
+      "c": "Análise.",
+      "d": "Aquisição."
+    },
+    "correta": "c",
+    "justificativa": "A análise é a fase de interpretação qualitativa (Página 9)."
+  },
+  {
+    "id": "123",
+    "subject": "Frequência",
+    "enunciado": "O número de ciclos completos em um intervalo de tempo (geralmente um segundo) define o conceito de:",
+    "opcoes": {
+      "a": "Comprimento de onda.",
+      "b": "Frequência.",
+      "c": "Amplitude.",
+      "d": "Pico energético."
+    },
+    "correta": "b",
+    "justificativa": "Definição de frequência, medida em Hertz (Página 10)."
+  },
+  {
+    "id": "124",
+    "subject": "Física da REM",
+    "enunciado": "Na equação v = λ * f, o que acontece com a frequência se o comprimento de onda for reduzido pela metade, mantendo a velocidade constante?",
+    "opcoes": {
+      "a": "A frequência também cai pela metade.",
+      "b": "A frequência dobra de valor.",
+      "c": "A frequência permanece a mesma.",
+      "d": "A frequência anula-se."
+    },
+    "correta": "b",
+    "justificativa": "Como são inversamente proporcionais, se λ diminui, f aumenta na mesma proporção (Página 11)."
+  },
+  {
+    "id": "125",
+    "subject": "Teoria Ondulatória",
+    "enunciado": "Fenômenos como difração e interferência da luz são melhor explicados por qual teoria da REM?",
+    "opcoes": {
+      "a": "Teoria Ondulatória.",
+      "b": "Teoria Quântica.",
+      "c": "Teoria Atômica.",
+      "d": "Teoria da Refração Pura."
+    },
+    "correta": "a",
+    "justificativa": "Difração e interferência são fenômenos clássicos da natureza ondulatória (Página 12)."
+  }
+]

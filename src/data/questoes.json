@@ -1,0 +1,4622 @@
+[
+  {
+    "id": "01",
+    "tipo": "TIPO 1",
+    "tema": "SISBIN",
+    "enunciado": "A Agência Brasileira de Inteligência (ABIN) figura como o órgão central do SISBIN. Sobre a composição deste sistema, é correto afirmar que o CENSIPAM o integra por meio de qual estrutura?",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Ministério da Defesa.",
+      "b": "Casa Civil da Presidência da República.",
+      "c": "Gabinete de Segurança Institucional.",
+      "d": "Ministério da Justiça."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Conforme a página 9 do manual, o CENSIPAM integra o SISBIN por intermédio da Casa Civil."
+  },
+  {
+    "id": "02",
+    "tipo": "TIPO 1",
+    "tema": "SINDE",
+    "enunciado": "O Sistema de Inteligência de Defesa (SINDE) tem a finalidade de assessorar o processo decisório no âmbito do MD. Qual é o seu Órgão Central?",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Subchefia de Inteligência Estratégica.",
+      "b": "Centro de Inteligência da Aeronáutica.",
+      "c": "Departamento de Inteligência Estratégica (DIE).",
+      "d": "Estado-Maior Conjunto das Forças Armadas."
+    },
+    "resposta_correta": "c",
+    "justificativa": "A página 10 identifica o DIE como órgão central do SINDE."
+  },
+  {
+    "id": "03",
+    "tipo": "TIPO 1",
+    "tema": "SIOP",
+    "enunciado": "O controle externo da atividade de inteligência por parte do SIOp perante a ABIN é exercido pelo:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Poder Judiciário.",
+      "b": "Poder Legislativo.",
+      "c": "Ministério Público Federal.",
+      "d": "Conselho de Defesa Nacional."
+    },
+    "resposta_correta": "b",
+    "justificativa": "A página 11 especifica que o controle externo é de responsabilidade do Poder Legislativo."
+  },
+  {
+    "id": "04",
+    "tipo": "TIPO 1",
+    "tema": "SINTAER",
+    "enunciado": "O Órgão Central do Sistema de Inteligência da Aeronáutica (SINTAER) é o:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "CIAER.",
+      "b": "DIRENS.",
+      "c": "EMAER.",
+      "d": "COMGAR."
+    },
+    "resposta_correta": "a",
+    "justificativa": "Segundo a página 13, o CIAER é o Órgão Central do SINTAER."
+  },
+  {
+    "id": "05",
+    "tipo": "TIPO 1",
+    "tema": "Níveis de Inteligência",
+    "enunciado": "A inteligência exigida para a formação de políticas e planos militares em níveis nacionais e internacionais é classificada como:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Tática.",
+      "b": "Operacional.",
+      "c": "Estratégica.",
+      "d": "Política."
+    },
+    "resposta_correta": "c",
+    "justificativa": "A inteligência estratégica foca em planos de alto nível nacional e internacional (Página 14)."
+  },
+  {
+    "id": "06",
+    "tipo": "TIPO 1",
+    "tema": "Níveis de Inteligência",
+    "enunciado": "Qual nível de inteligência é essencial para um Comando Conjunto (C Cj) no planejamento e execução de campanhas em um Teatro de Operações?",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Estratégica.",
+      "b": "Operacional.",
+      "c": "Tática.",
+      "d": "Logística."
+    },
+    "resposta_correta": "b",
+    "justificativa": "A inteligência operacional é a necessária para Comandos Conjuntos em campanhas (Página 14)."
+  },
+  {
+    "id": "07",
+    "tipo": "TIPO 1",
+    "tema": "Níveis de Inteligência",
+    "enunciado": "A inteligência produzida dentro da área das Forças Componentes para o planejamento e condução de operações táticas é a:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Inteligência de Combate.",
+      "b": "Inteligência Tática.",
+      "c": "Inteligência de Unidade.",
+      "d": "Inteligência Local."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Inteligência Tática é a usada no nível das Forças Componentes (Página 14)."
+  },
+  {
+    "id": "08",
+    "tipo": "TIPO 1",
+    "tema": "Produtos de Inteligência",
+    "enunciado": "O documento composto por Missão, Situação e Características da Área de Operações é denominado:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Relátorio de Inteligência (RELINT).",
+      "b": "Cenário.",
+      "c": "Pasta de Alvos.",
+      "d": "Mapa de Situação."
+    },
+    "resposta_correta": "b",
+    "justificativa": "O Cenário é o produto que consolida Missão, Situação e Área de Operações (Página 15)."
+  },
+  {
+    "id": "09",
+    "tipo": "TIPO 1",
+    "tema": "Análise da Área",
+    "enunciado": "Na análise da área de operações, fatores como clima, hidrografia e terreno são classificados como:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Fatores Gerais.",
+      "b": "Fatores Dinâmicos.",
+      "c": "Fatores Fixos.",
+      "d": "Fatores Mutáveis."
+    },
+    "resposta_correta": "c",
+    "justificativa": "Hidrografia e terreno são características estáveis, logo, Fatores Fixos (Página 16)."
+  },
+  {
+    "id": "10",
+    "tipo": "TIPO 1",
+    "tema": "Hidrografia",
+    "enunciado": "Em operações anfibias, qual aspecto hidrográfico deve ser examinado com detalhes devido à sua influência na aproximação das praias?",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Profundidade dos rios.",
+      "b": "Gradientes e correntes.",
+      "c": "Existência de pontes.",
+      "d": "Nível de poluição das águas."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Gradientes e correntes são cruciais para a aproximação em operações anfíbias (Página 17)."
+  },
+  {
+    "id": "11",
+    "tipo": "TIPO 1",
+    "tema": "Clima",
+    "enunciado": "As 'condições sonar' nas operações navais devem ser investigadas cuidadosamente por influenciarem a operação de:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Aeronaves de patrulha.",
+      "b": "Submarinos.",
+      "c": "Navios de transporte.",
+      "d": "Comunicações via satélite."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Condições sonar afetam diretamente o emprego de submarinos (Página 17)."
+  },
+  {
+    "id": "12",
+    "tipo": "TIPO 1",
+    "tema": "Terreno",
+    "enunciado": "O efeito da topografia deve ser considerado no planejamento da evasão e recuperação de:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Tropas de elite.",
+      "b": "Pilotos abatidos.",
+      "c": "Veículos blindados.",
+      "d": "Caminhões de suprimento."
+    },
+    "resposta_correta": "b",
+    "justificativa": "A topografia é fator crítico para a recuperação de pilotos abatidos (Página 18)."
+  },
+  {
+    "id": "13",
+    "tipo": "TIPO 1",
+    "tema": "Fatores Gerais",
+    "enunciado": "A análise que abrange as condições políticas, econômicas e psicossociais faz parte dos:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Fatores Fixos.",
+      "b": "Fatores Gerais.",
+      "c": "Fatores Estratégicos.",
+      "d": "Fatores Culturais."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Condições políticas e econômicas são Fatores Gerais (Página 20)."
+  },
+  {
+    "id": "14",
+    "tipo": "TIPO 1",
+    "tema": "Fatores Políticos",
+    "enunciado": "O estudo de assuntos internos, como estabilidade política e o esforço de guerra do inimigo, é competência da análise de:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Fatores Econômicos.",
+      "b": "Fatores Políticos.",
+      "c": "Fatores Psicossociais.",
+      "d": "Fatores Estruturais."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Estabilidade e esforço de guerra são analisados nos Fatores Políticos (Página 20)."
+  },
+  {
+    "id": "15",
+    "tipo": "TIPO 1",
+    "tema": "Psicossociais",
+    "enunciado": "Qual elemento está 'sempre presente' na análise psicossocial, influenciando o treinamento e o desprendimento das forças?",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "PIB do país inimigo.",
+      "b": "O moral da população e das Forças Armadas.",
+      "c": "A rede de estradas de ferro.",
+      "d": "A tecnologia de micro-ondas."
+    },
+    "resposta_correta": "b",
+    "justificativa": "O moral é o elemento central e onipresente na análise psicossocial (Página 21)."
+  },
+  {
+    "id": "16",
+    "tipo": "TIPO 1",
+    "tema": "Científico-Tecnológicos",
+    "enunciado": "Na análise científico-tecnológica, quais setores devem ser enfatizados, especialmente quanto ao uso de satélites e foguetes?",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Agrícola e Mineral.",
+      "b": "Eletrônico e Aeroespacial.",
+      "c": "Têxtil e Marítimo.",
+      "d": "Químico e Farmacêutico."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Eletrônica e Aeroespacial são os focos dessa análise (Página 21)."
+  },
+  {
+    "id": "17",
+    "tipo": "TIPO 1",
+    "tema": "Forças Inimigas",
+    "enunciado": "A descrição do número e tamanho das unidades do inimigo é referida como análise do:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Logística.",
+      "b": "Efetivo.",
+      "c": "Dispositivo.",
+      "d": "Composição."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Número e tamanho correspondem ao Efetivo (Página 21)."
+  },
+  {
+    "id": "18",
+    "tipo": "TIPO 1",
+    "tema": "Forças Inimigas",
+    "enunciado": "Esboçar a estrutura das forças inimigas (Ordem de Batalha) faz parte do estudo da:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Capacidade de reforços.",
+      "b": "Composição e organização.",
+      "c": "Localização e dispositivo.",
+      "d": "Personalidade dos comandantes."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Ordem de Batalha refere-se à composição/organização (Página 21)."
+  },
+  {
+    "id": "19",
+    "tipo": "TIPO 1",
+    "tema": "Forças Inimigas",
+    "enunciado": "A análise que descreve o inventário de aeronaves por tipo, desempenho e taxas de sortidas é a de:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Características operacionais das aeronaves.",
+      "b": "Logística aérea.",
+      "c": "Capacidade de lançamento de mísseis.",
+      "d": "Movimentos e atividades."
+    },
+    "resposta_correta": "a",
+    "justificativa": "O inventário e desempenho das aeronaves são suas características operacionais (Página 22)."
+  },
+  {
+    "id": "20",
+    "tipo": "TIPO 1",
+    "tema": "Guerra Não Convencional",
+    "enunciado": "Sabotagem, guerrilha e bioterrorismo são classificados no manual como:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Guerra Cibernética.",
+      "b": "Ações de guerra não convencional.",
+      "c": "Crimes Transnacionais.",
+      "d": "Guerra de Informação."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Essas ações compõem a guerra não convencional (Página 23)."
+  },
+  {
+    "id": "21",
+    "tipo": "TIPO 1",
+    "tema": "Possibilidades do Inimigo",
+    "enunciado": "As possibilidades do inimigo representam as linhas de ação que ele é capaz de realizar tecnicamente. Como devem ser enumeradas?",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "De forma conjunta.",
+      "b": "Separadamente para cada capacidade.",
+      "c": "Apenas as capacidades aéreas.",
+      "d": "Por ordem cronológica apenas."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Devem ser enumeradas separadamente (Página 24)."
+  },
+  {
+    "id": "22",
+    "tipo": "TIPO 1",
+    "tema": "Possibilidades do Inimigo",
+    "enunciado": "Ao analisar uma possibilidade do inimigo, qual destas perguntas deve ser respondida para validá-la?",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "POR QUE o inimigo faria?",
+      "b": "COM QUE FORÇA ela pode ser feita?",
+      "c": "QUEM é o comandante?",
+      "d": "QUAL o custo da operação?"
+    },
+    "resposta_correta": "b",
+    "justificativa": "O QUE, ONDE, COM QUE FORÇA, COMO, QUANDO e DE ONDE são as perguntas base (Página 24)."
+  },
+  {
+    "id": "23",
+    "tipo": "TIPO 1",
+    "tema": "Análise do Inimigo",
+    "enunciado": "O analista da seção de inteligência (D-2) deve raciocinar como se fosse o 'oficial de operações inimigo' para elaborar a:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Pasta de Alvos.",
+      "b": "Apreciação das possibilidades do inimigo.",
+      "c": "Pauta de Comunicação.",
+      "d": "Estrutura do SISBIN."
+    },
+    "resposta_correta": "b",
+    "justificativa": "O raciocínio como inimigo visa validar as possibilidades (Página 24)."
+  },
+  {
+    "id": "24",
+    "tipo": "TIPO 1",
+    "tema": "MAPSIT",
+    "enunciado": "O MAPSIT fornece uma visão em tempo real do Teatro de Operações, composta por quais forças?",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Apenas forças amigas.",
+      "b": "Apenas forças adversárias.",
+      "c": "Amigas, neutras e adversárias.",
+      "d": "Apenas forças aéreas."
+    },
+    "resposta_correta": "c",
+    "justificativa": "O MAPSIT inclui forças amigas, neutras e adversárias (Página 25)."
+  },
+  {
+    "id": "25",
+    "tipo": "TIPO 1",
+    "tema": "Consciência Situacional",
+    "enunciado": "Qual conceito é de suma importância para a tomada de decisão no MAPSIT e na Inteligência?",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Consciência Situacional (CS).",
+      "b": "Hierarquia de Comando.",
+      "c": "Ordem Unida.",
+      "d": "Segurança Orgânica."
+    },
+    "resposta_correta": "a",
+    "justificativa": "A CS é fonte primária e fundamental para a decisão (Página 26)."
+  },
+  {
+    "id": "26",
+    "tipo": "TIPO 1",
+    "tema": "Arquivo de Ameaça",
+    "enunciado": "O documento específico para um dado tipo de equipamento (concedendo infos sobre radares, aeronaves, etc.) é o:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Pasta de Alvos.",
+      "b": "Arquivo de Ameaça.",
+      "c": "MAPSIT.",
+      "d": "Cenário Operacional."
+    },
+    "resposta_correta": "b",
+    "justificativa": "O Arquivo de Ameaça foca em equipamentos e suas capacidades (Página 26)."
+  },
+  {
+    "id": "27",
+    "tipo": "TIPO 1",
+    "tema": "Pasta de Alvos",
+    "enunciado": "A Pasta de Alvos (TARGET Folder) contém informações específicas sobre:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "A economia do país inimigo.",
+      "y": "Cada alvo (coordenadas, cota, PMDI).",
+      "c": "A saúde da população civil.",
+      "d": "O moral das tropas amigas."
+    },
+    "resposta_correta": "b",
+    "justificativa": "A Pasta de Alvos detalha dados específicos para o ataque ao alvo (Página 27)."
+  },
+  {
+    "id": "28",
+    "tipo": "TIPO 1",
+    "tema": "SINTAER",
+    "enunciado": "Qual o objetivo principal do SINTAER?",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Treinar pilotos de caça.",
+      "b": "Produzir conhecimentos necessários ao preparo e emprego da FAB.",
+      "c": "Gerenciar o tráfego aéreo comercial.",
+      "d": "Fiscalizar as fronteiras terrestres."
+    },
+    "resposta_correta": "b",
+    "justificativa": "O preparo e emprego da FAB é o core do SINTAER (Página 13)."
+  },
+  {
+    "id": "29",
+    "tipo": "TIPO 1",
+    "tema": "SINTAER",
+    "enunciado": "A organização do SINTAER, além do Órgão Central, é composta por setores de Inteligência denominados:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Companhias e Pelotões.",
+      "b": "Elo de Inteligência (Seção, Subseção, Assessoria).",
+      "c": "Departamentos e Gerências.",
+      "d": "Núcleos e Bases."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Os elos são as estruturas pontas do SINTAER (Página 13)."
+  },
+  {
+    "id": "30",
+    "tipo": "TIPO 1",
+    "tema": "Conceitos de Inteligência",
+    "enunciado": "A Inteligência que permite o assessoramento aos Comandantes, Chefes e Diretores de OMs do COMAER é um objetivo do:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "SINDE.",
+      "b": "SINTAER.",
+      "c": "SISBIN.",
+      "d": "SIOP."
+    },
+    "resposta_correta": "b",
+    "justificativa": "É o terceiro objetivo listado para o SINTAER (Página 13)."
+  },
+  {
+    "id": "31",
+    "tipo": "TIPO 1",
+    "tema": "Análise da Área",
+    "enunciado": "O estudo minucioso da área de operações a partir de conhecimentos disponíveis compreende os:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Poderes Nacional e Estrangeiro.",
+      "b": "Fatores gerais e fatores fixos.",
+      "c": "Fatores de sorte e azar.",
+      "d": "Fatores humanos e divinos."
+    },
+    "resposta_correta": "b",
+    "justificativa": "A análise da área se divide nestes dois grandes grupos (Página 16)."
+  },
+  {
+    "id": "32",
+    "tipo": "TIPO 1",
+    "tema": "Hidrografia",
+    "enunciado": "A suscetibilidade das águas à minagem ofensiva ou defensiva deve receber atenção especial no estudo de:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "População.",
+      "b": "Hidrografia.",
+      "c": "Solo.",
+      "d": "Clima."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Minagem é tópico de hidrografia (Página 17)."
+  },
+  {
+    "id": "33",
+    "tipo": "TIPO 1",
+    "tema": "Terreno",
+    "enunciado": "O 'levantamento de obstáculos de vulto à progressão terrestre' faz parte do estudo de:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Hidrografia.",
+      "b": "Terreno e topografia.",
+      "c": "Economia.",
+      "d": "Científico-tecnológico."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Obstáculos terrestres referem-se à topografia (Página 17)."
+  },
+  {
+    "id": "34",
+    "tipo": "TIPO 1",
+    "tema": "Clima",
+    "enunciado": "A presença de neve, gelo ou chuvas afeta criticamente qual área tecnológica nas comunicações militares?",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Criptografia manual.",
+      "b": "Influência dos fenômenos na propagação.",
+      "c": "Treinamento de pessoal.",
+      "d": "Construção de pontes."
+    },
+    "resposta_correta": "b",
+    "justificativa": "O clima afeta a mobilidade e as comunicações (Página 18)."
+  },
+  {
+    "id": "35",
+    "tipo": "TIPO 1",
+    "tema": "Horários",
+    "enunciado": "No planejamento de operações, é 'altamente conveniente' tabular quais horários?",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "De almoço das tropas.",
+      "b": "Do nascer e do pôr do sol.",
+      "c": "De trocas de guarda apenas.",
+      "d": "De programas de rádio."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Luminosidade é vital para o planejamento (Página 18)."
+  },
+  {
+    "id": "36",
+    "tipo": "TIPO 1",
+    "tema": "Pontos Importantes",
+    "enunciado": "Instalações fabris, usinas de geração de energia e represas são considerados:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Zonas de lazer.",
+      "b": "Pontos de importância operacional de natureza fixa.",
+      "c": "Zonas de interesse comercial.",
+      "d": "Fatores psicossociais."
+    },
+    "resposta_correta": "b",
+    "justificativa": "São infraestruturas críticas de natureza fixa (Página 18)."
+  },
+  {
+    "id": "37",
+    "tipo": "TIPO 1",
+    "tema": "Transporte",
+    "enunciado": "Entroncamentos rodoferroviários, pontes e canais são considerados:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Obstáculos naturais.",
+      "b": "Pontos focais de navegação e suprimento.",
+      "c": "Zonas desabitadas.",
+      "d": "Fatores políticos."
+    },
+    "resposta_correta": "b",
+    "justificativa": "São nós logísticos essenciais (Página 19)."
+  },
+  {
+    "id": "38",
+    "tipo": "TIPO 1",
+    "tema": "Condições Sanitárias",
+    "enunciado": "Doenças endêmicas e a disponibilidade de pessoal médico na área são estudadas em:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Política.",
+      "b": "Condições sanitárias.",
+      "c": "Psicossocial.",
+      "d": "Hidrografia."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Saúde e higiene compõem as condições sanitárias (Página 19)."
+  },
+  {
+    "id": "39",
+    "tipo": "TIPO 1",
+    "tema": "Comunicações",
+    "enunciado": "Repetidoras de micro-ondas, cabos de fibra ótica e sítios de antenas devem ser examinados no estudo de:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Clima.",
+      "b": "Comunicações na área.",
+      "c": "Hidrografia subterrânea.",
+      "d": "Política externa."
+    },
+    "resposta_correta": "b",
+    "justificativa": "São meios de transmissão de dados (Página 19)."
+  },
+  {
+    "id": "40",
+    "tipo": "TIPO 1",
+    "tema": "Fatores Econômicos",
+    "enunciado": "A análise da capacidade de mobilização da indústria para apoio às hostilidades é um:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Fator Político.",
+      "b": "Fator Econômico.",
+      "c": "Fator Tecnológico.",
+      "d": "Fator Social."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Indústria e recursos fabris são fatores econômicos (Página 20)."
+  },
+  {
+    "id": "41",
+    "tipo": "TIPO 1",
+    "tema": "Psicossociais",
+    "enunciado": "As características raciais, religiosas e de resistência física da população são parte dos:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Fatores Geográficos.",
+      "b": "Fatores Psicossociais.",
+      "c": "Fatores Genéticos.",
+      "d": "Fatores Médicos."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Cultura, raça e religião são traços psicossociais (Página 21)."
+  },
+  {
+    "id": "42",
+    "tipo": "TIPO 1",
+    "tema": "Forças Inimigas",
+    "enunciado": "A 'localização geográfica das forças do inimigo no TO, inclusive postos de comando' define o:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Efetivo.",
+      "b": "Localização e dispositivo.",
+      "c": "Logística.",
+      "d": "Capacidade de reforços."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Dispositivo refere-se à disposição espacial das tropas (Página 21)."
+  },
+  {
+    "id": "43",
+    "tipo": "TIPO 1",
+    "tema": "Logística Inimiga",
+    "enunciado": "O estudo de aeródromos, ferrovias e capacidade de ressuprimento do inimigo trata de sua:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Guerra Eletrônica.",
+      "b": "Logística.",
+      "c": "Inteligência.",
+      "d": "Personalidade."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Infraestrutura de transporte e ressuprimento é logística (Página 22)."
+  },
+  {
+    "id": "44",
+    "tipo": "TIPO 1",
+    "tema": "Personalidade dos Comandantes",
+    "enunciado": "Por que a personalidade dos comandantes inimigos deve ser analisada?",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Para fins de relações públicas.",
+      "b": "Pela possibilidade de influência nas decisões tomadas por eles.",
+      "c": "Para preencher o histórico da guerra.",
+      "d": "Para convites diplomáticos."
+    },
+    "resposta_correta": "b",
+    "justificativa": "O fator humano do comando afeta a estratégia inimiga (Página 23)."
+  },
+  {
+    "id": "45",
+    "tipo": "TIPO 1",
+    "tema": "Possibilidades do Inimigo",
+    "enunciado": "As 'linhas de ação (LA) que o inimigo é capaz de realizar' são denominadas:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Vontades do Inimigo.",
+      "b": "Possibilidades do Inimigo.",
+      "c": "Desejos do Inimigo.",
+      "d": "Sonhos do Inimigo."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Terminologia técnica padrão (Página 24)."
+  },
+  {
+    "id": "46",
+    "tipo": "TIPO 1",
+    "tema": "Possibilidades do Inimigo",
+    "enunciado": "Qual deve ser o primeiro grupo de possibilidades a ser considerado para maior facilidade?",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Forças navais.",
+      "b": "Forças aéreas inimigas.",
+      "c": "Forças terrestres.",
+      "d": "Forças especiais."
+    },
+    "resposta_correta": "b",
+    "justificativa": "O manual sugere começar pelas aéreas (Página 24)."
+  },
+  {
+    "id": "47",
+    "tipo": "TIPO 1",
+    "tema": "Análise Situacional",
+    "enunciado": "Como devem ser relacionadas as possibilidades inimigas ao término do processo analítico?",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Em ordem alfabética.",
+      "b": "Segundo uma ordem de probabilidade de adoção.",
+      "c": "Por tamanho da força empregada.",
+      "d": "De forma aleatória."
+    },
+    "resposta_correta": "b",
+    "justificativa": "A prioridade/probabilidade é o critério de encerramento (Página 25)."
+  },
+  {
+    "id": "48",
+    "tipo": "TIPO 1",
+    "tema": "Pasta de Alvos",
+    "enunciado": "O PMDI (Ponto Médio Desejado de Impacto) é uma informação encontrada na:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Pasta de Alvos.",
+      "b": "Mapa de Situação.",
+      "c": "Possibilidades do Inimigo.",
+      "d": "Guerra de Informação."
+    },
+    "resposta_correta": "a",
+    "justificativa": "PMDI é dado técnico para bombardeio/ataque (Página 27)."
+  },
+  {
+    "id": "49",
+    "tipo": "TIPO 1",
+    "tema": "SISBIN",
+    "enunciado": "O SISBIN tem a finalidade de integrar as ações de planejamento e execução da atividade de inteligência no país. Quem ele subsidia?",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "O Comandante da Aeronáutica.",
+      "b": "O Presidente da República.",
+      "c": "O Ministro da Defesa.",
+      "d": "O Chefe do Estado-Maior."
+    },
+    "resposta_correta": "b",
+    "justificativa": "O SISBIN serve diretamente à Presidência (Página 9)."
+  },
+  {
+    "id": "50",
+    "tipo": "TIPO 1",
+    "tema": "SINTAER",
+    "enunciado": "A finalidade do SINTAER é produzir conhecimentos necessários ao preparo e ao emprego da FAB, promovendo e mantendo a:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Paz mundial.",
+      "b": "Salvaguarda das fontes cujo sigilo seja de interesse da Força.",
+      "c": "Limpeza das bases aéreas.",
+      "d": "Arrecadação de impostos."
+    },
+    "resposta_correta": "b",
+    "justificativa": "A salvaguarda de fontes é missão crítica da inteligência aerospacial (Página 13)."
+  },
+  {
+    "id": "101",
+    "tipo": "TIPO 1",
+    "tema": "Conceitos de SR",
+    "enunciado": "Segundo a definição de sentido amplo apresentada no manual, qual ato cotidiano poderia ser classificado como sensoriamento remoto?",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "O simples ato de ler um texto.",
+      "b": "Caminhar em uma trilha.",
+      "c": "Escrever em um papel com caneta.",
+      "d": "Cortar um objeto com ferramenta de precisão."
+    },
+    "resposta_correta": "a",
+    "justificativa": "No sentido amplo, ler é SR pois os olhos (sensores) detectam a luz refletida sem contato físico (Página 7)."
+  },
+  {
+    "id": "102",
+    "tipo": "TIPO 1",
+    "tema": "Conceitos de SR",
+    "enunciado": "As definições de 'sentido restrito' de Sensoriamento Remoto focam exclusivamente em fenômenos relacionados à:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Energia acústica.",
+      "b": "Energia eletromagnética (REM).",
+      "c": "Forças sísmicas.",
+      "d": "Variações de pressão atmosférica."
+    },
+    "resposta_correta": "b",
+    "justificativa": "O sentido restrito limita o escopo à detecção e análise da REM (Página 7)."
+  },
+  {
+    "id": "103",
+    "tipo": "TIPO 1",
+    "tema": "Pilares do SR",
+    "enunciado": "Quais são os três elementos considerados como os 'Pilares do Sensoriamento Remoto', sem os quais a atividade seria impossível?",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Câmera, Satélite e Analista.",
+      "b": "Sensores, REM e Alvos.",
+      "c": "Luz Solar, Atmosfera e Lentes.",
+      "d": "Software, Computador e Operador."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Os sensores, a radiação e os alvos são os três pilares imprescindíveis (Página 8)."
+  },
+  {
+    "id": "104",
+    "tipo": "TIPO 1",
+    "tema": "Etapas do SR",
+    "enunciado": "A etapa do Sensoriamento Remoto que compreende a gravação dos dados coletados através do sensor, seja de modo analógico ou digital, é o:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Registro.",
+      "b": "Detecção.",
+      "c": "Análise.",
+      "d": "Processamento."
+    },
+    "resposta_correta": "a",
+    "justificativa": "O registro refere-se à gravação técnica dos dados (Página 9)."
+  },
+  {
+    "id": "105",
+    "tipo": "TIPO 1",
+    "tema": "REM",
+    "enunciado": "A Radiação Eletromagnética (REM) pode ser definida como uma onda formada pela oscilação de quais campos?",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Elétrico e Gravitacional.",
+      "b": "Elétrico e Magnético.",
+      "c": "Magnético e Acústico.",
+      "d": "Gravitacional e Quântico."
+    },
+    "resposta_correta": "b",
+    "justificativa": "A REM resulta da oscilação de campos elétrico e magnético perpendiculares entre si (Página 9)."
+  },
+  {
+    "id": "106",
+    "tipo": "TIPO 1",
+    "tema": "Atributos da REM",
+    "enunciado": "A distância entre dois picos ou vales sucessivos de uma mesma onda eletromagnética é denominada:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Frequência.",
+      "b": "Amplitude.",
+      "c": "Comprimento de onda (λ).",
+      "d": "Polarização."
+    },
+    "resposta_correta": "c",
+    "justificativa": "Definição técnica de comprimento de onda (Página 10)."
+  },
+  {
+    "id": "107",
+    "tipo": "TIPO 1",
+    "tema": "Atributos da REM",
+    "enunciado": "A relação entre a frequência (f) e o comprimento de onda (λ) na REM é caracterizada por serem grandezas:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Diretamente proporcionais.",
+      "b": "Inversamente proporcionais.",
+      "c": "Independentes entre si.",
+      "d": "Constantes em qualquer situação."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Quando a frequência aumenta, o comprimento de onda diminui proporcionalmente (Página 11)."
+  },
+  {
+    "id": "108",
+    "tipo": "TIPO 1",
+    "tema": "Atributos da REM",
+    "enunciado": "A intensidade de oscilação de uma onda, calculada pela distância do seu máximo afastamento em relação à posição de equilíbrio, é a:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Fase.",
+      "b": "Polarização.",
+      "c": "Amplitude.",
+      "d": "Velocidade."
+    },
+    "resposta_correta": "c",
+    "justificativa": "A amplitude mede a intensidade da oscilação (Página 11)."
+  },
+  {
+    "id": "109",
+    "tipo": "TIPO 1",
+    "tema": "Atributos da REM",
+    "enunciado": "A orientação do plano que contém os elementos do vetor amplitude do campo elétrico em relação ao plano de incidência define a:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Refração.",
+      "b": "Frequência.",
+      "c": "Polarização.",
+      "d": "Difração."
+    },
+    "resposta_correta": "c",
+    "justificativa": "A polarização refere-se à orientação do plano da onda (Página 11)."
+  },
+  {
+    "id": "110",
+    "tipo": "TIPO 1",
+    "tema": "Teoria da REM",
+    "enunciado": "Qual teoria afirma que a REM é composta por 'pacotes' de energia denominados fótons?",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Teoria Ondulatória.",
+      "b": "Teoria Quântica.",
+      "c": "Teoria Eletrostática.",
+      "d": "Teoria da Relatividade."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Segundo a teoria quântica, a REM é emitida em pulsos discretos chamados fótons ou quantas (Página 12)."
+  },
+  {
+    "id": "111",
+    "tipo": "TIPO 1",
+    "tema": "Fontes de REM",
+    "enunciado": "A origem da energia utilizada no Sensoriamento Remoto provém de apenas três fontes. Quais são elas?",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Sol, Laser e Radar.",
+      "b": "Sol, Sensores e Próprios Alvos.",
+      "c": "Atmosfera, Solo e Mar.",
+      "d": "Satélites, Aviões e Drones."
+    },
+    "resposta_correta": "b",
+    "justificativa": "O manual lista: Sol, sensores (artificiais) e os próprios alvos como fontes de REM (Página 12)."
+  },
+  {
+    "id": "112",
+    "tipo": "TIPO 1",
+    "tema": "Espectro REM",
+    "enunciado": "A organização da radiação eletromagnética em regiões delimitadas por intervalos de comprimento de onda ou frequência é chamada de:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Espectro Eletromagnético (EEM).",
+      "b": "Arco-íris Digital.",
+      "c": "Grade de Frequência.",
+      "d": "Matriz de Detecção."
+    },
+    "resposta_correta": "a",
+    "justificativa": "O EEM representa a organização sistêmica da REM (Página 13)."
+  },
+  {
+    "id": "113",
+    "tipo": "TIPO 1",
+    "tema": "Velocidade da REM",
+    "enunciado": "A velocidade da REM no vácuo é aproximadamente a mesma velocidade da luz, valendo cerca de:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "300.000 km/s.",
+      "b": "150.000 km/h.",
+      "c": "30.000 m/s.",
+      "d": "1.000.000 km/s."
+    },
+    "resposta_correta": "a",
+    "justificativa": "A velocidade é calculada como 3 x 10^8 m/s ou 300.000 km/s (Página 10)."
+  },
+  {
+    "id": "114",
+    "tipo": "TIPO 1",
+    "tema": "Unidades de Medida",
+    "enunciado": "Na medição do comprimento de onda (λ), a unidade equivalente a 10^-6 metros é denominada:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Nanômetro (nm).",
+      "b": "Micrômetro (μm).",
+      "c": "Milímetro (mm).",
+      "d": "Centímetro (cm)."
+    },
+    "resposta_correta": "b",
+    "justificativa": "1 μm = 10^-6 m (Página 10)."
+  },
+  {
+    "id": "115",
+    "tipo": "TIPO 1",
+    "tema": "Equação da REM",
+    "enunciado": "Na teoria quântica, a quantidade de energia (Q) de um pulso de REM é igual ao produto entre a sua frequência (f) e qual constante?",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Constante de Einstein.",
+      "b": "Constante de Planck (h).",
+      "c": "Constante de Newton.",
+      "d": "Constante de Gauss."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Q = f * h, onde h é a constante de Planck (Página 12)."
+  },
+  {
+    "id": "116",
+    "tipo": "TIPO 1",
+    "tema": "Radiação Solar",
+    "enunciado": "Dentre as fontes naturais, qual é a forma de energia mais abundante na atmosfera e na superfície da Terra?",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Energia térmica terrestre.",
+      "b": "REM emitida pelo Sol.",
+      "c": "Luz das estrelas.",
+      "d": "Radiação de fundo de micro-ondas."
+    },
+    "resposta_correta": "b",
+    "justificativa": "A REM solar é a fonte natural mais abundante (Página 13)."
+  },
+  {
+    "id": "117",
+    "tipo": "TIPO 1",
+    "tema": "Sensores Ativos",
+    "enunciado": "Sistemas capazes de emitir sua própria REM para iluminar o alvo, como o RADAR e o LIDAR, utilizam fontes:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Naturais.",
+      "b": "Artificiais.",
+      "c": "Passivas.",
+      "d": "Espontâneas."
+    },
+    "resposta_correta": "b",
+    "justificativa": "RADAR e LIDAR possuem fontes artificiais de REM (Página 13)."
+  },
+  {
+    "id": "118",
+    "tipo": "TIPO 1",
+    "tema": "Sensores Ativos",
+    "enunciado": "Uma vantagem crucial dos sensores dotados de fontes artificiais (ativos) é a capacidade de operar:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Apenas sob luz solar intensa.",
+      "b": "Durante a noite ou condições atmosféricas adversas.",
+      "c": "Somente no vácuo espacial.",
+      "d": "Sem necessidade de baterias ou energia."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Eles não dependem da luz solar, podendo operar 24h (Página 13)."
+  },
+  {
+    "id": "119",
+    "tipo": "TIPO 1",
+    "tema": "REM e Alvos",
+    "enunciado": "A energia emitida pelos próprios alvos, detectável por sensores de sensoriamento remoto, ocorre principalmente na faixa do:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Ultravioleta.",
+      "b": "Infravermelho termal.",
+      "c": "Raio-X.",
+      "d": "Luz visível azul."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Alvos emitem REM principalmente na faixa termal (Página 13)."
+  },
+  {
+    "id": "120",
+    "tipo": "TIPO 1",
+    "tema": "Histórico e Ciência",
+    "enunciado": "Embora seja uma ciência moderna, os fundamentos do Sensoriamento Remoto são oriundos de quais técnicas anteriores?",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Desenho técnico e pintura.",
+      "b": "Aerofotogrametria e fotointerpretação.",
+      "c": "Escultura e moldagem.",
+      "d": "Radiotransmissão apenas."
+    },
+    "resposta_correta": "b",
+    "justificativa": "O progresso do SR está ligado a estas técnicas clássicas (Página 7)."
+  },
+  {
+    "id": "121",
+    "tipo": "TIPO 1",
+    "tema": "DefiniçãoRestrita",
+    "enunciado": "A definição de sentido restrito de SR tenta reduzir o escopo para fenômenos relacionados exclusivamente à:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Luz visível apenas.",
+      "b": "Energia eletromagnética (REM).",
+      "c": "Calor superficial.",
+      "d": "Forma geométrica dos objetos."
+    },
+    "resposta_correta": "b",
+    "justificativa": "A REM é o único foco no sentido restrito (Página 7)."
+  },
+  {
+    "id": "122",
+    "tipo": "TIPO 1",
+    "tema": "Etapas do SR",
+    "enunciado": "Qual etapa do SR envolve a 'interpretação qualitativa' de todas as características do alvo sensoriado?",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Detecção.",
+      "b": "Registro.",
+      "c": "Análise.",
+      "d": "Aquisição."
+    },
+    "resposta_correta": "c",
+    "justificativa": "A análise é a fase de interpretação qualitativa (Página 9)."
+  },
+  {
+    "id": "123",
+    "tipo": "TIPO 1",
+    "tema": "Frequência",
+    "enunciado": "O número de ciclos completos em um intervalo de tempo (geralmente um segundo) define o conceito de:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Comprimento de onda.",
+      "b": "Frequência.",
+      "c": "Amplitude.",
+      "d": "Pico energético."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Definição de frequência, medida em Hertz (Página 10)."
+  },
+  {
+    "id": "124",
+    "tipo": "TIPO 1",
+    "tema": "Física da REM",
+    "enunciado": "Na equação v = λ * f, o que acontece com a frequência se o comprimento de onda for reduzido pela metade, mantendo a velocidade constante?",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "A frequência também cai pela metade.",
+      "b": "A frequência dobra de valor.",
+      "c": "A frequência permanece a mesma.",
+      "d": "A frequência anula-se."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Como são inversamente proporcionais, se λ diminui, f aumenta na mesma proporção (Página 11)."
+  },
+  {
+    "id": "125",
+    "tipo": "TIPO 1",
+    "tema": "Teoria Ondulatória",
+    "enunciado": "Fenômenos como difração e interferência da luz são melhor explicados por qual teoria da REM?",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Teoria Ondulatória.",
+      "b": "Teoria Quântica.",
+      "c": "Teoria Atômica.",
+      "d": "Teoria da Refração Pura."
+    },
+    "resposta_correta": "a",
+    "justificativa": "Difração e interferência são fenômenos clássicos da natureza ondulatória (Página 12)."
+  },
+  {
+    "id": "101",
+    "tipo": "TIPO 1",
+    "tema": "Classificação de Sensores - Fonte",
+    "enunciado": "Sensores que detectam apenas a energia emitida pelos alvos ou a energia refletida por fontes externas padrão são denominados:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Sensores Ativos.",
+      "b": "Sensores Passivos.",
+      "c": "Sensores de Micro-ondas.",
+      "d": "Sensores de Varredura Direta."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 25. Sensores passivos não possuem fonte própria e dependem da energia do alvo ou de fontes externas como o Sol."
+  },
+  {
+    "id": "102",
+    "tipo": "TIPO 2",
+    "tema": "Processo de Formação da Imagem",
+    "enunciado": "Sobre a classificação dos sensores imageadores quanto ao processo de aquisição, analise as assertivas abaixo:",
+    "itens": [
+      "I. No sensor de quadro, toda a área da imagem é adquirida de forma instantânea, como em fotografias.",
+      "II. O sensor de varredura forma a imagem pela justaposição de faixas imageadas de modo sucessivo.",
+      "III. Os imageadores de quadro são os mais comuns no Sensoriamento Remoto por exigirem poucos detectores."
+    ],
+    "comando": "Estão corretas apenas as assertivas:",
+    "alternativas": {
+      "a": "I e II.",
+      "b": "II e III.",
+      "c": "I e III.",
+      "d": "I, II e III."
+    },
+    "resposta_correta": "a",
+    "justificativa": "Página 27. A assertiva III está incorreta porque os imageadores de quadro exigem uma quantidade MUITO GRANDE de detectores, sendo por isso menos comuns que os de varredura."
+  },
+  {
+    "id": "103",
+    "tipo": "TIPO 4",
+    "tema": "Órbitas de Satélites",
+    "enunciado": "As órbitas _________ são aquelas em que o satélite se mantém fixo em relação a uma posição sobre a superfície terrestre, sendo comumente utilizadas por satélites de telecomunicações.",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Heliossíncronas",
+      "b": "Polares",
+      "c": "Geoestacionárias",
+      "d": "Elipticas"
+    },
+    "resposta_correta": "c",
+    "justificativa": "Página 33. Órbitas geoestacionárias possuem velocidade angular igual à da Terra, mantendo-se 'paradas' sobre um ponto."
+  },
+  {
+    "id": "104",
+    "tipo": "TIPO 3",
+    "tema": "Níveis de Aquisição",
+    "enunciado": "No que tange aos níveis de aquisição de dados, assinale a sequência correta de Verdadeiro (V) ou Falso (F):",
+    "itens": [
+      "( ) O nível campo é considerado menos complexo que o nível laboratório devido à interferência ambiental.",
+      "( ) O nível aeronave é adequado para monitorar áreas extensas de forma detalhada, apesar do alto custo.",
+      "( ) O nível orbital está sujeito a uma maior interferência das condições atmosféricas comparado ao nível aeronave."
+    ],
+    "comando": "A sequência correta é:",
+    "alternativas": {
+      "a": "V - F - V",
+      "b": "F - V - V",
+      "c": "F - V - F",
+      "d": "V - V - F"
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 30-32. O nível campo é MAIS complexo que o laboratório. O nível aeronave é detalhado e caro. O nível orbital percorre um caminho maior na atmosfera, sofrendo mais interferência."
+  },
+  {
+    "id": "105",
+    "tipo": "TIPO 1",
+    "tema": "Espectro Visível - Divisão",
+    "enunciado": "Para fins didáticos, o espectro visível é segmentado em três sub-regiões. Quais são os intervalos aproximados da banda VERDE?",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "400 nm a 500 nm.",
+      "b": "500 nm a 600 nm.",
+      "c": "600 nm a 700 nm.",
+      "d": "700 nm a 800 nm."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 34. Azul (400-500), Verde (500-600) e Vermelho (600-700)."
+  },
+  {
+    "id": "106",
+    "tipo": "TIPO 4",
+    "tema": "Interação REM-Atmosfera",
+    "enunciado": "Os intervalos de comprimento de onda para os quais a atmosfera é relativamente transparente, ocorrendo baixa atenuação da REM, são chamados de _________.",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Bandas de Absorção",
+      "b": "Janelas Atmosféricas",
+      "c": "Zonas de Difração",
+      "d": "Canais Visíveis"
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 34. Janelas atmosféricas permitem a passagem da REM com mínima interferência dos gases e aerossóis."
+  },
+  {
+    "id": "107",
+    "tipo": "TIPO 2",
+    "tema": "Classificação quanto ao Tipo de Dado",
+    "enunciado": "Sobre o tipo de dado gerado pelos sensores remotos, analise:",
+    "itens": [
+      "I. Sensores imageadores registram o resultado na forma de uma imagem bidimensional ou tridimensional.",
+      "II. Sensores não-imageadores apresentam dados na forma de valores numéricos, tabelas ou gráficos.",
+      "III. Um exemplo de sensor não-imageador é a câmera fotográfica digital."
+    ],
+    "comando": "Está(ão) correta(s) apenas:",
+    "alternativas": {
+      "a": "I.",
+      "b": "I e II.",
+      "c": "II e III.",
+      "d": "I, II e III."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 26. Câmeras digitais são sensores imageadores. A assertiva III está incorreta."
+  },
+  {
+    "id": "108",
+    "tipo": "TIPO 1",
+    "tema": "Plataformas de SR",
+    "enunciado": "Qual das funções abaixo NÃO é responsabilidade de uma plataforma de sensoriamento remoto?",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Suprimento de energia elétrica para o sensor.",
+      "b": "Transporte e posicionamento do sensor.",
+      "c": "Processamento qualitativo final dos dados coletados.",
+      "d": "Manutenção das condições de abrigo para os sistemas embarcados."
+    },
+    "resposta_correta": "c",
+    "justificativa": "Página 30. As plataformas são responsáveis por energia, transporte e posicionamento. O processamento é feito em unidades de processamento de dados."
+  },
+  {
+    "id": "109",
+    "tipo": "TIPO 4",
+    "tema": "Órbitas Heliossíncronas",
+    "enunciado": "As órbitas _________ cruzam o equador em uma nova região com o sol aproximadamente na mesma hora solar em cada passagem.",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Geoestacionárias",
+      "b": "Equatoriais",
+      "c": "Heliossíncronas",
+      "d": "De apogeu variável"
+    },
+    "resposta_correta": "c",
+    "justificativa": "Página 33. A órbita heliossíncrona mantém a mesma inclinação solar em relação ao nadir do satélite."
+  },
+  {
+    "id": "110",
+    "tipo": "TIPO 2",
+    "tema": "Sensores Ativos - Exemplos",
+    "enunciado": "Identifique os sistemas dotados de fontes artificiais de radiação (ativos):",
+    "itens": [
+      "I. RADAR (Radio Detection and Ranging).",
+      "II. LIDAR (Light Detection and Ranging).",
+      "III. Telescópio Óptico Passivo."
+    ],
+    "comando": "Assinale a alternativa correta:",
+    "alternativas": {
+      "a": "Apenas I.",
+      "b": "I e II.",
+      "c": "II e III.",
+      "d": "I, II e III."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 13/25. RADAR e LIDAR emitem seu próprio sinal. Telescópios ópticos (sem laser) são passivos."
+  },
+  {
+    "id": "111",
+    "tipo": "TIPO 1",
+    "tema": "Espalhamento Rayleigh",
+    "enunciado": "O espalhamento que ocorre quando o diâmetro das moléculas é significativamente MENOR que o comprimento de onda da radiação, originando a cor azulada do céu, é o:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Espalhamento Mie.",
+      "b": "Espalhamento Rayleigh.",
+      "c": "Espalhamento Não-Seletivo.",
+      "d": "Espalhamento de Difração."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 20. Rayleigh ocorre com moléculas pequenas e afeta mais comprimentos curtos (azul)."
+  },
+  {
+    "id": "112",
+    "tipo": "TIPO 3",
+    "tema": "Processos de Interação",
+    "enunciado": "Sobre a interação da REM com a matéria, julgue os itens (V ou F):",
+    "itens": [
+      "( ) Na reflexão, a REM é redirecionada para o meio de origem.",
+      "( ) Na refração, a REM desvia sua trajetória ao atravessar de um meio para o outro.",
+      "( ) A soma dos processos de absorção e espalhamento é chamada de atenuação."
+    ],
+    "comando": "A sequência é:",
+    "alternativas": {
+      "a": "V - V - V",
+      "b": "V - F - V",
+      "c": "F - V - V",
+      "d": "V - V - F"
+    },
+    "resposta_correta": "a",
+    "justificativa": "Página 18-22. Todas as definições estão rigorosamente conforme o MCA."
+  },
+  {
+    "id": "113",
+    "tipo": "TIPO 1",
+    "tema": "Reflexão Especular",
+    "enunciado": "A reflexão que ocorre quando o tamanho das irregularidades da superfície é DESPREZÍVEL em relação ao comprimento de onda (superfície lisa) é classificada como:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Difusa.",
+      "b": "Lambertiana.",
+      "c": "Especular.",
+      "d": "Aleatória."
+    },
+    "resposta_correta": "c",
+    "justificativa": "Página 18. Reflexão especular mantém o paralelismo dos feixes incidentes."
+  },
+  {
+    "id": "114",
+    "tipo": "TIPO 4",
+    "tema": "Absorção Seletiva",
+    "enunciado": "Na atmosfera, a radiação _________ (30 nm a 400 nm) é absorvida quase totalmente pelas moléculas de ozônio (O3).",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Infravermelha",
+      "b": "Micro-ondas",
+      "c": "Ultravioleta",
+      "d": "Visível"
+    },
+    "resposta_correta": "c",
+    "justificativa": "Página 21. O ozônio funciona como escudo para a radiação UV."
+  },
+  {
+    "id": "115",
+    "tipo": "TIPO 1",
+    "tema": "Emissão de Radiação",
+    "enunciado": "Todo alvo acima de qual temperatura emite radiação eletromagnética?",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "100° C.",
+      "b": "Zero absoluto (0 K).",
+      "c": "0° C.",
+      "d": "Ponto de ebulição da água."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 23. A emissão térmica ocorre em qualquer corpo acima do zero absoluto."
+  },
+  {
+    "id": "116",
+    "tipo": "TIPO 2",
+    "tema": "Atributos da REM",
+    "enunciado": "Analise as afirmações sobre os atributos da onda eletromagnética:",
+    "itens": [
+      "I. Frequência é o número de ciclos completos em um segundo.",
+      "II. Amplitude é a intensidade de oscilação da onda.",
+      "III. A velocidade da REM é variável dependendo da sua frequência no vácuo."
+    ],
+    "comando": "Está(ão) correta(s):",
+    "alternativas": {
+      "a": "I apenas.",
+      "b": "I e II.",
+      "c": "II e III.",
+      "d": "I, II e III."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 10. A velocidade da REM no vácuo é constante (~300.000 km/s) para todas as frequências."
+  },
+  {
+    "id": "117",
+    "tipo": "TIPO 1",
+    "tema": "Espalhamento Não-Seletivo",
+    "enunciado": "O espalhamento responsável pela coloração BRANCA das nuvens, por afetar uma extensa faixa de comprimentos de onda, é o:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Rayleigh.",
+      "b": "Mie.",
+      "c": "Não-seletivo.",
+      "d": "Atômico."
+    },
+    "resposta_correta": "c",
+    "justificativa": "Página 20. O espalhamento não-seletivo ocorre com partículas maiores que o comprimento da onda (como gotas d'água)."
+  },
+  {
+    "id": "118",
+    "tipo": "TIPO 4",
+    "tema": "Refração",
+    "enunciado": "Na refração, o desvio realizado pela onda eletromagnética é _________ ao seu comprimento de onda.",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Diretamente proporcional",
+      "b": "Inversamente proporcional",
+      "c": "Igual",
+      "d": "Nulo"
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 19. Ondas de menor λ (azul) sofrem MAIOR desvio que ondas de maior λ (vermelho)."
+  },
+  {
+    "id": "119",
+    "tipo": "TIPO 2",
+    "tema": "Sensores de Micro-ondas",
+    "enunciado": "Considere as características dos sensores de micro-ondas. Analise:",
+    "itens": [
+      "I. Utilizam antenas para a detecção da REM.",
+      "II. Operam em comprimentos de onda longos (1 mm a 1 m).",
+      "III. São fortemente afetados pela cobertura de nuvens."
+    ],
+    "comando": "Está correto apenas o que se afirma em:",
+    "alternativas": {
+      "a": "I.",
+      "b": "I e II.",
+      "c": "II e III.",
+      "d": "I, II e III."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 26. Os sensores de micro-ondas (como RADAR) NÃO são afetados pelas nuvens, sendo esta sua principal vantagem."
+  },
+  {
+    "id": "120",
+    "tipo": "TIPO 1",
+    "tema": "Nível Laboratório",
+    "enunciado": "Qual nível de aquisição permite conhecer de maneira mais PRECISA como ocorrem as interações da REM com a matéria por quase não sofrer interferência ambiental?",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Nível Campo.",
+      "b": "Nível Aeronave.",
+      "c": "Nível Laboratório.",
+      "d": "Nível Orbital."
+    },
+    "resposta_correta": "c",
+    "justificativa": "Página 30. O laboratório oferece ambiente controlado e livre de variáveis atmosféricas."
+  },
+  {
+    "id": "121",
+    "tipo": "TIPO 4",
+    "tema": "Sensores Digitais",
+    "enunciado": "Sensores _________ armazenam dados discretos (descontínuos) através do uso de aproximações e empregam lógica binária.",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Analógicos",
+      "b": "Ópticos",
+      "c": "Digitais",
+      "d": "Polares"
+    },
+    "resposta_correta": "c",
+    "justificativa": "Página 28. Definição de sensores digitais e uso de bits (0 e 1)."
+  },
+  {
+    "id": "122",
+    "tipo": "TIPO 3",
+    "tema": "Processos de Varredura",
+    "enunciado": "Julgue as técnicas de varredura (V ou F):",
+    "itens": [
+      "( ) 'Pushbroom scanning' é a varredura paralela ao deslocamento.",
+      "( ) 'Whiskbroom scanning' utiliza varredura transversal em linhas paralelas.",
+      "( ) 'Line scanning' é a varredura transversal em uma única linha."
+    ],
+    "comando": "Sequência correta:",
+    "alternativas": {
+      "a": "V - V - V",
+      "b": "F - V - V",
+      "c": "V - F - V",
+      "d": "V - V - F"
+    },
+    "resposta_correta": "a",
+    "justificativa": "Página 28. Todas as definições de varredura de sensores de quadro/varredura estão corretas."
+  },
+  {
+    "id": "123",
+    "tipo": "TIPO 1",
+    "tema": "Mídias de Gravação",
+    "enunciado": "Qual dessas mídias é tipicamente utilizada por sensores ANALÓGICOS?",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Memória de estado sólido.",
+      "b": "Disco Rígido (HD).",
+      "c": "Filme fotográfico.",
+      "d": "Pendrive."
+    },
+    "resposta_correta": "c",
+    "justificativa": "Página 28. O filme fotográfico é a mídia analógica por excelência no SR."
+  },
+  {
+    "id": "124",
+    "tipo": "TIPO 2",
+    "tema": "Atributos da REM - Polarização",
+    "enunciado": "Sobre a polarização da REM, analise as assertivas:",
+    "itens": [
+      "I. É dada pela orientação do plano que contém o vetor amplitude do campo elétrico.",
+      "II. Sensores de micro-ondas não podem utilizar a polarização no imageamento.",
+      "III. A polarização pode ser horizontal ou vertical."
+    ],
+    "comando": "Corretas:",
+    "alternativas": {
+      "a": "I e II.",
+      "b": "I e III.",
+      "c": "II e III.",
+      "d": "I, II e III."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 11. Sensores de radar utilizam extensivamente a polarização (H e V) para diferenciar alvos."
+  },
+  {
+    "id": "125",
+    "tipo": "TIPO 1",
+    "tema": "Pilares do SR - REM",
+    "enunciado": "Qual pilar do Sensoriamento Remoto atua como MEIO pelo qual os dados são transmitidos do alvo ao sensor?",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Os Alvos.",
+      "b": "A Radiação Eletromagnética (REM).",
+      "c": "O Processador de Imagem.",
+      "d": "O Satélite."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 8. A REM é o veículo de transporte da informação sem contato físico."
+  },
+  {
+    "id": "126",
+    "tipo": "TIPO 1",
+    "tema": "Teoria Quântica",
+    "enunciado": "Segundo a teoria quântica, a quantidade de energia (Q) de um fóton é maior se sua frequência for:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Mais alta.",
+      "b": "Mais baixa.",
+      "c": "Igual a zero.",
+      "d": "Constante."
+    },
+    "resposta_correta": "a",
+    "justificativa": "Página 12. Q = f * h. Relação direta entre energia e frequência."
+  },
+  {
+    "id": "127",
+    "tipo": "TIPO 4",
+    "tema": "Velocidade da Luz",
+    "enunciado": "No Sensoriamento Remoto, a velocidade da REM é considerada constante, valendo aproximadamente _________.",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "300.000 m/s.",
+      "b": "3 x 10^8 m/s.",
+      "c": "30.000 km/h.",
+      "d": "3.000.000 m/s."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 10. Valor padrão da velocidade da luz no vácuo."
+  },
+  {
+    "id": "128",
+    "tipo": "TIPO 2",
+    "tema": "Espectro Eletromagnético",
+    "enunciado": "Ordene as regiões do espectro da MENOR frequência para a MAIOR frequência:",
+    "itens": [
+      "I. Micro-ondas.",
+      "II. Luz Visível.",
+      "III. Infravermelho."
+    ],
+    "comando": "A ordem correta do aumento de frequência é:",
+    "alternativas": {
+      "a": "I - II - III.",
+      "b": "I - III - II.",
+      "c": "II - III - I.",
+      "d": "III - I - II."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 13. Micro-ondas (λ longo = f baixa) < Infravermelho < Visível (λ curto = f alta)."
+  },
+  {
+    "id": "129",
+    "tipo": "TIPO 1",
+    "tema": "Fontes de Energia",
+    "enunciado": "Um sensor de imagem térmica que detecta o calor emitido por um motor de aeronave está utilizando qual fonte de energia?",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Fonte Solar.",
+      "b": "O próprio alvo.",
+      "c": "Fonte Artificial do Sensor.",
+      "d": "Reflexão Atmosférica."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 12. Corpos aquecidos emitem sua própria radiação térmica."
+  },
+  {
+    "id": "130",
+    "tipo": "TIPO 3",
+    "tema": "Classificação de Sensores",
+    "enunciado": "Identifique a veracidade (V ou F) sobre a dependência da fonte:",
+    "itens": [
+      "( ) Câmeras fotográficas com flash podem ser consideradas sensores ativos.",
+      "( ) Sensores térmicos são sempre ativos por gerarem calor.",
+      "( ) Radares são o exemplo clássico de sensores ativos."
+    ],
+    "comando": "Sequência:",
+    "alternativas": {
+      "a": "V - F - V",
+      "b": "V - V - V",
+      "c": "F - F - V",
+      "d": "V - F - F"
+    },
+    "resposta_correta": "a",
+    "justificativa": "Página 25. O flash é uma fonte artificial (ativo). Sensores térmicos captam a emissão do alvo (passivos)."
+  },
+  {
+    "id": "131",
+    "tipo": "TIPO 1",
+    "tema": "Sensores Ópticos",
+    "enunciado": "Sensores ópticos que empregam lentes e prismas operam comumente na região espectral entre:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "0,01 nm e 30 nm.",
+      "b": "0,30 μm e 15 μm.",
+      "c": "1 mm e 1 m.",
+      "d": "100 m e 10 km."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 25. Faixa óptica do espectro (UV, Visível e Infravermelho)."
+  },
+  {
+    "id": "132",
+    "tipo": "TIPO 4",
+    "tema": "Aquisição de Dados",
+    "enunciado": "Imageadores de _________ são menos vulneráveis às oscilações da plataforma devido ao imageamento instantâneo.",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Varredura",
+      "b": "Quadro",
+      "c": "Satélite",
+      "d": "Micro-ondas"
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 27. O sensor de quadro captura tudo de uma vez, reduzindo distorções de movimento."
+  },
+  {
+    "id": "133",
+    "tipo": "TIPO 1",
+    "tema": "Conceitos Fundamentais",
+    "enunciado": "A ciência e a arte de obter informações sem contato físico é a definição de Sensoriamento Remoto em sentido:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Restrito.",
+      "b": "Amplo.",
+      "c": "Técnico.",
+      "d": "Militar."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 7. Definição abrangente que inclui até a visão humana."
+  },
+  {
+    "id": "134",
+    "tipo": "TIPO 2",
+    "tema": "Atmosfera e Janelas",
+    "enunciado": "Sobre a atenuação da REM pela atmosfera, analise:",
+    "itens": [
+      "I. A atenuação é causada pelos processos de absorção e espalhamento.",
+      "II. O vapor d'água é um grande agente de absorção no infravermelho.",
+      "III. As janelas atmosféricas são regiões de atenuação máxima."
+    ],
+    "comando": "Corretas:",
+    "alternativas": {
+      "a": "I apenas.",
+      "b": "I e II.",
+      "c": "II e III.",
+      "d": "I, II e III."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 34. Janelas atmosféricas são as regiões de atenuação MÍNIMA (transparência)."
+  },
+  {
+    "id": "135",
+    "tipo": "TIPO 1",
+    "tema": "Infravermelho Próximo",
+    "enunciado": "Qual região do infravermelho é comumente empregada em conjunto com o espectro visível para estudos de vegetação?",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Infravermelho Termal.",
+      "b": "Infravermelho Distante.",
+      "c": "Infravermelho Próximo.",
+      "d": "Infravermelho Médio."
+    },
+    "resposta_correta": "c",
+    "justificativa": "Página 15. O IR próximo (0,7 - 1,3 μm) é vizinho ao vermelho visível e muito usado em agro/bio."
+  },
+  {
+    "id": "136",
+    "tipo": "TIPO 3",
+    "tema": "Plataformas Orbitais",
+    "enunciado": "Julgue os itens sobre o nível orbital (V ou F):",
+    "itens": [
+      "( ) Indicado para monitoramento periódico de grandes áreas.",
+      "( ) Não possui problemas com mudanças de atitude da plataforma.",
+      "( ) Permite imagens com detalhes de pronto resposta melhores que aeronaves."
+    ],
+    "comando": "Sequência:",
+    "alternativas": {
+      "a": "V - F - F",
+      "b": "V - V - F",
+      "c": "F - F - V",
+      "d": "V - F - V"
+    },
+    "resposta_correta": "a",
+    "justificativa": "Página 32. Orbitais têm menor pronto resposta e menor detalhamento que aeronaves."
+  },
+  {
+    "id": "137",
+    "tipo": "TIPO 1",
+    "tema": "Sensores de Varredura",
+    "enunciado": "O 'Pushbroom scanning' é caracterizado por uma varredura:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Transversal à trajetória.",
+      "b": "Paralela ao deslocamento da plataforma.",
+      "c": "Por rotação de espelhos.",
+      "d": "Circular."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 28. É o 'pente' de detectores que varre longitudinalmente."
+  },
+  {
+    "id": "138",
+    "tipo": "TIPO 4",
+    "tema": "Absorção Seletiva",
+    "enunciado": "A _________ é o processo através do qual a energia é convertida em calor por substâncias na atmosfera ou superfície.",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Reflexão",
+      "b": "Absorção",
+      "c": "Difração",
+      "d": "Propagação"
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 21. Definição termodinâmica de absorção seletiva."
+  },
+  {
+    "id": "139",
+    "tipo": "TIPO 1",
+    "tema": "Unidades Espectrais",
+    "enunciado": "O intervalo visível situa-se aproximadamente entre:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "0,4 nm e 0,7 nm.",
+      "b": "400 nm e 700 nm.",
+      "c": "40 μm e 70 μm.",
+      "d": "4 m e 10 m."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 34. Unidade padrão para luz visível é o nanômetro."
+  },
+  {
+    "id": "140",
+    "tipo": "TIPO 2",
+    "tema": "Classificação de Órbitas",
+    "enunciado": "Sobre órbitas satelitais, analise:",
+    "itens": [
+      "I. Satélites meteorológicos comumente usam órbitas geoestacionárias.",
+      "II. Satélites de observação da terra preferem órbitas heliossíncronas polares.",
+      "III. A órbita heliossíncrona mantém o satélite sempre sobre o mesmo país."
+    ],
+    "comando": "Está correto:",
+    "alternativas": {
+      "a": "I e II.",
+      "b": "I e III.",
+      "c": "II e III.",
+      "d": "I, II e III."
+    },
+    "resposta_correta": "a",
+    "justificativa": "Página 33. Quem mantém posição fixa é a geoestacionária. A heliossíncrona percorre o globo."
+  },
+  {
+    "id": "141",
+    "tipo": "TIPO 1",
+    "tema": "Criptografia e Canais",
+    "enunciado": "O canal visível que apresenta a maior iluminação solar e é o mais amplamente disponível para os sensores é o:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Azul.",
+      "b": "Verde.",
+      "c": "Vermelho.",
+      "d": "Espectro Visível como um todo."
+    },
+    "resposta_correta": "d",
+    "justificativa": "Página 34. O espectro visível é a região de maior energia solar incidente na Terra."
+  },
+  {
+    "id": "142",
+    "tipo": "TIPO 4",
+    "tema": "Detecção de REM",
+    "enunciado": "A etapa de _________ visa à captação, através do sensor, da energia radiante proveniente do alvo.",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Registro",
+      "b": "Análise",
+      "c": "Detecção",
+      "d": "Transmissão"
+    },
+    "resposta_correta": "c",
+    "justificativa": "Página 9. Primeira sub-etapa da aquisição técnica."
+  },
+  {
+    "id": "143",
+    "tipo": "TIPO 1",
+    "tema": "Micro-ondas e Clima",
+    "enunciado": "Qual a principal vantagem da faixa de micro-ondas para aplicações florestais e nos polos?",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Capacidade de ver cores reais.",
+      "b": "Independência de condições meteorológicas e iluminação.",
+      "c": "Custo extremamente baixo de processamento.",
+      "d": "Resolução óptica superior ao visível."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 16. Micro-ondas atravessam nuvens e não dependem do Sol."
+  },
+  {
+    "id": "144",
+    "tipo": "TIPO 2",
+    "tema": "Interação com Alvos",
+    "enunciado": "Pelo princípio da conservação da energia, a soma de quais fluxos é igual ao fluxo incidente?",
+    "itens": [
+      "I. Refletido (Φr).",
+      "II. Absorvido (Φa).",
+      "III. Transmitido (Φt)."
+    ],
+    "comando": "Assinale a correta:",
+    "alternativas": {
+      "a": "I e II apenas.",
+      "b": "I e III apenas.",
+      "c": "II e III apenas.",
+      "d": "I, II e III."
+    },
+    "resposta_correta": "d",
+    "justificativa": "Página 18. Equação Fundamental: Φi = Φr + Φa + Φt."
+  },
+  {
+    "id": "145",
+    "tipo": "TIPO 1",
+    "tema": "Reflectância",
+    "enunciado": "A razão entre o fluxo de energia refletido e o fluxo incidente define a grandeza radiométrica denominada:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Absortância.",
+      "b": "Transmitância.",
+      "c": "Reflectância (ρ).",
+      "d": "Albedo Quântico."
+    },
+    "resposta_correta": "c",
+    "justificativa": "Página 18. Definição técnica de reflectância."
+  },
+  {
+    "id": "146",
+    "tipo": "TIPO 4",
+    "tema": "Interação Atmosférica",
+    "enunciado": "O espalhamento _________ afeta intensamente a radiação visível, reduzindo severamente o contraste da imagem.",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Nulo",
+      "b": "Aleatório",
+      "c": "Mie",
+      "d": "Selectivo"
+    },
+    "resposta_correta": "c",
+    "justificativa": "Página 21. O espalhamento Mie (aerossóis) degrada a qualidade visual das imagens."
+  },
+  {
+    "id": "147",
+    "tipo": "TIPO 1",
+    "tema": "Infravermelho Termal",
+    "enunciado": "Qual região do infravermelho é fundamental em aplicações relacionadas à temperatura de alvos?",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Infravermelho Próximo.",
+      "b": "Infravermelho Termal.",
+      "c": "Infravermelho Azul.",
+      "d": "Infravermelho Solar."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 15. O termal capta a emissão de calor."
+  },
+  {
+    "id": "148",
+    "tipo": "TIPO 2",
+    "tema": "Sensores e Sinais",
+    "enunciado": "Sobre o modo de gravação de dados, analise:",
+    "itens": [
+      "I. Sensores analógicos armazenam sinais contínuos.",
+      "II. Sensores digitais armazenam sinais discretos.",
+      "III. Fitas magnéticas podem ser usadas apenas por sensores digitais."
+    ],
+    "comando": "Está correto:",
+    "alternativas": {
+      "a": "I e II.",
+      "b": "I e III.",
+      "c": "II e III.",
+      "d": "I, II e III."
+    },
+    "resposta_correta": "a",
+    "justificativa": "Página 28. Fitas magnéticas podem ser empregadas por AMBOS os tipos de sensores."
+  },
+  {
+    "id": "149",
+    "tipo": "TIPO 1",
+    "tema": "Atributos da REM - Amplitude",
+    "enunciado": "O máximo afastamento de uma onda em relação à sua posição de equilíbrio é a:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Frequência.",
+      "b": "Comprimento.",
+      "c": "Amplitude.",
+      "d": "Velocidade de escape."
+    },
+    "resposta_correta": "c",
+    "justificativa": "Página 11. Definição geométrica da amplitude da onda."
+  },
+  {
+    "id": "150",
+    "tipo": "TIPO 3",
+    "tema": "Órbita Heliossíncrona",
+    "enunciado": "Julgue a veracidade (V ou F) sobre órbitas heliossíncronas:",
+    "itens": [
+      "( ) Passam aproximadamente sobre os polos.",
+      "( ) Mantêm sempre o mesmo plano enquanto a Terra gira.",
+      "( ) São comuns em satélites de observação da Terra."
+    ],
+    "comando": "A sequência é:",
+    "alternativas": {
+      "a": "V - V - V",
+      "b": "V - F - V",
+      "c": "F - V - V",
+      "d": "V - V - F"
+    },
+    "resposta_correta": "a",
+    "justificativa": "Página 33. Definição completa e precisa do MCA sobre órbitas heliossíncronas."
+  },
+  {
+    "id": "151",
+    "tipo": "TIPO 1",
+    "tema": "Constituintes Atmosféricos - Absorção",
+    "enunciado": "Qual constituinte atmosférico é responsável pela absorção da maior parte da radiação ultravioleta (UV), protegendo a superfície terrestre?",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Vapor d'água (H2O).",
+      "b": "Dióxido de Carbono (CO2).",
+      "c": "Ozônio (O3).",
+      "d": "Nitrogênio (N2)."
+    },
+    "resposta_correta": "c",
+    "justificativa": "Página 35. O ozônio absorve a maior parte da radiação ultravioleta."
+  },
+  {
+    "id": "152",
+    "tipo": "TIPO 1",
+    "tema": "Janelas Atmosféricas",
+    "enunciado": "Os sensores remotos são construídos para operar em intervalos onde a atenuação atmosférica é mínima. Esses intervalos são chamados de:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Bandas de Absorção.",
+      "b": "Janelas Atmosféricas.",
+      "c": "Canais de Espalhamento.",
+      "d": "Zonas de Transição."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 35. As janelas atmosféricas permitem a passagem da REM com pouca interferência dos gases."
+  },
+  {
+    "id": "153",
+    "tipo": "TIPO 4",
+    "tema": "Janela do Visível",
+    "enunciado": "A janela do visível no espectro eletromagnético abrange o intervalo de comprimentos de onda de _________ a _________.",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "0,1 nm a 10 nm.",
+      "b": "0,4 μm a 0,7 μm.",
+      "c": "3 μm a 5 μm.",
+      "d": "8 μm a 14 μm."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 35. Valor padrão para a região do visível (0,4 a 0,7 micrômetros)."
+  },
+  {
+    "id": "154",
+    "tipo": "TIPO 1",
+    "tema": "Janela do FLIR",
+    "enunciado": "A janela do FLIR (Forward Looking Infrared), situada entre 3 μm e 5 μm, é especialmente adequada para a detecção de:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Crescimento de colheitas.",
+      "b": "Fontes de calor intenso, como turbinas de aeronaves.",
+      "c": "Umidade do solo.",
+      "d": "Concentração de clorofila na água."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 35. Esta região de infravermelho médio detecta altas temperaturas."
+  },
+  {
+    "id": "155",
+    "tipo": "TIPO 1",
+    "tema": "Sensores Eletro-ópticos",
+    "enunciado": "O conceito de sensores eletro-ópticos está mais comumente associado a sistemas que operam em qual região do EEM?",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Micro-ondas.",
+      "b": "Região refletida (Visível e Infravermelho Próximo).",
+      "c": "Raios X.",
+      "d": "Ondas de Rádio."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 36. Operam na região refletida, predominantemente no visível."
+  },
+  {
+    "id": "156",
+    "tipo": "TIPO 2",
+    "tema": "Subsistemas de Sensores Eletro-ópticos",
+    "enunciado": "A constituição básica de um sensor eletro-óptico compreende quatro subsistemas principais. Analise as assertivas:",
+    "itens": [
+      "I. O subsistema Óptico é responsável pelas propriedades espaciais e espectrais do sensor.",
+      "II. O subsistema de Detecção realiza a conversão do fluxo radiante em sinal elétrico.",
+      "III. O subsistema de Condicionamento do sinal realiza a quantização imediata em níveis digitais."
+    ],
+    "comando": "Assinale a alternativa correta:",
+    "alternativas": {
+      "a": "I e II apenas.",
+      "b": "I e III apenas.",
+      "c": "II e III apenas.",
+      "d": "I, II e III."
+    },
+    "resposta_correta": "a",
+    "justificativa": "Página 37. A quantização (A/D) ocorre no subsistema de Saída e Visualização, não no condicionamento primário (a III está incorreta)."
+  },
+  {
+    "id": "157",
+    "tipo": "TIPO 1",
+    "tema": "Sensores Eletro-ópticos - Detectores",
+    "enunciado": "Quais são os principais tipos de detectores responsáveis pela conversão de luz em eletricidade nos sensores eletro-ópticos modernos?",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Válvulas Termiônicas.",
+      "b": "CCD e CMOS.",
+      "c": "Transistores de Germânio.",
+      "d": "Tubos de Raios Catódicos."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 37. Charge-Coupled Device (CCD) e Complementary Metal-Oxide-Semiconductor (CMOS)."
+  },
+  {
+    "id": "158",
+    "tipo": "TIPO 4",
+    "tema": "Quantização",
+    "enunciado": "No processo de quantização, o sinal analógico é transformado em níveis digitais discretos chamados de _________.",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Valores Reais",
+      "b": "Números Digitais (ND)",
+      "c": "Bitrates",
+      "d": "Fluxos Elétricos"
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 38. O ND representa a radiância da cena em uma escala numérica."
+  },
+  {
+    "id": "159",
+    "tipo": "TIPO 1",
+    "tema": "Infravermelho - Sub-regiões",
+    "enunciado": "A região do infravermelho próximo (IVP) no Sensoriamento Remoto situa-se no intervalo de:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "0,4 μm a 0,7 μm.",
+      "b": "0,7 μm a 3,0 μm.",
+      "c": "3,0 μm a 20,0 μm.",
+      "d": "20,0 μm a 1.000 μm."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 38. O infravermelho próximo inicia logo após o limite superior do visível (0,7 microns)."
+  },
+  {
+    "id": "160",
+    "tipo": "TIPO 1",
+    "tema": "Infravermelho Próximo - Interação",
+    "enunciado": "Qual a principal característica da interação da REM com a matéria na sub-região do infravermelho próximo (IVP)?",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "A energia é essencialmente emitida pelos alvos.",
+      "b": "A energia atinge o sensor após ser refletida pela superfície do alvo (como no visível).",
+      "c": "A atmosfera é totalmente opaca nesta região.",
+      "d": "Ocorre forte espalhamento Rayleigh."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 38. O IVP comporta-se de modo semelhante ao visível, dependendo da reflexão da luz solar."
+  },
+  {
+    "id": "161",
+    "tipo": "TIPO 4",
+    "tema": "Transmitância Atmosférica",
+    "enunciado": "O infravermelho próximo possui uma maior _________ atmosférica, sendo menos suscetível ao espalhamento Rayleigh que o visível.",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Refletância",
+      "b": "Transmitância",
+      "c": "Absorção",
+      "d": "Difração"
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 39. Quanto maior o comprimento de onda, menor a influência do espalhamento atmosférico gasoso."
+  },
+  {
+    "id": "162",
+    "tipo": "TIPO 1",
+    "tema": "Infravermelho Distante",
+    "enunciado": "Por que o emprego do infravermelho distante (20 a 1.000 μm) é limitado em Sensoriamento Remoto orbital?",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Devido à ausência de alvos térmicos.",
+      "b": "Devido à intensa atenuação atmosférica causada por bandas de absorção constituintes.",
+      "c": "Porque a velocidade da luz é menor nesta faixa.",
+      "d": "Porque os detectores CCD não suportam o calor."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 39. A atmosfera é quase opaca nesta região, impedindo o imageamento orbital."
+  },
+  {
+    "id": "163",
+    "tipo": "TIPO 1",
+    "tema": "Infravermelho Termal - Fonte",
+    "enunciado": "No Sensoriamento Remoto termal (acima de 3 μm), a energia detectada é predominantemente:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Refletida pelo solo.",
+      "b": "Emitida pelos próprios alvos terrestres.",
+      "c": "Transmitida pelo núcleo da Terra.",
+      "d": "Espalhada pela ionosfera."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 40. O alvo atua como fonte de REM devido à sua temperatura própria."
+  },
+  {
+    "id": "164",
+    "tipo": "TIPO 3",
+    "tema": "Infravermelho Termal - Janelas",
+    "enunciado": "Sobre o Sensoriamento Remoto Termal, julgue (V ou F):",
+    "itens": [
+      "( ) Opera em duas janelas principais: 3-5 μm e 8-14 μm.",
+      "( ) Na janela de 3-5 μm, ainda há influência da energia solar refletida.",
+      "( ) Na janela de 8-14 μm, a influência solar é desprezível."
+    ],
+    "comando": "A sequência está correta em:",
+    "alternativas": {
+      "a": "V - V - V",
+      "b": "V - F - V",
+      "c": "F - V - V",
+      "d": "V - V - F"
+    },
+    "resposta_correta": "a",
+    "justificativa": "Página 40. Descrição precisa do comportamento das janelas térmicas sob luz solar."
+  },
+  {
+    "id": "165",
+    "tipo": "TIPO 1",
+    "tema": "Infravermelho Termal - Aplicação",
+    "enunciado": "Uma vantagem exclusiva do Sensoriamento Remoto no infravermelho termal em relação ao visível é:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Obter mais cores da vegetação.",
+      "b": "Independer da iluminação solar para imageamento (uso noturno).",
+      "c": "Visualizar através de nuvens espessas.",
+      "d": "Cálculo do PIB por radiação."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 40. Como os alvos emitem a própria energia, o sensor pode operar em total escuridão."
+  },
+  {
+    "id": "166",
+    "tipo": "TIPO 4",
+    "tema": "Sensores Eletro-ópticos - Óptico",
+    "enunciado": "O subsistema _________ é o responsável pela distribuição de energia em função do comprimento de onda (propriedade espectral).",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "De Detecção",
+      "b": "Óptico",
+      "c": "De Condicionamento",
+      "d": "De Saída"
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 37. O subsistema óptico inclui filtros e elementos de dispersão que selecionam as bandas espectrais."
+  },
+  {
+    "id": "167",
+    "tipo": "TIPO 1",
+    "tema": "Conversor A/D",
+    "enunciado": "Em qual estágio do sensor eletro-óptico ocorre a conversão do sinal analógico para digital?",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Subsistema de Detecção.",
+      "b": "Subsistema de Saída e Visualização.",
+      "c": "Subsistema Óptico.",
+      "d": "Antena de Transmissão."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 37. O conversor A/D finaliza o processamento preparando o dado para transmissão/armazenamento."
+  },
+  {
+    "id": "168",
+    "tipo": "TIPO 2",
+    "tema": "Ozônio e Vapor d'Água",
+    "enunciado": "Sobre a absorção atmosférica, analise:",
+    "itens": [
+      "I. O vapor d'água possui extensas bandas de absorção no infravermelho.",
+      "II. O ozônio absorve radiação em comprimentos de onda curtos (UV).",
+      "III. O nitrogênio é o principal gás absorvedor de energia termal."
+    ],
+    "comando": "Está correto:",
+    "alternativas": {
+      "a": "I e II apenas.",
+      "b": "I e III apenas.",
+      "c": "II e III apenas.",
+      "d": "I, II e III."
+    },
+    "resposta_correta": "a",
+    "justificativa": "Página 35. O H2O e o O3 são os grandes responsáveis pela absorção, o N2 é praticamente transparente à REM terrestre."
+  },
+  {
+    "id": "169",
+    "tipo": "TIPO 1",
+    "tema": "Visível - Aplicação Militar",
+    "enunciado": "No uso militar, a vantagem do espectro visível (comprimentos curtos) é fornecer imagens de altíssima qualidade para:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Detectar temperatura de mísseis.",
+      "b": "Identificar tipo, quantidade e localização de tropas e equipamentos.",
+      "c": "Atravessar fumaça densa de combate.",
+      "d": "Medir a salinidade do mar."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 36. A alta resolução espacial do visível permite reconhecimento tático detalhado."
+  },
+  {
+    "id": "170",
+    "tipo": "TIPO 4",
+    "tema": "Condicionamento do Sinal",
+    "enunciado": "A _________ é necessária no condicionamento do sinal para elevar o nível de energia elétrica vinda do detector antes da quantização.",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Filtragem",
+      "b": "Pré-amplificação",
+      "c": "Dispersão",
+      "d": "Refração"
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 37. O sinal primário é muito fraco e precisa ser reforçado (amplificação)."
+  },
+  {
+    "id": "171",
+    "tipo": "TIPO 1",
+    "tema": "Infravermelho Termal - 300K",
+    "enunciado": "Qual janela atmosférica é a mais adequada para o imageamento de alvos com temperatura próxima a 300 K (média terrestre)?",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Janela do Visível (0,4-0,7 μm).",
+      "b": "Janela do FLIR (3-5 μm).",
+      "c": "Janela do Termal (8-14 μm).",
+      "d": "Janela UV."
+    },
+    "resposta_correta": "c",
+    "justificativa": "Página 35. De acordo com a Lei de Wien, alvos a 300K emitem o máximo de energia ao redor de 10 micrômetros."
+  },
+  {
+    "id": "172",
+    "tipo": "TIPO 3",
+    "tema": "Visível e Humano",
+    "enunciado": "Julgue a relação do visível com a percepção humana (V ou F):",
+    "itens": [
+      "( ) Imagens no visível têm correlação direta com a percepção visual do operador.",
+      "( ) Servem de base para identificar alvos imageados simultaneamente em outras faixas.",
+      "( ) Imagens da ação antrópica auxiliam na avaliação do crescimento populacional."
+    ],
+    "comando": "Sequência:",
+    "alternativas": {
+      "a": "V - V - V",
+      "b": "V - F - V",
+      "c": "F - V - V",
+      "d": "V - V - F"
+    },
+    "resposta_correta": "a",
+    "justificativa": "Páginas 35/36. O visível é o padrão de referência para a interpretação humana de imagens."
+  },
+  {
+    "id": "173",
+    "tipo": "TIPO 1",
+    "tema": "CCD e CMOS",
+    "enunciado": "A principal diferença funcional do subsistema de detecção para o subsistema óptico é:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "O óptico focaliza, o de detecção converte luz em sinal elétrico.",
+      "b": "O óptico converte luz em sinal elétrico, o de detecção armazena.",
+      "c": "Ambos fazem a mesma coisa.",
+      "d": "O de detecção é responsável pela órbita."
+    },
+    "resposta_correta": "a",
+    "justificativa": "Página 37. Separação clara entre a óptica física e a eletrônica de detecção."
+  },
+  {
+    "id": "174",
+    "tipo": "TIPO 4",
+    "tema": "Saturação",
+    "enunciado": "No ajuste do ganho do sinal, deve-se evitar a _________, que ocorre quando o sinal excede a escala máxima do conversor digital.",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Quantização",
+      "b": "Saturação",
+      "c": "Binarização",
+      "d": "Refração"
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 37. Saturação causa a perda de detalhes nas áreas mais brilhantes da imagem."
+  },
+  {
+    "id": "175",
+    "tipo": "TIPO 2",
+    "tema": "Subsistema de Saída",
+    "enunciado": "O Subsistema de Saída e Visualização engloba:",
+    "itens": [
+      "I. Conversor analógico-digital (A/D).",
+      "II. Dispositivos de transmissão e armazenamento.",
+      "III. Lentes e filtros de dispersão."
+    ],
+    "comando": "Assinale a correta:",
+    "alternativas": {
+      "a": "I e II apenas.",
+      "b": "II e III apenas.",
+      "c": "I e III apenas.",
+      "d": "I, II e III."
+    },
+    "resposta_correta": "a",
+    "justificativa": "Páginas 37/38. Lentes e filtros (III) pertencem ao subsistema Óptico."
+  },
+  {
+    "id": "176",
+    "tipo": "TIPO 1",
+    "tema": "Temperatura Cinética",
+    "enunciado": "A grandeza física utilizada para medir o grau de agitação ou a energia cinética das moléculas de um corpo é a:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Temperatura Radiométrica.",
+      "b": "Temperatura Cinética.",
+      "c": "Emissividade.",
+      "d": "Refletância Espectral."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 41. A agitação molecular define a temperatura cinética ou real do corpo."
+  },
+  {
+    "id": "177",
+    "tipo": "TIPO 4",
+    "tema": "Zero Absoluto",
+    "enunciado": "A menor temperatura cinética possível, onde a agitação molecular é nula, corresponde a _________ na escala Kelvin.",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "273 K",
+      "b": "-273 K",
+      "c": "0 K",
+      "d": "100 K"
+    },
+    "resposta_correta": "c",
+    "justificativa": "Página 41. O zero absoluto é 0K ou -273,15°C."
+  },
+  {
+    "id": "178",
+    "tipo": "TIPO 1",
+    "tema": "Propagação de Calor",
+    "enunciado": "Qual processo de propagação de calor não necessita de um meio material, ocorrendo através da emissão de ondas eletromagnéticas (vácuo)?",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Condução.",
+      "b": "Convecção.",
+      "c": "Irradiação (Radiação).",
+      "d": "Difusão molecular."
+    },
+    "resposta_correta": "c",
+    "justificativa": "Página 41. A irradiação é a única forma de calor que se propaga no vácuo via REM."
+  },
+  {
+    "id": "179",
+    "tipo": "TIPO 1",
+    "tema": "Temperatura Radiométrica",
+    "enunciado": "No Sensoriamento Remoto, a medida da intensidade do fluxo radiante emitido por um alvo é definida como:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Temperatura Cinética.",
+      "b": "Temperatura Radiométrica (ou Aparente).",
+      "c": "Banda de Absorção.",
+      "d": "Assinatura Espectral."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 41. Os sensores medem a temperatura radiométrica, que nem sempre é igual à cinética."
+  },
+  {
+    "id": "180",
+    "tipo": "TIPO 4",
+    "tema": "Lei de Stefan-Boltzmann",
+    "enunciado": "A Lei de Stefan-Boltzmann (M = σ·T⁴) demonstra que a quantidade de REM emitida por um corpo negro é proporcional à quarta potência de sua _________.",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Altitude",
+      "b": "Frequência",
+      "c": "Temperatura Cinética (K)",
+      "d": "Refletância"
+    },
+    "resposta_correta": "c",
+    "justificativa": "Página 42. Mostra a relação exponencial entre temperatura e emissão total de energia."
+  },
+  {
+    "id": "181",
+    "tipo": "TIPO 1",
+    "tema": "Lei de Wien",
+    "enunciado": "A Lei de Wien (ou Lei do Deslocamento) estabelece que o comprimento de onda de máxima emissão (λm) é:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Diretamente proporcional à temperatura.",
+      "b": "Independente da temperatura.",
+      "c": "Inversamente proporcional à temperatura cinética.",
+      "d": "Igual à constante solar."
+    },
+    "resposta_correta": "c",
+    "justificativa": "Página 42. Quanto mais quente o alvo, menor o comprimento de onda onde ele mais emite (λm = a / T)."
+  },
+  {
+    "id": "182",
+    "tipo": "TIPO 4",
+    "tema": "Pico de Emissão - Sol",
+    "enunciado": "Com base na Lei de Wien, o Sol, possuindo uma temperatura superficial muito elevada, apresenta seu pico de emissão de REM na faixa do _________.",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Infravermelho Termal",
+      "b": "Espectro Visível",
+      "c": "Micro-ondas",
+      "d": "Raios X"
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 43. O pico solar ocorre ao redor de 0,55 μm (amarelo/verde)."
+  },
+  {
+    "id": "183",
+    "tipo": "TIPO 1",
+    "tema": "Emissividade",
+    "enunciado": "A relação entre o total de REM emitida por um alvo real e a energia emitida por um corpo negro à mesma temperatura define a:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Absortância.",
+      "b": "Emissividade (ε).",
+      "c": "Transmitância.",
+      "d": "Constante de Planck."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 43. ε é um fator que varia de 0 a 1, indicando quão eficiente é o emissor."
+  },
+  {
+    "id": "184",
+    "tipo": "TIPO 3",
+    "tema": "Corpo Negro e Alvos Reais",
+    "enunciado": "Julgue a emissividade dos corpos (V ou F):",
+    "itens": null,
+    "comando": "A sequência correta é:",
+    "alternativas": {
+      "a": "V - V - F",
+      "b": "V - F - V",
+      "c": "F - V - V",
+      "d": "V - V - V"
+    },
+    "resposta_correta": "a",
+    "justificativa": "Página 44. Corpos cinzas têm ε constante; emissores seletivos têm ε que varia com λ."
+  },
+  {
+    "id": "185",
+    "tipo": "TIPO 1",
+    "tema": "Inércia Térmica",
+    "enunciado": "A medida da capacidade de resposta de um alvo a variações na temperatura externa, contrariando mudanças bruscas ao longo do ciclo diurno, é a:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Capacidade Calorífica.",
+      "b": "Inércia Térmica.",
+      "c": "Emissividade Seletiva.",
+      "d": "Condutividade Óptica."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 45. Alvos com alta inércia (como água/rocha) demoram a esquentar e a esfriar."
+  },
+  {
+    "id": "186",
+    "tipo": "TIPO 1",
+    "tema": "Capacidade Térmica",
+    "enunciado": "Qual dos alvos naturais abaixo possui, tradicionalmente, a maior capacidade térmica?",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Solo seco.",
+      "b": "Asfalto.",
+      "c": "Água.",
+      "d": "Vegetação rasteira."
+    },
+    "resposta_correta": "c",
+    "justificativa": "Página 45. A água atua como um grande estabilizador térmico devido à sua alta capacidade de absorver e armazenar calor."
+  },
+  {
+    "id": "187",
+    "tipo": "TIPO 4",
+    "tema": "Textura e Emissão",
+    "enunciado": "Um alvo de superfície _________ absorve mais energia do que outro de superfície _________ feito do mesmo material, emitindo consequentemente mais energia termal.",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Lisa / Rugosa",
+      "b": "Rugosa / Lisa",
+      "c": "Fria / Quente",
+      "d": "Clara / Escura"
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 46. A rugosidade aumenta a área de contato e as múltiplas reflexões internas, aumentando a absorção."
+  },
+  {
+    "id": "188",
+    "tipo": "TIPO 1",
+    "tema": "Cor e Radiação Termal",
+    "enunciado": "Na faixa do visível, alvos mais ESCUROS tendem a:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Refletir mais energia e emitir menos calor.",
+      "b": "Absorver menos energia.",
+      "c": "Absorver mais energia e, por consequência, emitir mais REM termal.",
+      "d": "Ser transparentes à radiação infravermelha."
+    },
+    "resposta_correta": "c",
+    "justificativa": "Página 46. Baixo albedo (cor escura) leva a maior aquecimento e emissão térmica superior."
+  },
+  {
+    "id": "189",
+    "tipo": "TIPO 1",
+    "tema": "Fenômenos Termais - Cruzamento",
+    "enunciado": "O fenômeno do 'Cruzamento Térmico' (thermal crossover) resulta em qual consequência técnica em uma imagem termal?",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Aumento excessivo do contraste.",
+      "b": "Perda de contraste entre dois objetos adjacentes, tornando-os indistinguíveis.",
+      "c": "Inversão de cores do visível.",
+      "d": "Aparecimento de listras verticais."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 47. Ocorre quando as temperaturas radiométricas de dois alvos diferentes se igualam em certos períodos do dia."
+  },
+  {
+    "id": "190",
+    "tipo": "TIPO 4",
+    "tema": "Cruzamento Térmico - Hora",
+    "enunciado": "O cruzamento térmico ocorre normalmente duas vezes por dia, nos períodos _________ e _________.",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Meio-dia / Meia-noite",
+      "b": "Ao nascer e ao pôr do sol",
+      "c": "Manhã cedo / 15:00h",
+      "d": "Noite inteira"
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 47. São os momentos de transição onde alvos de diferentes inércias cruzam suas curvas de temperatura."
+  },
+  {
+    "id": "191",
+    "tipo": "TIPO 1",
+    "tema": "Sombras Termais",
+    "enunciado": "Como se define uma 'Sombra Termal'?",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "A ausência total de fótons em um pixel.",
+      "b": "Diferença de contraste causada por um gradiente térmico persistente mesmo após a remoção de um objeto.",
+      "c": "Reflexo especular em superfícies metálicas.",
+      "d": "Atenuação de nuvens cirrus."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 47/48. Uma aeronave estacionada protege o solo, criando uma silhueta fria que persiste por algum tempo após a decolagem."
+  },
+  {
+    "id": "192",
+    "tipo": "TIPO 1",
+    "tema": "Saturação",
+    "enunciado": "A condição na qual um pixel opera no seu limite máximo de coleta de REM, degradando a relação linear com o sinal gerado, é a:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Quantização.",
+      "b": "Saturação.",
+      "c": "Inércia Térmica.",
+      "d": "Transmitância."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 48. Saturação impede o registro de variações em áreas muito radiantes."
+  },
+  {
+    "id": "193",
+    "tipo": "TIPO 4",
+    "tema": "Blooming",
+    "enunciado": "O fenômeno do espalhamento de energia excedente de um pixel saturado para pixels vizinhos é conhecido como _________.",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Fringe effect",
+      "b": "Blooming",
+      "c": "Aliasing",
+      "d": "Flicker"
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 48. O blooming descaracteriza o contorno de objetos muito brilhantes."
+  },
+  {
+    "id": "194",
+    "tipo": "TIPO 2",
+    "tema": "Emissividade de Materiais",
+    "enunciado": "De acordo com a Tabela de Emissividade, quais materiais possuem ε muito baixa (maus emissores térmicos)?",
+    "itens": [
+      "I. Vegetação verde (0,96-0,99).",
+      "II. Alumínio polido (0,55).",
+      "III. Ouro polido (0,02-0,03)."
+    ],
+    "comando": "Está correto:",
+    "alternativas": {
+      "a": "II e III apenas.",
+      "b": "I e II apenas.",
+      "c": "I e III apenas.",
+      "d": "I, II e III."
+    },
+    "resposta_correta": "a",
+    "justificativa": "Página 45. Metais polidos refletem muito e emitem pouco calor (baixa emissividade)."
+  },
+  {
+    "id": "195",
+    "tipo": "TIPO 1",
+    "tema": "Inércia Térmica - Materiais",
+    "enunciado": "Materiais com baixa inércia térmica (mudam de temperatura rapidamente) são geralmente:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Vegetação e Solo úmido.",
+      "b": "Grandes massas de água.",
+      "c": "Objetos metálicos e superfícies finas.",
+      "d": "Florestas tropicais."
+    },
+    "resposta_correta": "c",
+    "justificativa": "Página 47. Metais têm baixa capacidade de reter calor comparado à água."
+  },
+  {
+    "id": "196",
+    "tipo": "TIPO 4",
+    "tema": "Sombra Termal Quente",
+    "enunciado": "Uma sobra termal QUENTE pode ser provocada por _________ que aquecem a superfície imediatamente abaixo deles.",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Asas de planadores",
+      "b": "Motores a jato estacionários",
+      "c": "Tanques de água fria",
+      "d": "Árvores isoladas"
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 48. O fluxo de gases quentes aquece o pátio, deixando uma assinatura quente residual."
+  },
+  {
+    "id": "197",
+    "tipo": "TIPO 1",
+    "tema": "Pico de Emissão - Terra",
+    "enunciado": "A Terra, com temperatura média de 300K, tem seu pico de emissão radiométrica em qual comprimento de onda (lei de Wien)?",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "0,5 micrômetros.",
+      "b": "2,0 micrômetros.",
+      "c": "9,6 micrômetros.",
+      "d": "100 micrômetros."
+    },
+    "resposta_correta": "c",
+    "justificativa": "Página 43. Gráfico de distribuição espectral de emissão (λm ≈ 10 μm)."
+  },
+  {
+    "id": "198",
+    "tipo": "TIPO 2",
+    "tema": "Aumentando a Absorção",
+    "enunciado": "Quais fatores colaboram para um alvo absorver mais energia, e por consequência, emitir mais radiação térmica?",
+    "itens": [
+      "I. Superfície rugosa.",
+      "II. Cor clara (alto albedo).",
+      "III. Composição químico-molecular favorável."
+    ],
+    "comando": "Assinale a correta:",
+    "alternativas": {
+      "a": "I e III apenas.",
+      "b": "I e II apenas.",
+      "c": "II e III apenas.",
+      "d": "I, II e III."
+    },
+    "resposta_correta": "a",
+    "justificativa": "Página 44/46. Cores claras (II) refletem a energia antes da absorção térmica."
+  },
+  {
+    "id": "199",
+    "tipo": "TIPO 1",
+    "tema": "Emissão de REM",
+    "enunciado": "Qual a condição fundamental para que um alvo emita radiação eletromagnética nativa?",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Estar em contato com o ar ambiente.",
+      "b": "Possuir temperatura superior ao zero absoluto (0 K).",
+      "c": "Ser feito de material metálico.",
+      "d": "Estar sob incidência direta do Sol."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 41. Todo corpo acima de 0K emite energia devido à agitação molecular."
+  },
+  {
+    "id": "200",
+    "tipo": "TIPO 1",
+    "tema": "Identificação de Alvos - Termal",
+    "enunciado": "A identificação de alvos no infravermelho termal baseia-se primordialmente em:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Cores naturais.",
+      "b": "Diferenças de contraste de temperatura (radiométrica) entre o alvo e o fundo.",
+      "c": "Alturas dos objetos via paralaxe.",
+      "d": "Textura visual estereoscópica."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 47. O contraste térmico é o que define as formas na imagem termal."
+  },
+  {
+    "id": "201",
+    "tipo": "TIPO 1",
+    "tema": "Índice de Refração",
+    "enunciado": "O quociente entre a velocidade da luz no vácuo (c) e a velocidade da luz em um dado meio transparente (v) define qual grandeza física?",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Frequência absoluta.",
+      "b": "Índice de refração absoluto (n).",
+      "c": "Constante de Planck.",
+      "d": "Velocidade relativa de dispersão."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 7. n = c / v define quão refrigente é o meio."
+  },
+  {
+    "id": "202",
+    "tipo": "TIPO 2",
+    "tema": "Leis de Refração",
+    "enunciado": "Considere as Leis de Refração da Luz. Analise as assertivas abaixo:",
+    "itens": [
+      "I. O raio incidente, a normal e o raio refratado estão sempre no mesmo plano.",
+      "II. Na 2ª Lei (Snell-Descartes), o produto do índice de refração pelo seno do ângulo é constante.",
+      "III. Quando a luz passa de um meio menos refrigente para um mais refrigente, o raio se afasta da normal."
+    ],
+    "comando": "Está(ão) correta(s) apenas:",
+    "alternativas": {
+      "a": "I.",
+      "b": "I e II.",
+      "c": "II e III.",
+      "d": "I, II e III."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 9. Ao passar para um meio MAIS refrigente, o raio se APROXIMA da normal (i > r). A III está incorreta."
+  },
+  {
+    "id": "203",
+    "tipo": "TIPO 4",
+    "tema": "Dispersão da Luz",
+    "enunciado": "No fenômeno da dispersão da luz branca ao passar do ar para o vidro, a componente que MAIS se desvia é o raio _________.",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Vermelho",
+      "b": "Verde",
+      "c": "Violeta",
+      "d": "Amarelo"
+    },
+    "resposta_correta": "c",
+    "justificativa": "Página 11. O violeta possui o maior índice de refração e o maior desvio."
+  },
+  {
+    "id": "301",
+    "tipo": "TIPO 1",
+    "tema": "Lentes Convergentes - Imagem",
+    "enunciado": "Quando um objeto real é situado ANTES do ponto Antiprincipal Objeto (Ao) em uma lente convergente, as características da imagem formada são:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Real, Direta e Menor.",
+      "b": "Real, Invertida e Menor.",
+      "c": "Virtual, Direita e Maior.",
+      "d": "Real, Invertida e do mesmo tamanho."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 18. O Quadro 2 (Caso I) define a imagem como real, invertida e menor, situada entre Fi e Ai."
+  },
+  {
+    "id": "303",
+    "tipo": "TIPO 4",
+    "tema": "Lente Divergente - Características",
+    "enunciado": "Qualquer que seja a posição do objeto real em relação a uma lente divergente, a imagem será sempre _________, _________ e _________.",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Real, Invertida e Menor.",
+      "b": "Virtual, Direita e Maior.",
+      "c": "Virtual, Direita e Menor.",
+      "d": "Real, Direita e do mesmo tamanho."
+    },
+    "resposta_correta": "c",
+    "justificativa": "Página 19. O Quadro 3 mostra que lentes divergentes produzem apenas imagens virtuais, direitas e menores."
+  },
+  {
+    "id": "304",
+    "tipo": "TIPO 1",
+    "tema": "Equação de Gauss",
+    "enunciado": "Na Equação de Gauss (1/f = 1/p + 1/p'), a grandeza p' representa:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "A distância focal da lente.",
+      "b": "A distância do objeto à lente.",
+      "c": "A distância da imagem à lente.",
+      "d": "O aumento linear transversal."
+    },
+    "resposta_correta": "c",
+    "justificativa": "Página 20. f é distância focal, p é distância do objeto e p' é distância da imagem."
+  },
+  {
+    "id": "307",
+    "tipo": "TIPO 1",
+    "tema": "Vergência",
+    "enunciado": "A unidade de medida da vergência (V) de uma lente no Sistema Internacional (SI) é a:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Candela.",
+      "b": "Lumen.",
+      "c": "Dioptria (di).",
+      "d": "Lux."
+    },
+    "resposta_correta": "c",
+    "justificativa": "Página 22. A dioptria (popular 'grau') é o inverso do metro (m^-1)."
+  },
+  {
+    "id": "312",
+    "tipo": "TIPO 1",
+    "tema": "Aberrações",
+    "enunciado": "Como se denominam as distorções na imagem causadas pela variação do índice de refração do vidro para diferentes cores (comprimentos de onda)?",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Aberrações Geométricas.",
+      "b": "Aberrações Cromáticas.",
+      "c": "Coma.",
+      "d": "Astigmatismo."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 25. Aberrações cromáticas têm origem nas distintas refrações para diferentes cores."
+  },
+  {
+    "id": "326",
+    "tipo": "TIPO 4",
+    "tema": "Aberração de Coma",
+    "enunciado": "A aberração de _________ afeta a imagem de pontos não situados sobre o eixo principal da lente, provocando uma mancha luminosa em forma de cometa ou pera.",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Esfericidade",
+      "b": "Coma",
+      "c": "Astigmatismo",
+      "d": "Distorção"
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 28. O coma ocorre por raios centrais e marginais de pontos fora do eixo convergirem em pontos diferentes em um plano perpendicular."
+  },
+  {
+    "id": "332",
+    "tipo": "TIPO 1",
+    "tema": "Curvatura de Campo",
+    "enunciado": "A aberração que faz com que a imagem de um objeto plano tenha a forma de uma superfície curva é a:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Distorção crescente.",
+      "b": "Curvatura de Campo.",
+      "c": "Aberração Cromática.",
+      "d": "Coma lateral."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 32. Também chamada de curvatura de superfície focal, resulta em bordas sem nitidez se o centro for focado em plano."
+  },
+  {
+    "id": "335",
+    "tipo": "TIPO 4",
+    "tema": "Distorção em Barrilete",
+    "enunciado": "Ocorre uma redução desigual na imagem (mais forte nas extremidades), resultando em uma forma arredondada chamada distorção em _________.",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Crescente",
+      "b": "Barrilete",
+      "c": "Almofada",
+      "d": "S"
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 33. Ocorre quando o diafragma é colocado entre o objeto e a lente."
+  },
+  {
+    "id": "302",
+    "tipo": "TIPO 1",
+    "tema": "Lentes Convergentes - Imagem Imprópria",
+    "enunciado": "Em uma lente convergente, se o objeto for posicionado exatamente sobre o Foco Principal Objeto (Fo), a imagem será:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Real e invertida.",
+      "b": "Virtual e direita.",
+      "c": "Imprópria (formada no infinito).",
+      "d": "Real e do mesmo tamanho."
+    },
+    "resposta_correta": "c",
+    "justificativa": "Página 18. No Caso IV, os raios emergem paralelos, não formando imagem em distância finita."
+  },
+  {
+    "id": "305",
+    "tipo": "TIPO 3",
+    "tema": "Convenção de Sinais - Gauss",
+    "enunciado": "Sobre a convenção de sinais para lentes delgadas, julgue (V ou F):",
+    "itens": [
+      "( ) Para uma lente divergente, a distância focal (f) é negativa.",
+      "( ) Se a imagem é real, p' deve ser positivo.",
+      "( ) Se a imagem é virtual, p' deve ser negativo."
+    ],
+    "comando": "A sequência correta é:",
+    "alternativas": {
+      "a": "V - V - V",
+      "b": "V - F - V",
+      "c": "F - V - V",
+      "d": "V - V - F"
+    },
+    "resposta_correta": "a",
+    "justificativa": "Página 20. Convenção padrão de Gauss adotada no concurso."
+  },
+  {
+    "id": "306",
+    "tipo": "TIPO 1",
+    "tema": "Aumento Linear Transversal",
+    "enunciado": "Se o aumento linear transversal (A) de uma lente é NEGATIVO (A < 0), isso significa que a imagem é:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Direita (virtual).",
+      "b": "Invertida (real).",
+      "c": "Maior que o objeto.",
+      "d": "Menor que o objeto."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 21. Aumento negativo indica que a imagem e o objeto têm sinais de altura opostos (invertida/real)."
+  },
+  {
+    "id": "308",
+    "tipo": "TIPO 4",
+    "tema": "Vergência - Cálculo",
+    "enunciado": "Uma lente com distância focal de 0,25 metros possui uma vergência de _________ dioptrias.",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "2,0",
+      "b": "4,0",
+      "c": "0,25",
+      "d": "10,0"
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 22. V = 1 / f. V = 1 / 0,25 = 4,0 di."
+  },
+  {
+    "id": "309",
+    "tipo": "TIPO 2",
+    "tema": "Lentes Justapostas",
+    "enunciado": "Considere duas lentes delgadas em contato (justapostas) com vergências V1 e V2. Analise:",
+    "itens": [
+      "I. A vergência da lente equivalente é a soma algébrica das vergências das componentes.",
+      "II. O sistema se comporta como uma única lente de distância focal f = f1 + f2.",
+      "III. O Teorema das Vergências aplica-se a este sistema."
+    ],
+    "comando": "Assinale a correta:",
+    "alternativas": {
+      "a": "I apenas.",
+      "b": "I e III apenas.",
+      "c": "II e III apenas.",
+      "d": "I, II e III."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 23. V = V1 + V2. A distância focal 1/f = 1/f1 + 1/f2 (a II está incorreta)."
+  },
+  {
+    "id": "310",
+    "tipo": "TIPO 4",
+    "tema": "Microscópio Composto",
+    "enunciado": "No microscópio composto, a ampliação final é dada pelo _________ da ampliação da objetiva pela ampliação da ocular.",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Soma",
+      "b": "Diferença",
+      "c": "Produto",
+      "d": "Quociente"
+    },
+    "resposta_correta": "c",
+    "justificativa": "Página 24. A = Aobj * Aocu."
+  },
+  {
+    "id": "311",
+    "tipo": "TIPO 1",
+    "tema": "Associação de Lentes - Instrumentos",
+    "enunciado": "Qual instrumento óptico é caracterizado por uma associação de lentes convergentes onde o objeto se encontra muito afastado (no infinito)?",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Microscópio Composto.",
+      "b": "Luneta Astronômica.",
+      "c": "Lupa Simples.",
+      "d": "Projetor de Slides."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 25. A luneta astronômica capta raios paralelos vindos do infinito."
+  },
+  {
+    "id": "313",
+    "tipo": "TIPO 4",
+    "tema": "Aberração Esférica",
+    "enunciado": "A aberração de esfericidade sobre o eixo ocorre quando a lente se afasta das condições de _________.",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Newton",
+      "b": "Gauss",
+      "c": "Snell",
+      "d": "Huygens"
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 26. Ocorre quando os raios são marginais (não paraxiais), violando Gauss."
+  },
+  {
+    "id": "314",
+    "tipo": "TIPO 1",
+    "tema": "Correção de Aberrações",
+    "enunciado": "Uma forma de reduzir a aberração de esfericidade interceptando os raios marginais é o uso de um:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Prisma de Porro.",
+      "b": "Diafragma.",
+      "c": "Filtro UV.",
+      "d": "Espelho Plano."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 27. O diafragma ou orifício regulável bloqueia os raios distantes do eixo."
+  },
+  {
+    "id": "315",
+    "tipo": "TIPO 2",
+    "tema": "Lentes Convergentes - Imagem Real",
+    "enunciado": "Para que uma lente convergente forme uma imagem REAL, INVERTIDA e MAIOR, o objeto deve estar:",
+    "itens": [
+      "I. No ponto Antiprincipal Objeto.",
+      "II. Entre o ponto Antiprincipal Objeto e o Foco Objeto.",
+      "III. No Foco Principal Objeto."
+    ],
+    "comando": "Assinale a opção correta:",
+    "alternativas": {
+      "a": "Apenas I.",
+      "b": "Apenas II.",
+      "c": "Apenas III.",
+      "d": "I e II."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 18. Caso III: objeto entre Ao e Fo gera imagem real, invertida e maior."
+  },
+  {
+    "id": "316",
+    "tipo": "TIPO 1",
+    "tema": "Círculo de Confusão",
+    "enunciado": "Na aberração esférica, a seção onde se obtém a melhor imagem possível no anteparo é denominada:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Ponto Focal Teórico.",
+      "b": "Círculo de Confusão Mínima.",
+      "c": "Mancha de Airy.",
+      "d": "Eixo de Estigmatismo."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 26. É o menor diâmetro do feixe de raios refratados."
+  },
+  {
+    "id": "317",
+    "tipo": "TIPO 1",
+    "tema": "Lentes Convergentes - Único Caso Virtual",
+    "enunciado": "Qual a única posição do objeto real que faz uma lente convergente produzir uma imagem VIRTUAL, DIREITA e MAIOR?",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Entre o Foco Objeto e o Centro Óptico.",
+      "b": "Sobre o ponto Antiprincipal.",
+      "c": "Muito afastado da lente.",
+      "d": "Situado entre o Fo e o Fi."
+    },
+    "resposta_correta": "a",
+    "justificativa": "Página 19. Caso V: Esta configuração é a utilizada na Lupa Simples."
+  },
+  {
+    "id": "318",
+    "tipo": "TIPO 3",
+    "tema": "Vergência e Foco",
+    "enunciado": "Sobre a Vergência (V), julgue (V ou F):",
+    "itens": [
+      "( ) É inversamente proporcional à distância focal.",
+      "( ) Uma lente mais 'potente' possui menor distância focal.",
+      "( ) Lentes divergentes possuem vergência positiva."
+    ],
+    "comando": "Sequência:",
+    "alternativas": {
+      "a": "V - V - F",
+      "b": "V - F - V",
+      "c": "F - V - V",
+      "d": "V - V - V"
+    },
+    "resposta_correta": "a",
+    "justificativa": "Página 22. Vergência de lente divergente é NEGATIVA (pois f < 0)."
+  },
+  {
+    "id": "319",
+    "tipo": "TIPO 1",
+    "tema": "Associação Coaxial",
+    "enunciado": "Dizemos que duas lentes estão associadas por justaposição quando a distância entre elas é:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Igual à soma das distâncias focais.",
+      "b": "Infinita.",
+      "c": "Nula.",
+      "d": "Igual ao dobro do raio de curvatura."
+    },
+    "resposta_correta": "c",
+    "justificativa": "Página 22. Lentes justapostas têm espessura desprezível e estão encostadas."
+  },
+  {
+    "id": "320",
+    "tipo": "TIPO 4",
+    "tema": "Aumento Linear",
+    "enunciado": "Se o tamanho da imagem (i) é igual ao triplo do tamanho do objeto (o), e ambos estão do mesmo lado do eixo (imagem direita), o aumento linear vale _________.",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "3,0",
+      "b": "-3,0",
+      "c": "0,33",
+      "d": "1,5"
+    },
+    "resposta_correta": "a",
+    "justificativa": "Página 21. A = i / o. Como é direita, o sinal é positivo."
+  },
+  {
+    "id": "321",
+    "tipo": "TIPO 1",
+    "tema": "Aberrações Geométricas",
+    "enunciado": "Qual das opções abaixo NÃO é classificada como uma aberração geométrica?",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Coma.",
+      "b": "Distorção.",
+      "c": "Aberração Cromática Longitudinal.",
+      "d": "Astigmatismo."
+    },
+    "resposta_correta": "c",
+    "justificativa": "Página 25. Aberrações cromáticas formam um grupo distinto das geométricas (que ocorrem com luz monocromática)."
+  },
+  {
+    "id": "322",
+    "tipo": "TIPO 4",
+    "tema": "Instrumentos Ópticos",
+    "enunciado": "No microscópio composto, a primeira lente (mais próxima ao objeto) é chamada de _________ e a segunda (próxima ao olho) de _________.",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Ocular / Objetiva",
+      "b": "Objetiva / Ocular",
+      "c": "Focalizadora / Dispersora",
+      "d": "Plana / Esférica"
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 24. A objetiva conjuga a primeira imagem I', que serve de objeto para a ocular."
+  },
+  {
+    "id": "323",
+    "tipo": "TIPO 1",
+    "tema": "Espessura da Lente",
+    "enunciado": "As leis de Gauss e as fórmulas dos pontos conjugados aplicam-se rigorosamente a lentes:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Muito espessas.",
+      "b": "Delgadas (espessura desprezível).",
+      "c": "Com grandes raios de curvatura marginais.",
+      "d": "De quartzo apenas."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 15/20. Lentes delgadas são premissas para a óptica gaussiana."
+  },
+  {
+    "id": "324",
+    "tipo": "TIPO 3",
+    "tema": "Lentes Convergentes - Imagem no Ai",
+    "enunciado": "Sobre o Caso II (Objeto no ponto Antiprincipal Objeto), julgue:",
+    "itens": [
+      "( ) A imagem é formada sobre o ponto Antiprincipal Imagem (Ai).",
+      "( ) A imagem é invertida e do mesmo tamanho do objeto.",
+      "( ) O aumento linear vale +1,0."
+    ],
+    "comando": "Sequência:",
+    "alternativas": {
+      "a": "V - V - F",
+      "b": "V - F - V",
+      "c": "V - V - V",
+      "d": "F - V - V"
+    },
+    "resposta_correta": "a",
+    "justificativa": "Página 18. O aumento vale -1,0 (menos um) porque a imagem é invertida."
+  },
+  {
+    "id": "325",
+    "tipo": "TIPO 1",
+    "tema": "Correção de Aberrações",
+    "enunciado": "Para reduzir ao mínimo a aberração esférica em uma lente plano-convexa, recomenda-se que a incidência da luz ocorra inicialmente na face:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Plana.",
+      "b": "Curva (CONVEXA).",
+      "c": "Indiferente.",
+      "d": "Através de um prisma."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 27. Se a luz incidir na face curva, o desvio é melhor distribuído entre as superfícies, reduzindo a aberração."
+  },
+  {
+    "id": "327",
+    "tipo": "TIPO 1",
+    "tema": "Lentes Aplanéticas",
+    "enunciado": "Lentes que não possuem as aberrações de esfericidade e de coma são chamadas de:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Lentes Ortoscópicas.",
+      "b": "Lentes Aplanéticas.",
+      "c": "Lentes Acromáticas.",
+      "d": "Lentes Cilíndricas."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 30. Definição técnica de lentes isentas dessas duas aberrações."
+  },
+  {
+    "id": "328",
+    "tipo": "TIPO 1",
+    "tema": "Astigmatismo",
+    "enunciado": "No astigmatismo, os raios de um ponto objeto convergem para duas linhas de imagem perpendiculares entre si. Como se denomina a primeira dessas linhas?",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Linha Elíptica.",
+      "b": "Segunda Focal.",
+      "c": "Primeira Focal.",
+      "d": "Eixo de Confusão."
+    },
+    "resposta_correta": "c",
+    "justificativa": "Página 30. A primeira focal é uma reta horizontal perpendicular ao plano que contém o eixo óptico."
+  },
+  {
+    "id": "329",
+    "tipo": "TIPO 1",
+    "tema": "Astigmatismo - Focais",
+    "enunciado": "As imagens intermediárias entre a primeira e a segunda focal no astigmatismo possuem formas:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Quadradas.",
+      "b": "Puntiformes.",
+      "c": "Elípticas.",
+      "d": "Triangulares."
+    },
+    "resposta_correta": "c",
+    "justificativa": "Página 30. A convergência passa por elipses e um círculo até se contrair na segunda focal."
+  },
+  {
+    "id": "330",
+    "tipo": "TIPO 4",
+    "tema": "Círculo de Confusão no Astigmatismo",
+    "enunciado": "No astigmatismo, o ponto de melhor foco situa-se entre as duas focais e é denominado _________.",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Ponto Antiprincipal",
+      "b": "Círculo de Confusão Mínima",
+      "c": "Foco Virtual",
+      "d": "Vértice Óptico"
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 31. O círculo de confusão mínima representa a melhor imagem de um ponto com astigmatismo."
+  },
+  {
+    "id": "331",
+    "tipo": "TIPO 3",
+    "tema": "Astigmatismo - Correção",
+    "enunciado": "Sobre o astigmatismo e sua correção, julgue (V ou F):",
+    "itens": [
+      "( ) Impede a focalização simultânea de linhas horizontais e verticais.",
+      "( ) Pode ser corrigido associando lentes com vidros de índices selecionados.",
+      "( ) O uso de um diafragma adequado sobre o eixo não auxilia na correção."
+    ],
+    "comando": "A sequência é:",
+    "alternativas": {
+      "a": "V - V - F",
+      "b": "V - V - V",
+      "c": "F - V - F",
+      "d": "V - F - V"
+    },
+    "resposta_correta": "a",
+    "justificativa": "Página 31/32. O diafragma AUXILIA na atenuação (a assertiva III está falsa)."
+  },
+  {
+    "id": "333",
+    "tipo": "TIPO 4",
+    "tema": "Curvatura de Campo - Correção",
+    "enunciado": "A curvatura de campo pode ser corrigida empregando uma combinação de lentes e utilizando um _________ conveniente entre elas.",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Prisma",
+      "b": "Diafragma",
+      "c": "Espelho",
+      "d": "Filtro polarizador"
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 32. O diafragma limita os raios marginais que causam a curvatura acentuada."
+  },
+  {
+    "id": "334",
+    "tipo": "TIPO 1",
+    "tema": "Distorção",
+    "enunciado": "Diferente das outras aberrações, a distorção se relaciona com:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "A nitidez da imagem de um ponto.",
+      "b": "A forma da imagem em relação ao objeto original.",
+      "c": "A separação cromática das cores.",
+      "d": "O aumento da distância focal."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 32. A distorção resulta da diferença no grau de ampliação entre o centro e as margens da lente."
+  },
+  {
+    "id": "336",
+    "tipo": "TIPO 4",
+    "tema": "Distorção em Crescente",
+    "enunciado": "A distorção que ocorre quando o diafragma é colocado entre a lente e a imagem, tornando a forma pontiaguda nas extremidades, é a em _________.",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Barril",
+      "b": "Barrilete",
+      "c": "Crescente",
+      "d": "Globo"
+    },
+    "resposta_correta": "c",
+    "justificativa": "Página 34. Também conhecida como distorção em almofada."
+  },
+  {
+    "id": "337",
+    "tipo": "TIPO 1",
+    "tema": "Lentes Ortoscópicas",
+    "enunciado": "Lentes que não apresentam distorção são tecnicamente denominadas:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Lentes Aplanéticas.",
+      "b": "Lentes Ortoscópicas.",
+      "c": "Lentes Acromáticas.",
+      "d": "Lentes Biconvexas."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 35. Lentes isentas de distorção (comum em fotogrametria)."
+  },
+  {
+    "id": "338",
+    "tipo": "TIPO 4",
+    "tema": "Aberração Cromática Longitudinal",
+    "enunciado": "A variação da distância entre a lente e as imagens formadas por diferentes cores (sobre o eixo) é a aberração cromática _________.",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Transversal",
+      "b": "Longitudinal",
+      "c": "Radial",
+      "d": "Tangencial"
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 35. Refere-se à posição focal distinta para cada cor ao longo do eixo principal."
+  },
+  {
+    "id": "339",
+    "tipo": "TIPO 1",
+    "tema": "Aberração Cromática Transversal",
+    "enunciado": "A variação no TAMANHO das imagens formadas por luzes de cores diferentes é a:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Aberração Cromática Longitudinal.",
+      "b": "Aberração Cromática Transversal.",
+      "c": "Distorção de Almofada.",
+      "d": "Curvatura de Campo."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 35. Como a ampliação depende da focal, cores diferentes geram tamanhos diferentes."
+  },
+  {
+    "id": "340",
+    "tipo": "TIPO 2",
+    "tema": "Aberrações - Causa",
+    "enunciado": "Quanto às causas das aberrações nas lentes, pode-se afirmar:",
+    "itens": [
+      "I. São consequências diretas das leis de refração em superfícies esféricas.",
+      "II. São causadas unicamente por defeitos de fabricação e polimento.",
+      "III. Ocorrem mesmo em lentes com geometria perfeita."
+    ],
+    "comando": "Está correto:",
+    "alternativas": {
+      "a": "I apenas.",
+      "b": "I e III apenas.",
+      "c": "II e III apenas.",
+      "d": "I, II e III."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 25. Aberrações são intrínsecas às leis da física (refração), não dependendo de defeitos de construção."
+  },
+  {
+    "id": "341",
+    "tipo": "TIPO 1",
+    "tema": "Aberração de Esfericidade",
+    "enunciado": "Na aberração de esfericidade, os raios que atravessam as bordas da lente convergem em um ponto:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Mais próximo da lente que os raios centrais.",
+      "b": "Mais afastado da lente que os raios centrais.",
+      "c": "Exatamente no mesmo ponto dos raios centrais.",
+      "d": "No plano infinito."
+    },
+    "resposta_correta": "a",
+    "justificativa": "Página 26. Os raios marginais sofrem maior desvio e focam mais perto da lente."
+  },
+  {
+    "id": "342",
+    "tipo": "TIPO 4",
+    "tema": "Espessura da Lente",
+    "enunciado": "A aberração esférica ocorre sempre que a lente se afasta das condições de Gauss, o que se deve, entre outros fatores, à sua excessiva _________.",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Transparência",
+      "b": "Espessura",
+      "c": "Dureza",
+      "d": "Cor"
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 26. Lentes grossas aumentam a divergência dos focos marginais."
+  },
+  {
+    "id": "343",
+    "tipo": "TIPO 1",
+    "tema": "Distorção - Terminologia",
+    "enunciado": "A distorção em barrilete também pode ser denominada distorção em:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Almofada.",
+      "b": "Barril.",
+      "c": "Crescente.",
+      "d": "Pin-cushion."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 34. Barrilete e Barril são sinônimos para o arredondamento para fora."
+  },
+  {
+    "id": "344",
+    "tipo": "TIPO 3",
+    "tema": "Distorção - Fatores",
+    "enunciado": "Julgue a veracidade sobre a Distorção (V ou F):",
+    "itens": [
+      "( ) Uma lente delgada simples sem diafragma costuma ser isenta de distorção.",
+      "( ) A distorção é provocada pela lente, independentemente da posição do diafragma.",
+      "( ) Em objetivas fotográficas, o diafragma é colocado entre os elementos da lente para controlar a distorção."
+    ],
+    "comando": "Sequência correta:",
+    "alternativas": {
+      "a": "V - F - V",
+      "b": "V - V - V",
+      "c": "F - V - V",
+      "d": "V - F - F"
+    },
+    "resposta_correta": "a",
+    "justificativa": "Página 35. A distorção é provocada pela POSIÇÃO do diafragma, não pela lente em si (a II está falsa)."
+  },
+  {
+    "id": "345",
+    "tipo": "TIPO 4",
+    "tema": "Astigmatismo - Focais",
+    "enunciado": "No astigmatismo, a primeira focal é perpendicular ao plano contendo o eixo óptico, enquanto a segunda focal é _________ a esse plano.",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Perpendicular",
+      "b": "Paralela",
+      "c": "Inclinada 45°",
+      "d": "Secante"
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 30. A segunda focal é paralela ao plano mencionado e perpendicular à primeira focal."
+  },
+  {
+    "id": "346",
+    "tipo": "TIPO 1",
+    "tema": "Curvatura de Campo - Nitidez",
+    "enunciado": "Se a imagem com curvatura de campo for captada em um anteparo plano, as regiões marginais ficarão:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Nítidas.",
+      "b": "Sem nitidez.",
+      "c": "Invertidas.",
+      "d": "Coloridas (iridiscência)."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 32. Como a superfície focal é curva, um anteparo plano só foca o centro ou as bordas, nunca ambos."
+  },
+  {
+    "id": "347",
+    "tipo": "TIPO 1",
+    "tema": "Aberração de Coma - Forma",
+    "enunciado": "A mancha luminosa característica do coma assemelha-se à forma de um:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Disco circular.",
+      "b": "Anel de Saturno.",
+      "c": "Cometa ou pera.",
+      "d": "Retângulo perfeito."
+    },
+    "resposta_correta": "c",
+    "justificativa": "Página 28. Daí o nome 'coma' (cabeleira de cometa)."
+  },
+  {
+    "id": "348",
+    "tipo": "TIPO 4",
+    "tema": "Distorção em Almofada",
+    "enunciado": "A distorção em crescente também é conhecida como distorção em _________.",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Barril",
+      "b": "Almofada",
+      "c": "Pera",
+      "d": "S"
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 34. Termo comum para a distorção para dentro (crescente)."
+  },
+  {
+    "id": "349",
+    "tipo": "TIPO 1",
+    "tema": "Aberração Cromática - Cause",
+    "enunciado": "A aberração cromática ocorre devido à variação de qual pilar do Sensoriamento Remoto nas lentes de vidro?",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Velocidade da plataforma.",
+      "b": "Índice de refração em função do comprimento de onda (λ).",
+      "c": "Temperatura do sensor.",
+      "d": "Cota do terreno."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 35. Diferentes λ (cores) sofrem refração distinta (dispersão)."
+  },
+  {
+    "id": "350",
+    "tipo": "TIPO 2",
+    "tema": "Aberrações Geométricas - Tipos",
+    "enunciado": "Identifique as aberrações que ocorrem mesmo com luz monocromática (geométricas):",
+    "itens": [
+      "I. Esfericidade e Coma.",
+      "II. Astigmatismo e Curvatura de Campo.",
+      "III. Cromatismo Longitudinal."
+    ],
+    "comando": "Assinale a alternativa correta:",
+    "alternativas": {
+      "a": "I e II apenas.",
+      "b": "I e III apenas.",
+      "c": "II e III apenas.",
+      "d": "I, II e III."
+    },
+    "resposta_correta": "a",
+    "justificativa": "Página 25. O cromatismo (item III) requer luz policromática para ocorrer."
+  },
+  {
+    "id": "226",
+    "tipo": "TIPO 1",
+    "tema": "Terminologia - Estruturas",
+    "enunciado": "A armação em formato triangular, no telhado, que vence grande vão sem o auxílio de paredes, é denominada:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Platibanda.",
+      "b": "Tesoura.",
+      "c": "Cantilever.",
+      "d": "Domo."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 10. Definição técnica de tesoura no MCA 200-2."
+  },
+  {
+    "id": "227",
+    "tipo": "TIPO 4",
+    "tema": "Personagens do Reconhecimento",
+    "enunciado": "O militar qualificado para planejar missões de reconhecimento, interrogar equipagens e elaborar o REMIR é o _________.",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "FEF (Fotointérprete em Formação)",
+      "b": "FI (Fotointérprete)",
+      "c": "TIR (Técnico em Informações de Reconhecimento)",
+      "d": "Piloto de Caça"
+    },
+    "resposta_correta": "c",
+    "justificativa": "Página 11. O TIR é a figura central no planejamento e processamento da informação de reconhecimento."
+  },
+  {
+    "id": "228",
+    "tipo": "TIPO 2",
+    "tema": "Relatórios de Missão",
+    "enunciado": "Sobre os relatórios de reconhecimento (MCA 200-2), analise as assertivas:",
+    "itens": [
+      "I. O Relatório Imediato deve ser emitido em até 1 (uma) hora após o pouso da aeronave.",
+      "II. O Relatório Relâmpago é emitido em voo, sob responsabilidade do Líder da Formação.",
+      "III. O REMIR é um documento oficial, classificado, que reúne informações de um determinado alvo."
+    ],
+    "comando": "Estão corretas apenas as assertivas:",
+    "alternativas": {
+      "a": "I e II.",
+      "b": "II e III.",
+      "c": "I e III.",
+      "d": "I, II e III."
+    },
+    "resposta_correta": "d",
+    "justificativa": "Páginas 11-12. Todas as definições de relatórios (Imediato, Relâmpago e REMIR) estão corretas."
+  },
+  {
+    "id": "229",
+    "tipo": "TIPO 3",
+    "tema": "Terminologia - Obstáculos",
+    "enunciado": "Julgue a veracidade das definições (V ou F):",
+    "itens": [
+      "( ) Cantilever é um tipo especial de estrutura de sustentação horizontal apoiada em apenas um lado.",
+      "( ) Cavalo de friza é um obstáculo anti-pessoal e anti-carro envolto em arame farpado.",
+      "( ) Sebes são aberturas situadas no telhado para ventilação e luminosidade."
+    ],
+    "comando": "A sequência é:",
+    "alternativas": {
+      "a": "V - V - V",
+      "b": "V - V - F",
+      "c": "F - V - F",
+      "d": "V - F - F"
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 10. Sebes são cercas de arbustos ou estacas. Clarabóias são as aberturas nos telhados."
+  },
+  {
+    "id": "230",
+    "tipo": "TIPO 1",
+    "tema": "Categorias de Alvos (CAT)",
+    "enunciado": "Os alvos de interesse militar foram agrupados em quantas categorias (CAT) principais no MCA 200-2?",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "10.",
+      "b": "16.",
+      "c": "18.",
+      "d": "22."
+    },
+    "resposta_correta": "c",
+    "justificativa": "Página 13. A Tabela 1 lista as 18 categorias de alvos (de Aeródromos a Meteorologia)."
+  },
+  {
+    "id": "231",
+    "tipo": "TIPO 4",
+    "tema": "Documentos de Planejamento",
+    "enunciado": "A FAB utiliza a _________ para enviar instruções a unidades subordinadas, determinando a parte que cada uma deverá desempenhar na missão.",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "DMA 1-1",
+      "b": "OFRAG (Ordem Fragmentária)",
+      "c": "Ficha CAT",
+      "d": "Planilha EEI"
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 11. A OFRAG dá origem à missão de reconhecimento."
+  },
+  {
+    "id": "232",
+    "tipo": "TIPO 1",
+    "tema": "Terminologia - Telhados",
+    "enunciado": "A parte mais elevada do telhado onde acontece o encontro das águas é a:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Cimeira.",
+      "b": "Cumeeira.",
+      "c": "Domo.",
+      "d": "Água furtada."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 7. Cumeeira define o topo do telhado."
+  },
+  {
+    "id": "233",
+    "tipo": "TIPO 2",
+    "tema": "Missões de Reconhecimento",
+    "enunciado": "Quanto ao planejamento, as missões de reconhecimento podem ser classificadas como:",
+    "itens": [
+      "I. Missões Imediatas: originadas de uma solicitação sem planejamento anterior (prazo de até 4h).",
+      "II. Missões Pré-planejadas: originadas de solicitação anterior com prazo mais amplo.",
+      "III. Missões de Oportunidade: realizadas por decisão exclusiva do piloto sem solicitação."
+    ],
+    "comando": "Está correto:",
+    "alternativas": {
+      "a": "I e II.",
+      "b": "I e III.",
+      "c": "II e III.",
+      "d": "I, II e III."
+    },
+    "resposta_correta": "a",
+    "justificativa": "Página 15. O manual cita apenas missões Imediatas e Pré-planejadas quanto ao planejamento."
+  },
+  {
+    "id": "234",
+    "tipo": "TIPO 1",
+    "tema": "Informações Essenciais",
+    "enunciado": "Particularidades de um alvo, julgadas relevantes para o seu funcionamento e existência, são denominadas:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "EEI (Elementos Essenciais de Informação).",
+      "b": "IEI (Itens Essenciais de Informação).",
+      "c": "CAT (Categorias de Alvos).",
+      "d": "REMIR (Relatório Final)."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 13. IEI são os detalhes específicos de cada tipo de alvo."
+  },
+  {
+    "id": "235",
+    "tipo": "TIPO 4",
+    "tema": "Briefing e Debriefing",
+    "enunciado": "Na etapa do _________, o TIR transfere para a equipagem todas as informações obtidas durante o planejamento, relativas a cada alvo.",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Debriefing",
+      "b": "Processamento",
+      "c": "Briefing de Reconhecimento",
+      "d": "Briefing de Navegação"
+    },
+    "resposta_correta": "c",
+    "justificativa": "Página 17. É a primeira fase do briefing, com participação ativa do TIR."
+  },
+  {
+    "id": "236",
+    "tipo": "TIPO 1",
+    "tema": "Cartografia na Missão",
+    "enunciado": "Quais escalas de cartas são normalmente utilizadas para navegação altante no planejamento?",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "1/50.000 e 1/100.000.",
+      "b": "1/250.000 e 1/500.000 (rasante).",
+      "c": "1/1.000.000 e 1/500.000.",
+      "d": "Cartas náuticas apenas."
+    },
+    "resposta_correta": "c",
+    "justificativa": "Página 15. Escalas maiores para navegação em altitude."
+  },
+  {
+    "id": "237",
+    "tipo": "TIPO 2",
+    "tema": "Debriefing de Missão",
+    "enunciado": "A primeira fase do debriefing consiste na:",
+    "itens": [
+      "I. Separação dos fotogramas de cada alvo.",
+      "II. Interrogatório da equipagem pelo TIR.",
+      "III. Transmissão imediata dos IEI via rádio ao comandante superior."
+    ],
+    "comando": "Assinale a alternativa correta:",
+    "alternativas": {
+      "a": "Apenas I.",
+      "b": "I e II.",
+      "c": "II e III.",
+      "d": "I, II e III."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 18. A fase 1 (Reconhecimento) foca nos fotogramas e no interrogatório."
+  },
+  {
+    "id": "238",
+    "tipo": "TIPO 1",
+    "tema": "Terminologia - Defesas",
+    "enunciado": "Fios de arame farpados ou enrolados na forma de espiral, formando cercas, são denominados:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Barreiras de aniajem.",
+      "b": "Concertinas.",
+      "c": "Cavalo de friza.",
+      "d": "Sebes metálicas."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 7. Definição de concertinas."
+  },
+  {
+    "id": "239",
+    "tipo": "TIPO 4",
+    "tema": "Conceitos de SR",
+    "enunciado": "_________ é a atividade de sensoriar, registrar e identificar um alvo. Já a _________ é a análise acurada do alvo com finalidade específica.",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Interpretação / Reconhecimento",
+      "b": "Reconhecimento / Interpretação",
+      "c": "Coleta / Análise",
+      "d": "Detecção / Processamento"
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 10. Diferença fundamental entre reconhecer e interpretar."
+  },
+  {
+    "id": "240",
+    "tipo": "TIPO 1",
+    "tema": "Processamento de Dados",
+    "enunciado": "A fase de processamento, que pode incluir revelação química de filmes fotográficos, é acompanhada pelo:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Piloto da aeronave.",
+      "b": "TIR (Técnico em Informações de Reconhecimento).",
+      "c": "Oficial de Inteligência do MD.",
+      "d": "Técnico químico apenas."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 18. O TIR fiscaliza o processamento para garantir a qualidade do debriefing."
+  },
+  {
+    "id": "241",
+    "tipo": "TIPO 3",
+    "tema": "Fichas CAT",
+    "enunciado": "Sobre as fichas de Categorias de Alvos (CAT), julgue (V ou F):",
+    "itens": [
+      "( ) São estruturadas em fichas próprias e padronizadas.",
+      "( ) Servem como fonte de consulta adicional ao TIR para elaboração do REMIR.",
+      "( ) Alguns IEI são de preenchimento obrigatório dentro das fichas."
+    ],
+    "comando": "A sequência correta é:",
+    "alternativas": {
+      "a": "V - V - V",
+      "b": "F - V - V",
+      "c": "V - F - V",
+      "d": "V - V - F"
+    },
+    "resposta_correta": "a",
+    "justificativa": "Página 14. Todos os pontos sobre as Fichas CAT estão previstos no manual."
+  },
+  {
+    "id": "242",
+    "tipo": "TIPO 1",
+    "tema": "Terminologia - Estruturas",
+    "enunciado": "Como se denomina a estrutura curva que cobre um vão e suporta pressão, originando abóbadas?",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Esqueleto.",
+      "b": "Arco.",
+      "c": "Pilar.",
+      "d": "Tesoura."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 7. Definição do termo 'Arco'."
+  },
+  {
+    "id": "243",
+    "tipo": "TIPO 4",
+    "tema": "Briefing de Navegação",
+    "enunciado": "Na etapa do briefing de navegação, o _________ NÃO participa, a menos que faça parte da equipagem.",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Piloto",
+      "b": "TIR",
+      "c": "Comandante da Base",
+      "d": "Fotointérprete"
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 17. O TIR foca no reconhecimento; a navegação é tarefa da equipagem (pilotos)."
+  },
+  {
+    "id": "244",
+    "tipo": "TIPO 1",
+    "tema": "Terminologia - Relevo",
+    "enunciado": "O ponto mais alto do terreno de onde se tenha a vista mais abrangente da área de interesse é a:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Cumeada.",
+      "b": "Cota dominante.",
+      "c": "Platibanda.",
+      "d": "Área de escape."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 7. Definição de 'Cota Dominante'."
+  },
+  {
+    "id": "245",
+    "tipo": "TIPO 2",
+    "tema": "Planejamento da Missão",
+    "enunciado": "A escolha dos eixos de passagem para o reconhecimento leva em consideração:",
+    "itens": [
+      "I. O tipo de informação solicitada e sensores disponíveis.",
+      "II. O relevo e as defesas inimigas.",
+      "III. Atividades de lazer das equipagens após o voo."
+    ],
+    "comando": "Assinale a alternativa que indica os fatores técnicos corretos:",
+    "alternativas": {
+      "a": "I e II apenas.",
+      "b": "I e III apenas.",
+      "c": "II e III apenas.",
+      "d": "I, II e III."
+    },
+    "resposta_correta": "a",
+    "justificativa": "Página 16. O lazer não compõe os fatores de planejamento tático da missão."
+  },
+  {
+    "id": "246",
+    "tipo": "TIPO 1",
+    "tema": "Categorias de Alvos",
+    "enunciado": "A categoria CAT 02 refere-se a quais tipos de alvos?",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Aeródromos.",
+      "b": "Sistemas de Mísseis.",
+      "c": "Equipamentos Eletrônicos.",
+      "d": "Meteorologia."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 14. Tabela 2 - CAT 02 corresponde a Sistemas de Mísseis."
+  },
+  {
+    "id": "247",
+    "tipo": "TIPO 4",
+    "tema": "Processo de Interpretação",
+    "enunciado": "Os fotogramas devem ser identificados com diversos dados (nome, número, data, HSO, etc.) e conterão um carimbo de acordo com o _________.",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Anexo A",
+      "b": "Anexo C",
+      "c": "OFRAG principal",
+      "d": "REMRIR imediato"
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 18. O Anexo C define os padrões de carimbo de identificação."
+  },
+  {
+    "id": "248",
+    "tipo": "TIPO 1",
+    "tema": "Terminologia - Estruturas",
+    "enunciado": "Grades ou muros que limitam um terraço são chamados de:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Platibanda.",
+      "b": "Sebes.",
+      "c": "Cota dominante.",
+      "d": "Alpendre."
+    },
+    "resposta_correta": "a",
+    "justificativa": "Página 10. Definição de platibanda."
+  },
+  {
+    "id": "249",
+    "tipo": "TIPO 3",
+    "tema": "OFRAG e Unidades",
+    "enunciado": "Sobre a Ordem Fragmentária (OFRAG), julgue (V ou F):",
+    "itens": [
+      "( ) Garante um determinado grau de sigilo para cada executante.",
+      "( ) Cada executante toma conhecimento apenas dos detalhes relativos à sua missão.",
+      "( ) Diminui a probabilidade de comprometimento das informações."
+    ],
+    "comando": "A sequência é:",
+    "alternativas": {
+      "a": "V - V - V",
+      "b": "F - V - V",
+      "c": "V - F - V",
+      "d": "V - V - F"
+    },
+    "resposta_correta": "a",
+    "justificativa": "Página 11. Estas são as vantagens consagradas do uso da OFRAG na FAB."
+  },
+  {
+    "id": "250",
+    "tipo": "TIPO 1",
+    "tema": "Interpretação de Alvos",
+    "enunciado": "Qual o objetivo final da interpretação e reconhecimento de alvos conforme o MCA 200-2?",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Obter informações para propaganda militar.",
+      "b": "Dar suporte à atividade de inteligência e emprego da FAB.",
+      "c": "Reduzir o custo operacional das bases aéreas.",
+      "d": "Mapear apenas áreas de desastres naturais."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 7. Suporte à atividade fim da Força Aérea."
+  },
+  {
+    "id": "326",
+    "tipo": "TIPO 1",
+    "tema": "Conceituação - Construção",
+    "enunciado": "De acordo com o MCA 200-2, como se denomina o vão entre duas ou mais tesouras no telhado, onde correm as águas pluviais?",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Água do Telhado.",
+      "b": "Água Furtada.",
+      "c": "Platibanda.",
+      "d": "Clarabóia."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 07. Água Furtada é o vão entre as tesouras do telhado."
+  },
+  {
+    "id": "327",
+    "tipo": "TIPO 1",
+    "tema": "Conceituação - Estrutura",
+    "enunciado": "Um tipo especial de estrutura de sustentação horizontal, apoiada de apenas um lado (semelhante a uma alavanca), é chamado de:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Coluna.",
+      "b": "Pilar.",
+      "c": "Cantilever.",
+      "d": "Arco."
+    },
+    "resposta_correta": "c",
+    "justificativa": "Página 07. Definição técnica de Cantilever no manual."
+  },
+  {
+    "id": "328",
+    "tipo": "TIPO 4",
+    "tema": "Obstáculos - Terminologia",
+    "enunciado": "O obstáculo anti-pessoal e anti-carro formado por cavaletes centrais envoltos em arame farpado é denominado _________.",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Concertina",
+      "b": "Cavalo de Friza",
+      "c": "Sebes",
+      "d": "Saco de Aniagem"
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 07. Definição de Cavalo de Friza."
+  },
+  {
+    "id": "329",
+    "tipo": "TIPO 1",
+    "tema": "Conceituação - Altitudo",
+    "enunciado": "O ponto mais alto do terreno de onde se tenha a vista mais abrangente da área de interesse é a:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Cota Dominante.",
+      "b": "Cumeeira.",
+      "c": "Platibanda.",
+      "d": "Fundação."
+    },
+    "resposta_correta": "a",
+    "justificativa": "Página 07. Cota Dominante é o ponto de observação privilegiado."
+  },
+  {
+    "id": "330",
+    "tipo": "TIPO 1",
+    "tema": "Reconhecimento vs Interpretação",
+    "enunciado": "Qual termo define a 'análise acurada de um alvo, com finalidade específica, a partir de dados existentes'?",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Reconhecimento.",
+      "b": "Interpretação.",
+      "c": "Sensoriamento.",
+      "d": "Briefing."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 10. Interpretação é a análise acurada; Reconhecimento é a atividade de sensoriar e identificar."
+  },
+  {
+    "id": "331",
+    "tipo": "TIPO 1",
+    "tema": "Pessoal de Reconhecimento",
+    "enunciado": "A designação dada aos oficiais e sargentos qualificados em conselho operacional e aptos a elaborar um REMIR é:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Foto intérprete em formação (FEF).",
+      "b": "Técnico em Informações de Reconhecimento (TIR).",
+      "c": "Foto intérprete (FI).",
+      "d": "Líder de Esquadrilha."
+    },
+    "resposta_correta": "c",
+    "justificativa": "Página 11. Definição de FI ou intérprete de imagens."
+  },
+  {
+    "id": "332",
+    "tipo": "TIPO 4",
+    "tema": "Documentos - OFRAG",
+    "enunciado": "A _________ é o documento usado pela Força Aérea para enviar instruções a unidades subordinadas, determinando a missão de reconhecimento.",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Ficha CAT",
+      "b": "Ordem Fragmentária (OFRAG)",
+      "c": "REMIR",
+      "d": "Cota Dominante"
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 11. A OFRAG dá origem à missão de reconhecimento."
+  },
+  {
+    "id": "333",
+    "tipo": "TIPO 1",
+    "tema": "Relatórios de Missão",
+    "enunciado": "O documento oficial que reúne as informações relativas a um determinado alvo, levantadas através de uma missão de reconhecimento, é o:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Relatório Imediato.",
+      "b": "Relatório Relâmpago.",
+      "c": "Relatório de Missão de Reconhecimento (REMIR).",
+      "d": "Diário de Bordo."
+    },
+    "resposta_correta": "c",
+    "justificativa": "Página 11. O REMIR é o produto principal da missão."
+  },
+  {
+    "id": "334",
+    "tipo": "TIPO 1",
+    "tema": "Relatório Imediato",
+    "enunciado": "Qual o prazo máximo para a emissão do Relatório Imediato após o pouso da aeronave?",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "30 minutos.",
+      "b": "1 hora.",
+      "c": "4 horas.",
+      "d": "24 horas."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 12. O prazo de emissão do Relatório Imediato é de até 1 hora após o pouso."
+  },
+  {
+    "id": "335",
+    "tipo": "TIPO 4",
+    "tema": "Relatório Relâmpago",
+    "enunciado": "O relatório emitido em vôo, sob responsabilidade do Líder da Formação, ao ser observado fato de interesse das forças amigas, é o _________.",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Relatório Imediato",
+      "b": "Relatório Relâmpago",
+      "c": "Briefing de Navegação",
+      "d": "IEI"
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 12. O Relâmpago é transmitido ao primeiro órgão do SCAT contatado."
+  },
+  {
+    "id": "336",
+    "tipo": "TIPO 1",
+    "tema": "Categorias de Alvos",
+    "enunciado": "Os alvos de interesse militar foram agrupados, para fins de padronização, em quantas categorias (CAT)?",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "10.",
+      "b": "12.",
+      "c": "18.",
+      "d": "24."
+    },
+    "resposta_correta": "c",
+    "justificativa": "Página 12/13. Existem 18 categorias descritas em 16 manuais (Tabela 1)."
+  },
+  {
+    "id": "337",
+    "tipo": "TIPO 1",
+    "tema": "Categorias de Alvos - Exemplos",
+    "enunciado": "De acordo com a Tabela 1 do MCA 200-2, a categoria 05 refere-se a:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Aeródromos.",
+      "b": "Sistemas de Mísseis.",
+      "c": "Petróleo e Derivados.",
+      "d": "Energia Elétrica."
+    },
+    "resposta_correta": "c",
+    "justificativa": "Página 13. Ordem das categorias: 01-Aeródromos, 05-Petróleo, etc."
+  },
+  {
+    "id": "338",
+    "tipo": "TIPO 4",
+    "tema": "Elementos de Informação",
+    "enunciado": "Dados de interesse sobre a situação do inimigo ou alvos, que mereçam ser observados durante a missão, são chamados _________.",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Itens Essenciais de Informação (IEI)",
+      "b": "Elementos Essenciais de Informação (EEI)",
+      "c": "Cotas Dominantes",
+      "d": "Pontos de Balizamento"
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 13. EEI são dados de interesse permanente ou temporário sobre o inimigo."
+  },
+  {
+    "id": "339",
+    "tipo": "TIPO 4",
+    "tema": "Itens Essenciais de Informação",
+    "enunciado": "As particularidades de um alvo julgadas relevantes para seu funcionamento e existência são chamadas de _________.",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "EEI",
+      "b": "IEI",
+      "c": "Manual MCA",
+      "d": "Briefing"
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 13. IEI são as particularidades do alvo (ex: pista, torre, pátio em aeródromos)."
+  },
+  {
+    "id": "340",
+    "tipo": "TIPO 1",
+    "tema": "Planejamento de Missão",
+    "enunciado": "Qual o prazo máximo aproximado para o planejamento total de uma missão de reconhecimento IMEDIATA a partir de uma OFRAG?",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "1 hora.",
+      "b": "4 horas.",
+      "c": "12 horas.",
+      "d": "48 horas."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 15. Missões imediatas têm no máximo 4h para planejamento e decolagem."
+  },
+  {
+    "id": "341",
+    "tipo": "TIPO 2",
+    "tema": "Briefing de Reconhecimento",
+    "enunciado": "Sobre o Briefing de Reconhecimento, analise:",
+    "itens": [
+      "I. É a primeira etapa do briefing e tem a participação do TIR.",
+      "II. O TIR distribui as Fichas CAT preparadas.",
+      "III. Nesta etapa, definem-se os horários de decolagem e códigos de transmissão."
+    ],
+    "comando": "Assinale a correta:",
+    "alternativas": {
+      "a": "I e II apenas.",
+      "b": "I e III apenas.",
+      "c": "II e III apenas.",
+      "d": "I, II e III."
+    },
+    "resposta_correta": "a",
+    "justificativa": "Página 17. A definição de horários e códigos ocorre nos 'acertos finais' APÓS a etapa de reconhecimento do briefing. (A III está tecnicamente fora da descrição principal da etapa)."
+  },
+  {
+    "id": "342",
+    "tipo": "TIPO 1",
+    "tema": "Briefing de Navegação",
+    "enunciado": "Quem NÃO participa do Briefing de Navegação, a menos que faça parte da equipagem?",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "O Líder da Formação.",
+      "b": "O Piloto de Reconhecimento.",
+      "c": "O Técnico em Informações de Reconhecimento (TIR).",
+      "d": "O Oficial de Operações."
+    },
+    "resposta_correta": "c",
+    "justificativa": "Página 17. O TIR não participa do briefing de navegação (foco técnico dos pilotos)."
+  },
+  {
+    "id": "343",
+    "tipo": "TIPO 4",
+    "tema": "TIR - Funções",
+    "enunciado": "O _________ é capacitado a elaborar o REMIR e revisar as informações nele contidas, além de interrogar as equipagens no regresso.",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "FEF",
+      "b": "TIR",
+      "c": "Comandante da Base",
+      "d": "Piloto"
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 11. O TIR é o especialista técnico em inteligência de reconhecimento."
+  },
+  {
+    "id": "344",
+    "tipo": "TIPO 3",
+    "tema": "Conceituação - Construção",
+    "enunciado": "Sobre as definições do MCA 200-2, julgue (V ou F):",
+    "itens": [
+      "( ) Domo é o telhado ou topo de construção em forma de cúpula.",
+      "( ) Platibanda é o elemento estrutural de sustentação vertical (base, fuste e capitel).",
+      "( ) Fundação é a parte da estrutura em contato com o solo."
+    ],
+    "comando": "Sequência:",
+    "alternativas": {
+      "a": "V - F - V",
+      "b": "V - V - V",
+      "c": "F - F - V",
+      "d": "V - V - F"
+    },
+    "resposta_correta": "a",
+    "justificativa": "Página 07/10. A definição do item II refere-se à Coluna, não Platibanda."
+  },
+  {
+    "id": "345",
+    "tipo": "TIPO 1",
+    "tema": "Escalas de Cartas",
+    "enunciado": "No planejamento de missões rasantes (baixo risco), quais escalas de cartas são NORMAMENTE utilizadas?",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "1/1.000.000 e 1/500.000.",
+      "b": "1/250.000 e 1/500.000.",
+      "c": "1/50.000 e 1/100.000.",
+      "d": "Cartas náuticas apenas."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 15. Cartas de 1/250k e 1/500k são usadas para navegação rasante."
+  },
+  {
+    "id": "346",
+    "tipo": "TIPO 1",
+    "tema": "Escolha dos Eixos",
+    "enunciado": "Quem deve assessorar a equipagem quanto aos eixos de passagem possíveis à disposição?",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "O Controle de Tráfego Aéreo.",
+      "b": "O Técnico em Informações de Reconhecimento (TIR).",
+      "c": "O Comandante do Teatro de Operações.",
+      "d": "O Oficial de Inteligência da Unidade Terrestre."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 16. O TIR assessora nos eixos de acordo com o tipo de informação solicitada."
+  },
+  {
+    "id": "347",
+    "tipo": "TIPO 4",
+    "tema": "Briefing Foto",
+    "enunciado": "A etapa de preparação do _________ consiste no levantamento de cartas de maior escala e análise detalhada da corrida para o alvo.",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "Briefing de Navegação",
+      "b": "Briefing Foto",
+      "c": "Plano de Voo",
+      "d": "REMIR"
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 16. O briefing foto é o detalhamento tático do alvo."
+  },
+  {
+    "id": "348",
+    "tipo": "TIPO 1",
+    "tema": "Categorias de Alvos - Água",
+    "enunciado": "A Transposição de Brechas e Cursos d'Água é classificada como qual categoria de alvo?",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "01.",
+      "b": "04.",
+      "c": "07.",
+      "d": "12."
+    },
+    "resposta_correta": "c",
+    "justificativa": "Página 13. Categoria 07 (Tabela 1)."
+  },
+  {
+    "id": "349",
+    "tipo": "TIPO 2",
+    "tema": "IEI Obrigatórios",
+    "enunciado": "De acordo com a Tabela 2, os Itens Essenciais de Informação (IEI) obrigatórios para a Categoria 01 (Aeródromos) são os itens:",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "1, 2 e 3.",
+      "b": "2, 3, 4 e 5.",
+      "c": "1, 4 e 5.",
+      "d": "Todos de 1 a 6."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 14. Tabela 2: Aeródromos (CAT 01) exige 2-3-4-5."
+  },
+  {
+    "id": "350",
+    "tipo": "TIPO 1",
+    "tema": "Transmissão de IEI",
+    "enunciado": "Terminado o briefing e executada a missão, quem transmite os IEI para a estação de recepção determinando uma prévia da missão?",
+    "itens": null,
+    "comando": null,
+    "alternativas": {
+      "a": "O TIR via rádio.",
+      "b": "O piloto, em condições de comunicação com segurança.",
+      "c": "O Oficial de Interrogação.",
+      "d": "O sargento da manutenção."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 17. O piloto transmite os IEI para a estação de recepção."
+  }
+]

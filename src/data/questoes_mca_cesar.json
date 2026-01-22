@@ -1,0 +1,394 @@
+[
+  {
+    "id": "226",
+    "tipo": "TIPO 1",
+    "tema": "Terminologia - Estruturas",
+    "enunciado": "A armação em formato triangular, no telhado, que vence grande vão sem o auxílio de paredes, é denominada:",
+    "alternativas": {
+      "a": "Platibanda.",
+      "b": "Tesoura.",
+      "c": "Cantilever.",
+      "d": "Domo."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 10. Definição técnica de tesoura no MCA 200-2."
+  },
+  {
+    "id": "227",
+    "tipo": "TIPO 4",
+    "tema": "Personagens do Reconhecimento",
+    "enunciado": "O militar qualificado para planejar missões de reconhecimento, interrogar equipagens e elaborar o REMIR é o _________.",
+    "alternativas": {
+      "a": "FEF (Fotointérprete em Formação)",
+      "b": "FI (Fotointérprete)",
+      "c": "TIR (Técnico em Informações de Reconhecimento)",
+      "d": "Piloto de Caça"
+    },
+    "resposta_correta": "c",
+    "justificativa": "Página 11. O TIR é a figura central no planejamento e processamento da informação de reconhecimento."
+  },
+  {
+    "id": "228",
+    "tipo": "TIPO 2",
+    "tema": "Relatórios de Missão",
+    "enunciado": "Sobre os relatórios de reconhecimento (MCA 200-2), analise as assertivas:",
+    "itens": [
+      "I. O Relatório Imediato deve ser emitido em até 1 (uma) hora após o pouso da aeronave.",
+      "II. O Relatório Relâmpago é emitido em voo, sob responsabilidade do Líder da Formação.",
+      "III. O REMIR é um documento oficial, classificado, que reúne informações de um determinado alvo."
+    ],
+    "comando": "Estão corretas apenas as assertivas:",
+    "alternativas": {
+      "a": "I e II.",
+      "b": "II e III.",
+      "c": "I e III.",
+      "d": "I, II e III."
+    },
+    "resposta_correta": "d",
+    "justificativa": "Páginas 11-12. Todas as definições de relatórios (Imediato, Relâmpago e REMIR) estão corretas."
+  },
+  {
+    "id": "229",
+    "tipo": "TIPO 3",
+    "tema": "Terminologia - Obstáculos",
+    "enunciado": "Julgue a veracidade das definições (V ou F):",
+    "itens": [
+      "( ) Cantilever é um tipo especial de estrutura de sustentação horizontal apoiada em apenas um lado.",
+      "( ) Cavalo de friza é um obstáculo anti-pessoal e anti-carro envolto em arame farpado.",
+      "( ) Sebes são aberturas situadas no telhado para ventilação e luminosidade."
+    ],
+    "comando": "A sequência é:",
+    "alternativas": {
+      "a": "V - V - V",
+      "b": "V - V - F",
+      "c": "F - V - F",
+      "d": "V - F - F"
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 10. Sebes são cercas de arbustos ou estacas. Clarabóias são as aberturas nos telhados."
+  },
+  {
+    "id": "230",
+    "tipo": "TIPO 1",
+    "tema": "Categorias de Alvos (CAT)",
+    "enunciado": "Os alvos de interesse militar foram agrupados em quantas categorias (CAT) principais no MCA 200-2?",
+    "alternativas": {
+      "a": "10.",
+      "b": "16.",
+      "c": "18.",
+      "d": "22."
+    },
+    "resposta_correta": "c",
+    "justificativa": "Página 13. A Tabela 1 lista as 18 categorias de alvos (de Aeródromos a Meteorologia)."
+  },
+  {
+    "id": "231",
+    "tipo": "TIPO 4",
+    "tema": "Documentos de Planejamento",
+    "enunciado": "A FAB utiliza a _________ para enviar instruções a unidades subordinadas, determinando a parte que cada uma deverá desempenhar na missão.",
+    "alternativas": {
+      "a": "DMA 1-1",
+      "b": "OFRAG (Ordem Fragmentária)",
+      "c": "Ficha CAT",
+      "d": "Planilha EEI"
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 11. A OFRAG dá origem à missão de reconhecimento."
+  },
+  {
+    "id": "232",
+    "tipo": "TIPO 1",
+    "tema": "Terminologia - Telhados",
+    "enunciado": "A parte mais elevada do telhado onde acontece o encontro das águas é a:",
+    "alternativas": {
+      "a": "Cimeira.",
+      "b": "Cumeeira.",
+      "c": "Domo.",
+      "d": "Água furtada."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 7. Cumeeira define o topo do telhado."
+  },
+  {
+    "id": "233",
+    "tipo": "TIPO 2",
+    "tema": "Missões de Reconhecimento",
+    "enunciado": "Quanto ao planejamento, as missões de reconhecimento podem ser classificadas como:",
+    "itens": [
+      "I. Missões Imediatas: originadas de uma solicitação sem planejamento anterior (prazo de até 4h).",
+      "II. Missões Pré-planejadas: originadas de solicitação anterior com prazo mais amplo.",
+      "III. Missões de Oportunidade: realizadas por decisão exclusiva do piloto sem solicitação."
+    ],
+    "comando": "Está correto:",
+    "alternativas": {
+      "a": "I e II.",
+      "b": "I e III.",
+      "c": "II e III.",
+      "d": "I, II e III."
+    },
+    "resposta_correta": "a",
+    "justificativa": "Página 15. O manual cita apenas missões Imediatas e Pré-planejadas quanto ao planejamento."
+  },
+  {
+    "id": "234",
+    "tipo": "TIPO 1",
+    "tema": "Informações Essenciais",
+    "enunciado": "Particularidades de um alvo, julgadas relevantes para o seu funcionamento e existência, são denominadas:",
+    "alternativas": {
+      "a": "EEI (Elementos Essenciais de Informação).",
+      "b": "IEI (Itens Essenciais de Informação).",
+      "c": "CAT (Categorias de Alvos).",
+      "d": "REMIR (Relatório Final)."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 13. IEI são os detalhes específicos de cada tipo de alvo."
+  },
+  {
+    "id": "235",
+    "tipo": "TIPO 4",
+    "tema": "Briefing e Debriefing",
+    "enunciado": "Na etapa do _________, o TIR transfere para a equipagem todas as informações obtidas durante o planejamento, relativas a cada alvo.",
+    "alternativas": {
+      "a": "Debriefing",
+      "b": "Processamento",
+      "c": "Briefing de Reconhecimento",
+      "d": "Briefing de Navegação"
+    },
+    "resposta_correta": "c",
+    "justificativa": "Página 17. É a primeira fase do briefing, com participação ativa do TIR."
+  },
+  {
+    "id": "236",
+    "tipo": "TIPO 1",
+    "tema": "Cartografia na Missão",
+    "enunciado": "Quais escalas de cartas são normalmente utilizadas para navegação altante no planejamento?",
+    "alternativas": {
+      "a": "1/50.000 e 1/100.000.",
+      "b": "1/250.000 e 1/500.000 (rasante).",
+      "c": "1/1.000.000 e 1/500.000.",
+      "d": "Cartas náuticas apenas."
+    },
+    "resposta_correta": "c",
+    "justificativa": "Página 15. Escalas maiores para navegação em altitude."
+  },
+  {
+    "id": "237",
+    "tipo": "TIPO 2",
+    "tema": "Debriefing de Missão",
+    "enunciado": "A primeira fase do debriefing consiste na:",
+    "itens": [
+      "I. Separação dos fotogramas de cada alvo.",
+      "II. Interrogatório da equipagem pelo TIR.",
+      "III. Transmissão imediata dos IEI via rádio ao comandante superior."
+    ],
+    "comando": "Assinale a alternativa correta:",
+    "alternativas": {
+      "a": "Apenas I.",
+      "b": "I e II.",
+      "c": "II e III.",
+      "d": "I, II e III."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 18. A fase 1 (Reconhecimento) foca nos fotogramas e no interrogatório."
+  },
+  {
+    "id": "238",
+    "tipo": "TIPO 1",
+    "tema": "Terminologia - Defesas",
+    "enunciado": "Fios de arame farpados ou enrolados na forma de espiral, formando cercas, são denominados:",
+    "alternativas": {
+      "a": "Barreiras de aniajem.",
+      "b": "Concertinas.",
+      "c": "Cavalo de friza.",
+      "d": "Sebes metálicas."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 7. Definição de concertinas."
+  },
+  {
+    "id": "239",
+    "tipo": "TIPO 4",
+    "tema": "Conceitos de SR",
+    "enunciado": "_________ é a atividade de sensoriar, registrar e identificar um alvo. Já a _________ é a análise acurada do alvo com finalidade específica.",
+    "alternativas": {
+      "a": "Interpretação / Reconhecimento",
+      "b": "Reconhecimento / Interpretação",
+      "c": "Coleta / Análise",
+      "d": "Detecção / Processamento"
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 10. Diferença fundamental entre reconhecer e interpretar."
+  },
+  {
+    "id": "240",
+    "tipo": "TIPO 1",
+    "tema": "Processamento de Dados",
+    "enunciado": "A fase de processamento, que pode incluir revelação química de filmes fotográficos, é acompanhada pelo:",
+    "alternativas": {
+      "a": "Piloto da aeronave.",
+      "b": "TIR (Técnico em Informações de Reconhecimento).",
+      "c": "Oficial de Inteligência do MD.",
+      "d": "Técnico químico apenas."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 18. O TIR fiscaliza o processamento para garantir a qualidade do debriefing."
+  },
+  {
+    "id": "241",
+    "tipo": "TIPO 3",
+    "tema": "Fichas CAT",
+    "enunciado": "Sobre as fichas de Categorias de Alvos (CAT), julgue (V ou F):",
+    "itens": [
+      "( ) São estruturadas em fichas próprias e padronizadas.",
+      "( ) Servem como fonte de consulta adicional ao TIR para elaboração do REMIR.",
+      "( ) Alguns IEI são de preenchimento obrigatório dentro das fichas."
+    ],
+    "comando": "A sequência correta é:",
+    "alternativas": {
+      "a": "V - V - V",
+      "b": "F - V - V",
+      "c": "V - F - V",
+      "d": "V - V - F"
+    },
+    "resposta_correta": "a",
+    "justificativa": "Página 14. Todos os pontos sobre as Fichas CAT estão previstos no manual."
+  },
+  {
+    "id": "242",
+    "tipo": "TIPO 1",
+    "tema": "Terminologia - Estruturas",
+    "enunciado": "Como se denomina a estrutura curva que cobre um vão e suporta pressão, originando abóbadas?",
+    "alternativas": {
+      "a": "Esqueleto.",
+      "b": "Arco.",
+      "c": "Pilar.",
+      "d": "Tesoura."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 7. Definição do termo 'Arco'."
+  },
+  {
+    "id": "243",
+    "tipo": "TIPO 4",
+    "tema": "Briefing de Navegação",
+    "enunciado": "Na etapa do briefing de navegação, o _________ NÃO participa, a menos que faça parte da equipagem.",
+    "alternativas": {
+      "a": "Piloto",
+      "b": "TIR",
+      "c": "Comandante da Base",
+      "d": "Fotointérprete"
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 17. O TIR foca no reconhecimento; a navegação é tarefa da equipagem (pilotos)."
+  },
+  {
+    "id": "244",
+    "tipo": "TIPO 1",
+    "tema": "Terminologia - Relevo",
+    "enunciado": "O ponto mais alto do terreno de onde se tenha a vista mais abrangente da área de interesse é a:",
+    "alternativas": {
+      "a": "Cumeada.",
+      "b": "Cota dominante.",
+      "c": "Platibanda.",
+      "d": "Área de escape."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 7. Definição de 'Cota Dominante'."
+  },
+  {
+    "id": "245",
+    "tipo": "TIPO 2",
+    "tema": "Planejamento da Missão",
+    "enunciado": "A escolha dos eixos de passagem para o reconhecimento leva em consideração:",
+    "itens": [
+      "I. O tipo de informação solicitada e sensores disponíveis.",
+      "II. O relevo e as defesas inimigas.",
+      "III. Atividades de lazer das equipagens após o voo."
+    ],
+    "comando": "Assinale a alternativa que indica os fatores técnicos corretos:",
+    "alternativas": {
+      "a": "I e II apenas.",
+      "b": "I e III apenas.",
+      "c": "II e III apenas.",
+      "d": "I, II e III."
+    },
+    "resposta_correta": "a",
+    "justificativa": "Página 16. O lazer não compõe os fatores de planejamento tático da missão."
+  },
+  {
+    "id": "246",
+    "tipo": "TIPO 1",
+    "tema": "Categorias de Alvos",
+    "enunciado": "A categoria CAT 02 refere-se a quais tipos de alvos?",
+    "alternativas": {
+      "a": "Aeródromos.",
+      "b": "Sistemas de Mísseis.",
+      "c": "Equipamentos Eletrônicos.",
+      "d": "Meteorologia."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 14. Tabela 2 - CAT 02 corresponde a Sistemas de Mísseis."
+  },
+  {
+    "id": "247",
+    "tipo": "TIPO 4",
+    "tema": "Processo de Interpretação",
+    "enunciado": "Os fotogramas devem ser identificados com diversos dados (nome, número, data, HSO, etc.) e conterão um carimbo de acordo com o _________.",
+    "alternativas": {
+      "a": "Anexo A",
+      "b": "Anexo C",
+      "c": "OFRAG principal",
+      "d": "REMRIR imediato"
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 18. O Anexo C define os padrões de carimbo de identificação."
+  },
+  {
+    "id": "248",
+    "tipo": "TIPO 1",
+    "tema": "Terminologia - Estruturas",
+    "enunciado": "Grades ou muros que limitam um terraço são chamados de:",
+    "alternativas": {
+      "a": "Platibanda.",
+      "b": "Sebes.",
+      "c": "Cota dominante.",
+      "d": "Alpendre."
+    },
+    "resposta_correta": "a",
+    "justificativa": "Página 10. Definição de platibanda."
+  },
+  {
+    "id": "249",
+    "tipo": "TIPO 3",
+    "tema": "OFRAG e Unidades",
+    "enunciado": "Sobre a Ordem Fragmentária (OFRAG), julgue (V ou F):",
+    "itens": [
+      "( ) Garante um determinado grau de sigilo para cada executante.",
+      "( ) Cada executante toma conhecimento apenas dos detalhes relativos à sua missão.",
+      "( ) Diminui a probabilidade de comprometimento das informações."
+    ],
+    "comando": "A sequência é:",
+    "alternativas": {
+      "a": "V - V - V",
+      "b": "F - V - V",
+      "c": "V - F - V",
+      "d": "V - V - F"
+    },
+    "resposta_correta": "a",
+    "justificativa": "Página 11. Estas são as vantagens consagradas do uso da OFRAG na FAB."
+  },
+  {
+    "id": "250",
+    "tipo": "TIPO 1",
+    "tema": "Interpretação de Alvos",
+    "enunciado": "Qual o objetivo final da interpretação e reconhecimento de alvos conforme o MCA 200-2?",
+    "alternativas": {
+      "a": "Obter informações para propaganda militar.",
+      "b": "Dar suporte à atividade de inteligência e emprego da FAB.",
+      "c": "Reduzir o custo operacional das bases aéreas.",
+      "d": "Mapear apenas áreas de desastres naturais."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 7. Suporte à atividade fim da Força Aérea."
+  }
+]

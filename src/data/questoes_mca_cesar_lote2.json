@@ -1,0 +1,364 @@
+[
+  {
+    "id": "326",
+    "tipo": "TIPO 1",
+    "tema": "Conceituação - Construção",
+    "enunciado": "De acordo com o MCA 200-2, como se denomina o vão entre duas ou mais tesouras no telhado, onde correm as águas pluviais?",
+    "alternativas": {
+      "a": "Água do Telhado.",
+      "b": "Água Furtada.",
+      "c": "Platibanda.",
+      "d": "Clarabóia."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 07. Água Furtada é o vão entre as tesouras do telhado."
+  },
+  {
+    "id": "327",
+    "tipo": "TIPO 1",
+    "tema": "Conceituação - Estrutura",
+    "enunciado": "Um tipo especial de estrutura de sustentação horizontal, apoiada de apenas um lado (semelhante a uma alavanca), é chamado de:",
+    "alternativas": {
+      "a": "Coluna.",
+      "b": "Pilar.",
+      "c": "Cantilever.",
+      "d": "Arco."
+    },
+    "resposta_correta": "c",
+    "justificativa": "Página 07. Definição técnica de Cantilever no manual."
+  },
+  {
+    "id": "328",
+    "tipo": "TIPO 4",
+    "tema": "Obstáculos - Terminologia",
+    "enunciado": "O obstáculo anti-pessoal e anti-carro formado por cavaletes centrais envoltos em arame farpado é denominado _________.",
+    "alternativas": {
+      "a": "Concertina",
+      "b": "Cavalo de Friza",
+      "c": "Sebes",
+      "d": "Saco de Aniagem"
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 07. Definição de Cavalo de Friza."
+  },
+  {
+    "id": "329",
+    "tipo": "TIPO 1",
+    "tema": "Conceituação - Altitudo",
+    "enunciado": "O ponto mais alto do terreno de onde se tenha a vista mais abrangente da área de interesse é a:",
+    "alternativas": {
+      "a": "Cota Dominante.",
+      "b": "Cumeeira.",
+      "c": "Platibanda.",
+      "d": "Fundação."
+    },
+    "resposta_correta": "a",
+    "justificativa": "Página 07. Cota Dominante é o ponto de observação privilegiado."
+  },
+  {
+    "id": "330",
+    "tipo": "TIPO 1",
+    "tema": "Reconhecimento vs Interpretação",
+    "enunciado": "Qual termo define a 'análise acurada de um alvo, com finalidade específica, a partir de dados existentes'?",
+    "alternativas": {
+      "a": "Reconhecimento.",
+      "b": "Interpretação.",
+      "c": "Sensoriamento.",
+      "d": "Briefing."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 10. Interpretação é a análise acurada; Reconhecimento é a atividade de sensoriar e identificar."
+  },
+  {
+    "id": "331",
+    "tipo": "TIPO 1",
+    "tema": "Pessoal de Reconhecimento",
+    "enunciado": "A designação dada aos oficiais e sargentos qualificados em conselho operacional e aptos a elaborar um REMIR é:",
+    "alternativas": {
+      "a": "Foto intérprete em formação (FEF).",
+      "b": "Técnico em Informações de Reconhecimento (TIR).",
+      "c": "Foto intérprete (FI).",
+      "d": "Líder de Esquadrilha."
+    },
+    "resposta_correta": "c",
+    "justificativa": "Página 11. Definição de FI ou intérprete de imagens."
+  },
+  {
+    "id": "332",
+    "tipo": "TIPO 4",
+    "tema": "Documentos - OFRAG",
+    "enunciado": "A _________ é o documento usado pela Força Aérea para enviar instruções a unidades subordinadas, determinando a missão de reconhecimento.",
+    "alternativas": {
+      "a": "Ficha CAT",
+      "b": "Ordem Fragmentária (OFRAG)",
+      "c": "REMIR",
+      "d": "Cota Dominante"
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 11. A OFRAG dá origem à missão de reconhecimento."
+  },
+  {
+    "id": "333",
+    "tipo": "TIPO 1",
+    "tema": "Relatórios de Missão",
+    "enunciado": "O documento oficial que reúne as informações relativas a um determinado alvo, levantadas através de uma missão de reconhecimento, é o:",
+    "alternativas": {
+      "a": "Relatório Imediato.",
+      "b": "Relatório Relâmpago.",
+      "c": "Relatório de Missão de Reconhecimento (REMIR).",
+      "d": "Diário de Bordo."
+    },
+    "resposta_correta": "c",
+    "justificativa": "Página 11. O REMIR é o produto principal da missão."
+  },
+  {
+    "id": "334",
+    "tipo": "TIPO 1",
+    "tema": "Relatório Imediato",
+    "enunciado": "Qual o prazo máximo para a emissão do Relatório Imediato após o pouso da aeronave?",
+    "alternativas": {
+      "a": "30 minutos.",
+      "b": "1 hora.",
+      "c": "4 horas.",
+      "d": "24 horas."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 12. O prazo de emissão do Relatório Imediato é de até 1 hora após o pouso."
+  },
+  {
+    "id": "335",
+    "tipo": "TIPO 4",
+    "tema": "Relatório Relâmpago",
+    "enunciado": "O relatório emitido em vôo, sob responsabilidade do Líder da Formação, ao ser observado fato de interesse das forças amigas, é o _________.",
+    "alternativas": {
+      "a": "Relatório Imediato",
+      "b": "Relatório Relâmpago",
+      "c": "Briefing de Navegação",
+      "d": "IEI"
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 12. O Relâmpago é transmitido ao primeiro órgão do SCAT contatado."
+  },
+  {
+    "id": "336",
+    "tipo": "TIPO 1",
+    "tema": "Categorias de Alvos",
+    "enunciado": "Os alvos de interesse militar foram agrupados, para fins de padronização, em quantas categorias (CAT)?",
+    "alternativas": {
+      "a": "10.",
+      "b": "12.",
+      "c": "18.",
+      "d": "24."
+    },
+    "resposta_correta": "c",
+    "justificativa": "Página 12/13. Existem 18 categorias descritas em 16 manuais (Tabela 1)."
+  },
+  {
+    "id": "337",
+    "tipo": "TIPO 1",
+    "tema": "Categorias de Alvos - Exemplos",
+    "enunciado": "De acordo com a Tabela 1 do MCA 200-2, a categoria 05 refere-se a:",
+    "alternativas": {
+      "a": "Aeródromos.",
+      "b": "Sistemas de Mísseis.",
+      "c": "Petróleo e Derivados.",
+      "d": "Energia Elétrica."
+    },
+    "resposta_correta": "c",
+    "justificativa": "Página 13. Ordem das categorias: 01-Aeródromos, 05-Petróleo, etc."
+  },
+  {
+    "id": "338",
+    "tipo": "TIPO 4",
+    "tema": "Elementos de Informação",
+    "enunciado": "Dados de interesse sobre a situação do inimigo ou alvos, que mereçam ser observados durante a missão, são chamados _________.",
+    "alternativas": {
+      "a": "Itens Essenciais de Informação (IEI)",
+      "b": "Elementos Essenciais de Informação (EEI)",
+      "c": "Cotas Dominantes",
+      "d": "Pontos de Balizamento"
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 13. EEI são dados de interesse permanente ou temporário sobre o inimigo."
+  },
+  {
+    "id": "339",
+    "tipo": "TIPO 4",
+    "tema": "Itens Essenciais de Informação",
+    "enunciado": "As particularidades de um alvo julgadas relevantes para seu funcionamento e existência são chamadas de _________.",
+    "alternativas": {
+      "a": "EEI",
+      "b": "IEI",
+      "c": "Manual MCA",
+      "d": "Briefing"
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 13. IEI são as particularidades do alvo (ex: pista, torre, pátio em aeródromos)."
+  },
+  {
+    "id": "340",
+    "tipo": "TIPO 1",
+    "tema": "Planejamento de Missão",
+    "enunciado": "Qual o prazo máximo aproximado para o planejamento total de uma missão de reconhecimento IMEDIATA a partir de uma OFRAG?",
+    "alternativas": {
+      "a": "1 hora.",
+      "b": "4 horas.",
+      "c": "12 horas.",
+      "d": "48 horas."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 15. Missões imediatas têm no máximo 4h para planejamento e decolagem."
+  },
+  {
+    "id": "341",
+    "tipo": "TIPO 2",
+    "tema": "Briefing de Reconhecimento",
+    "enunciado": "Sobre o Briefing de Reconhecimento, analise:",
+    "itens": [
+      "I. É a primeira etapa do briefing e tem a participação do TIR.",
+      "II. O TIR distribui as Fichas CAT preparadas.",
+      "III. Nesta etapa, definem-se os horários de decolagem e códigos de transmissão."
+    ],
+    "comando": "Assinale a correta:",
+    "alternativas": {
+      "a": "I e II apenas.",
+      "b": "I e III apenas.",
+      "c": "II e III apenas.",
+      "d": "I, II e III."
+    },
+    "resposta_correta": "a",
+    "justificativa": "Página 17. A definição de horários e códigos ocorre nos 'acertos finais' APÓS a etapa de reconhecimento do briefing. (A III está tecnicamente fora da descrição principal da etapa)."
+  },
+  {
+    "id": "342",
+    "tipo": "TIPO 1",
+    "tema": "Briefing de Navegação",
+    "enunciado": "Quem NÃO participa do Briefing de Navegação, a menos que faça parte da equipagem?",
+    "alternativas": {
+      "a": "O Líder da Formação.",
+      "b": "O Piloto de Reconhecimento.",
+      "c": "O Técnico em Informações de Reconhecimento (TIR).",
+      "d": "O Oficial de Operações."
+    },
+    "resposta_correta": "c",
+    "justificativa": "Página 17. O TIR não participa do briefing de navegação (foco técnico dos pilotos)."
+  },
+  {
+    "id": "343",
+    "tipo": "TIPO 4",
+    "tema": "TIR - Funções",
+    "enunciado": "O _________ é capacitado a elaborar o REMIR e revisar as informações nele contidas, além de interrogar as equipagens no regresso.",
+    "alternativas": {
+      "a": "FEF",
+      "b": "TIR",
+      "c": "Comandante da Base",
+      "d": "Piloto"
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 11. O TIR é o especialista técnico em inteligência de reconhecimento."
+  },
+  {
+    "id": "344",
+    "tipo": "TIPO 3",
+    "tema": "Conceituação - Construção",
+    "enunciado": "Sobre as definições do MCA 200-2, julgue (V ou F):",
+    "itens": [
+      "( ) Domo é o telhado ou topo de construção em forma de cúpula.",
+      "( ) Platibanda é o elemento estrutural de sustentação vertical (base, fuste e capitel).",
+      "( ) Fundação é a parte da estrutura em contato com o solo."
+    ],
+    "comando": "Sequência:",
+    "alternativas": {
+      "a": "V - F - V",
+      "b": "V - V - V",
+      "c": "F - F - V",
+      "d": "V - V - F"
+    },
+    "resposta_correta": "a",
+    "justificativa": "Página 07/10. A definição do item II refere-se à Coluna, não Platibanda."
+  },
+  {
+    "id": "345",
+    "tipo": "TIPO 1",
+    "tema": "Escalas de Cartas",
+    "enunciado": "No planejamento de missões rasantes (baixo risco), quais escalas de cartas são NORMAMENTE utilizadas?",
+    "alternativas": {
+      "a": "1/1.000.000 e 1/500.000.",
+      "b": "1/250.000 e 1/500.000.",
+      "c": "1/50.000 e 1/100.000.",
+      "d": "Cartas náuticas apenas."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 15. Cartas de 1/250k e 1/500k são usadas para navegação rasante."
+  },
+  {
+    "id": "346",
+    "tipo": "TIPO 1",
+    "tema": "Escolha dos Eixos",
+    "enunciado": "Quem deve assessorar a equipagem quanto aos eixos de passagem possíveis à disposição?",
+    "alternativas": {
+      "a": "O Controle de Tráfego Aéreo.",
+      "b": "O Técnico em Informações de Reconhecimento (TIR).",
+      "c": "O Comandante do Teatro de Operações.",
+      "d": "O Oficial de Inteligência da Unidade Terrestre."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 16. O TIR assessora nos eixos de acordo com o tipo de informação solicitada."
+  },
+  {
+    "id": "347",
+    "tipo": "TIPO 4",
+    "tema": "Briefing Foto",
+    "enunciado": "A etapa de preparação do _________ consiste no levantamento de cartas de maior escala e análise detalhada da corrida para o alvo.",
+    "alternativas": {
+      "a": "Briefing de Navegação",
+      "b": "Briefing Foto",
+      "c": "Plano de Voo",
+      "d": "REMIR"
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 16. O briefing foto é o detalhamento tático do alvo."
+  },
+  {
+    "id": "348",
+    "tipo": "TIPO 1",
+    "tema": "Categorias de Alvos - Água",
+    "enunciado": "A Transposição de Brechas e Cursos d'Água é classificada como qual categoria de alvo?",
+    "alternativas": {
+      "a": "01.",
+      "b": "04.",
+      "c": "07.",
+      "d": "12."
+    },
+    "resposta_correta": "c",
+    "justificativa": "Página 13. Categoria 07 (Tabela 1)."
+  },
+  {
+    "id": "349",
+    "tipo": "TIPO 2",
+    "tema": "IEI Obrigatórios",
+    "enunciado": "De acordo com a Tabela 2, os Itens Essenciais de Informação (IEI) obrigatórios para a Categoria 01 (Aeródromos) são os itens:",
+    "alternativas": {
+      "a": "1, 2 e 3.",
+      "b": "2, 3, 4 e 5.",
+      "c": "1, 4 e 5.",
+      "d": "Todos de 1 a 6."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 14. Tabela 2: Aeródromos (CAT 01) exige 2-3-4-5."
+  },
+  {
+    "id": "350",
+    "tipo": "TIPO 1",
+    "tema": "Transmissão de IEI",
+    "enunciado": "Terminado o briefing e executada a missão, quem transmite os IEI para a estação de recepção determinando uma prévia da missão?",
+    "alternativas": {
+      "a": "O TIR via rádio.",
+      "b": "O piloto, em condições de comunicação com segurança.",
+      "c": "O Oficial de Interrogação.",
+      "d": "O sargento da manutenção."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 17. O piloto transmite os IEI para a estação de recepção."
+  }
+]

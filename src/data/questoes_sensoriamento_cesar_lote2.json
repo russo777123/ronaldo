@@ -1,0 +1,382 @@
+[
+  {
+    "id": "151",
+    "tipo": "TIPO 1",
+    "tema": "Constituintes Atmosféricos - Absorção",
+    "enunciado": "Qual constituinte atmosférico é responsável pela absorção da maior parte da radiação ultravioleta (UV), protegendo a superfície terrestre?",
+    "alternativas": {
+      "a": "Vapor d'água (H2O).",
+      "b": "Dióxido de Carbono (CO2).",
+      "c": "Ozônio (O3).",
+      "d": "Nitrogênio (N2)."
+    },
+    "resposta_correta": "c",
+    "justificativa": "Página 35. O ozônio absorve a maior parte da radiação ultravioleta."
+  },
+  {
+    "id": "152",
+    "tipo": "TIPO 1",
+    "tema": "Janelas Atmosféricas",
+    "enunciado": "Os sensores remotos são construídos para operar em intervalos onde a atenuação atmosférica é mínima. Esses intervalos são chamados de:",
+    "alternativas": {
+      "a": "Bandas de Absorção.",
+      "b": "Janelas Atmosféricas.",
+      "c": "Canais de Espalhamento.",
+      "d": "Zonas de Transição."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 35. As janelas atmosféricas permitem a passagem da REM com pouca interferência dos gases."
+  },
+  {
+    "id": "153",
+    "tipo": "TIPO 4",
+    "tema": "Janela do Visível",
+    "enunciado": "A janela do visível no espectro eletromagnético abrange o intervalo de comprimentos de onda de _________ a _________.",
+    "alternativas": {
+      "a": "0,1 nm a 10 nm.",
+      "b": "0,4 μm a 0,7 μm.",
+      "c": "3 μm a 5 μm.",
+      "d": "8 μm a 14 μm."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 35. Valor padrão para a região do visível (0,4 a 0,7 micrômetros)."
+  },
+  {
+    "id": "154",
+    "tipo": "TIPO 1",
+    "tema": "Janela do FLIR",
+    "enunciado": "A janela do FLIR (Forward Looking Infrared), situada entre 3 μm e 5 μm, é especialmente adequada para a detecção de:",
+    "alternativas": {
+      "a": "Crescimento de colheitas.",
+      "b": "Fontes de calor intenso, como turbinas de aeronaves.",
+      "c": "Umidade do solo.",
+      "d": "Concentração de clorofila na água."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 35. Esta região de infravermelho médio detecta altas temperaturas."
+  },
+  {
+    "id": "155",
+    "tipo": "TIPO 1",
+    "tema": "Sensores Eletro-ópticos",
+    "enunciado": "O conceito de sensores eletro-ópticos está mais comumente associado a sistemas que operam em qual região do EEM?",
+    "alternativas": {
+      "a": "Micro-ondas.",
+      "b": "Região refletida (Visível e Infravermelho Próximo).",
+      "c": "Raios X.",
+      "d": "Ondas de Rádio."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 36. Operam na região refletida, predominantemente no visível."
+  },
+  {
+    "id": "156",
+    "tipo": "TIPO 2",
+    "tema": "Subsistemas de Sensores Eletro-ópticos",
+    "enunciado": "A constituição básica de um sensor eletro-óptico compreende quatro subsistemas principais. Analise as assertivas:",
+    "itens": [
+      "I. O subsistema Óptico é responsável pelas propriedades espaciais e espectrais do sensor.",
+      "II. O subsistema de Detecção realiza a conversão do fluxo radiante em sinal elétrico.",
+      "III. O subsistema de Condicionamento do sinal realiza a quantização imediata em níveis digitais."
+    ],
+    "comando": "Assinale a alternativa correta:",
+    "alternativas": {
+      "a": "I e II apenas.",
+      "b": "I e III apenas.",
+      "c": "II e III apenas.",
+      "d": "I, II e III."
+    },
+    "resposta_correta": "a",
+    "justificativa": "Página 37. A quantização (A/D) ocorre no subsistema de Saída e Visualização, não no condicionamento primário (a III está incorreta)."
+  },
+  {
+    "id": "157",
+    "tipo": "TIPO 1",
+    "tema": "Sensores Eletro-ópticos - Detectores",
+    "enunciado": "Quais são os principais tipos de detectores responsáveis pela conversão de luz em eletricidade nos sensores eletro-ópticos modernos?",
+    "alternativas": {
+      "a": "Válvulas Termiônicas.",
+      "b": "CCD e CMOS.",
+      "c": "Transistores de Germânio.",
+      "d": "Tubos de Raios Catódicos."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 37. Charge-Coupled Device (CCD) e Complementary Metal-Oxide-Semiconductor (CMOS)."
+  },
+  {
+    "id": "158",
+    "tipo": "TIPO 4",
+    "tema": "Quantização",
+    "enunciado": "No processo de quantização, o sinal analógico é transformado em níveis digitais discretos chamados de _________.",
+    "alternativas": {
+      "a": "Valores Reais",
+      "b": "Números Digitais (ND)",
+      "c": "Bitrates",
+      "d": "Fluxos Elétricos"
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 38. O ND representa a radiância da cena em uma escala numérica."
+  },
+  {
+    "id": "159",
+    "tipo": "TIPO 1",
+    "tema": "Infravermelho - Sub-regiões",
+    "enunciado": "A região do infravermelho próximo (IVP) no Sensoriamento Remoto situa-se no intervalo de:",
+    "alternativas": {
+      "a": "0,4 μm a 0,7 μm.",
+      "b": "0,7 μm a 3,0 μm.",
+      "c": "3,0 μm a 20,0 μm.",
+      "d": "20,0 μm a 1.000 μm."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 38. O infravermelho próximo inicia logo após o limite superior do visível (0,7 microns)."
+  },
+  {
+    "id": "160",
+    "tipo": "TIPO 1",
+    "tema": "Infravermelho Próximo - Interação",
+    "enunciado": "Qual a principal característica da interação da REM com a matéria na sub-região do infravermelho próximo (IVP)?",
+    "alternativas": {
+      "a": "A energia é essencialmente emitida pelos alvos.",
+      "b": "A energia atinge o sensor após ser refletida pela superfície do alvo (como no visível).",
+      "c": "A atmosfera é totalmente opaca nesta região.",
+      "d": "Ocorre forte espalhamento Rayleigh."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 38. O IVP comporta-se de modo semelhante ao visível, dependendo da reflexão da luz solar."
+  },
+  {
+    "id": "161",
+    "tipo": "TIPO 4",
+    "tema": "Transmitância Atmosférica",
+    "enunciado": "O infravermelho próximo possui uma maior _________ atmosférica, sendo menos suscetível ao espalhamento Rayleigh que o visível.",
+    "alternativas": {
+      "a": "Refletância",
+      "b": "Transmitância",
+      "c": "Absorção",
+      "d": "Difração"
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 39. Quanto maior o comprimento de onda, menor a influência do espalhamento atmosférico gasoso."
+  },
+  {
+    "id": "162",
+    "tipo": "TIPO 1",
+    "tema": "Infravermelho Distante",
+    "enunciado": "Por que o emprego do infravermelho distante (20 a 1.000 μm) é limitado em Sensoriamento Remoto orbital?",
+    "alternativas": {
+      "a": "Devido à ausência de alvos térmicos.",
+      "b": "Devido à intensa atenuação atmosférica causada por bandas de absorção constituintes.",
+      "c": "Porque a velocidade da luz é menor nesta faixa.",
+      "d": "Porque os detectores CCD não suportam o calor."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 39. A atmosfera é quase opaca nesta região, impedindo o imageamento orbital."
+  },
+  {
+    "id": "163",
+    "tipo": "TIPO 1",
+    "tema": "Infravermelho Termal - Fonte",
+    "enunciado": "No Sensoriamento Remoto termal (acima de 3 μm), a energia detectada é predominantemente:",
+    "alternativas": {
+      "a": "Refletida pelo solo.",
+      "b": "Emitida pelos próprios alvos terrestres.",
+      "c": "Transmitida pelo núcleo da Terra.",
+      "d": "Espalhada pela ionosfera."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 40. O alvo atua como fonte de REM devido à sua temperatura própria."
+  },
+  {
+    "id": "164",
+    "tipo": "TIPO 3",
+    "tema": "Infravermelho Termal - Janelas",
+    "enunciado": "Sobre o Sensoriamento Remoto Termal, julgue (V ou F):",
+    "itens": [
+      "( ) Opera em duas janelas principais: 3-5 μm e 8-14 μm.",
+      "( ) Na janela de 3-5 μm, ainda há influência da energia solar refletida.",
+      "( ) Na janela de 8-14 μm, a influência solar é desprezível."
+    ],
+    "comando": "A sequência está correta em:",
+    "alternativas": {
+      "a": "V - V - V",
+      "b": "V - F - V",
+      "c": "F - V - V",
+      "d": "V - V - F"
+    },
+    "resposta_correta": "a",
+    "justificativa": "Página 40. Descrição precisa do comportamento das janelas térmicas sob luz solar."
+  },
+  {
+    "id": "165",
+    "tipo": "TIPO 1",
+    "tema": "Infravermelho Termal - Aplicação",
+    "enunciado": "Uma vantagem exclusiva do Sensoriamento Remoto no infravermelho termal em relação ao visível é:",
+    "alternativas": {
+      "a": "Obter mais cores da vegetação.",
+      "b": "Independer da iluminação solar para imageamento (uso noturno).",
+      "c": "Visualizar através de nuvens espessas.",
+      "d": "Cálculo do PIB por radiação."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 40. Como os alvos emitem a própria energia, o sensor pode operar em total escuridão."
+  },
+  {
+    "id": "166",
+    "tipo": "TIPO 4",
+    "tema": "Sensores Eletro-ópticos - Óptico",
+    "enunciado": "O subsistema _________ é o responsável pela distribuição de energia em função do comprimento de onda (propriedade espectral).",
+    "alternativas": {
+      "a": "De Detecção",
+      "b": "Óptico",
+      "c": "De Condicionamento",
+      "d": "De Saída"
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 37. O subsistema óptico inclui filtros e elementos de dispersão que selecionam as bandas espectrais."
+  },
+  {
+    "id": "167",
+    "tipo": "TIPO 1",
+    "tema": "Conversor A/D",
+    "enunciado": "Em qual estágio do sensor eletro-óptico ocorre a conversão do sinal analógico para digital?",
+    "alternativas": {
+      "a": "Subsistema de Detecção.",
+      "b": "Subsistema de Saída e Visualização.",
+      "c": "Subsistema Óptico.",
+      "d": "Antena de Transmissão."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 37. O conversor A/D finaliza o processamento preparando o dado para transmissão/armazenamento."
+  },
+  {
+    "id": "168",
+    "tipo": "TIPO 2",
+    "tema": "Ozônio e Vapor d'Água",
+    "enunciado": "Sobre a absorção atmosférica, analise:",
+    "itens": [
+      "I. O vapor d'água possui extensas bandas de absorção no infravermelho.",
+      "II. O ozônio absorve radiação em comprimentos de onda curtos (UV).",
+      "III. O nitrogênio é o principal gás absorvedor de energia termal."
+    ],
+    "comando": "Está correto:",
+    "alternativas": {
+      "a": "I e II apenas.",
+      "b": "I e III apenas.",
+      "c": "II e III apenas.",
+      "d": "I, II e III."
+    },
+    "resposta_correta": "a",
+    "justificativa": "Página 35. O H2O e o O3 são os grandes responsáveis pela absorção, o N2 é praticamente transparente à REM terrestre."
+  },
+  {
+    "id": "169",
+    "tipo": "TIPO 1",
+    "tema": "Visível - Aplicação Militar",
+    "enunciado": "No uso militar, a vantagem do espectro visível (comprimentos curtos) é fornecer imagens de altíssima qualidade para:",
+    "alternativas": {
+      "a": "Detectar temperatura de mísseis.",
+      "b": "Identificar tipo, quantidade e localização de tropas e equipamentos.",
+      "c": "Atravessar fumaça densa de combate.",
+      "d": "Medir a salinidade do mar."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 36. A alta resolução espacial do visível permite reconhecimento tático detalhado."
+  },
+  {
+    "id": "170",
+    "tipo": "TIPO 4",
+    "tema": "Condicionamento do Sinal",
+    "enunciado": "A _________ é necessária no condicionamento do sinal para elevar o nível de energia elétrica vinda do detector antes da quantização.",
+    "alternativas": {
+      "a": "Filtragem",
+      "b": "Pré-amplificação",
+      "c": "Dispersão",
+      "d": "Refração"
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 37. O sinal primário é muito fraco e precisa ser reforçado (amplificação)."
+  },
+  {
+    "id": "171",
+    "tipo": "TIPO 1",
+    "tema": "Infravermelho Termal - 300K",
+    "enunciado": "Qual janela atmosférica é a mais adequada para o imageamento de alvos com temperatura próxima a 300 K (média terrestre)?",
+    "alternativas": {
+      "a": "Janela do Visível (0,4-0,7 μm).",
+      "b": "Janela do FLIR (3-5 μm).",
+      "c": "Janela do Termal (8-14 μm).",
+      "d": "Janela UV."
+    },
+    "resposta_correta": "c",
+    "justificativa": "Página 35. De acordo com a Lei de Wien, alvos a 300K emitem o máximo de energia ao redor de 10 micrômetros."
+  },
+  {
+    "id": "172",
+    "tipo": "TIPO 3",
+    "tema": "Visível e Humano",
+    "enunciado": "Julgue a relação do visível com a percepção humana (V ou F):",
+    "itens": [
+      "( ) Imagens no visível têm correlação direta com a percepção visual do operador.",
+      "( ) Servem de base para identificar alvos imageados simultaneamente em outras faixas.",
+      "( ) Imagens da ação antrópica auxiliam na avaliação do crescimento populacional."
+    ],
+    "comando": "Sequência:",
+    "alternativas": {
+      "a": "V - V - V",
+      "b": "V - F - V",
+      "c": "F - V - V",
+      "d": "V - V - F"
+    },
+    "resposta_correta": "a",
+    "justificativa": "Páginas 35/36. O visível é o padrão de referência para a interpretação humana de imagens."
+  },
+  {
+    "id": "173",
+    "tipo": "TIPO 1",
+    "tema": "CCD e CMOS",
+    "enunciado": "A principal diferença funcional do subsistema de detecção para o subsistema óptico é:",
+    "alternativas": {
+      "a": "O óptico focaliza, o de detecção converte luz em sinal elétrico.",
+      "b": "O óptico converte luz em sinal elétrico, o de detecção armazena.",
+      "c": "Ambos fazem a mesma coisa.",
+      "d": "O de detecção é responsável pela órbita."
+    },
+    "resposta_correta": "a",
+    "justificativa": "Página 37. Separação clara entre a óptica física e a eletrônica de detecção."
+  },
+  {
+    "id": "174",
+    "tipo": "TIPO 4",
+    "tema": "Saturação",
+    "enunciado": "No ajuste do ganho do sinal, deve-se evitar a _________, que ocorre quando o sinal excede a escala máxima do conversor digital.",
+    "alternativas": {
+      "a": "Quantização",
+      "b": "Saturação",
+      "c": "Binarização",
+      "d": "Refração"
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 37. Saturação causa a perda de detalhes nas áreas mais brilhantes da imagem."
+  },
+  {
+    "id": "175",
+    "tipo": "TIPO 2",
+    "tema": "Subsistema de Saída",
+    "enunciado": "O Subsistema de Saída e Visualização engloba:",
+    "itens": [
+      "I. Conversor analógico-digital (A/D).",
+      "II. Dispositivos de transmissão e armazenamento.",
+      "III. Lentes e filtros de dispersão."
+    ],
+    "comando": "Assinale a correta:",
+    "alternativas": {
+      "a": "I e II apenas.",
+      "b": "II e III apenas.",
+      "c": "I e III apenas.",
+      "d": "I, II e III."
+    },
+    "resposta_correta": "a",
+    "justificativa": "Páginas 37/38. Lentes e filtros (III) pertencem ao subsistema Óptico."
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "id": "201",
+    "tipo": "TIPO 1",
+    "tema": "Índice de Refração",
+    "enunciado": "O quociente entre a velocidade da luz no vácuo (c) e a velocidade da luz em um dado meio transparente (v) define qual grandeza física?",
+    "alternativas": {
+      "a": "Frequência absoluta.",
+      "b": "Índice de refração absoluto (n).",
+      "c": "Constante de Planck.",
+      "d": "Velocidade relativa de dispersão."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 7. n = c / v define quão refrigente é o meio."
+  },
+  {
+    "id": "202",
+    "tipo": "TIPO 2",
+    "tema": "Leis de Refração",
+    "enunciado": "Considere as Leis de Refração da Luz. Analise as assertivas abaixo:",
+    "itens": [
+      "I. O raio incidente, a normal e o raio refratado estão sempre no mesmo plano.",
+      "II. Na 2ª Lei (Snell-Descartes), o produto do índice de refração pelo seno do ângulo é constante.",
+      "III. Quando a luz passa de um meio menos refrigente para um mais refrigente, o raio se afasta da normal."
+    ],
+    "comando": "Está(ão) correta(s) apenas:",
+    "alternativas": {
+      "a": "I.",
+      "b": "I e II.",
+      "c": "II e III.",
+      "d": "I, II e III."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 9. Ao passar para um meio MAIS refrigente, o raio se APROXIMA da normal (i > r). A III está incorreta."
+  },
+  {
+    "id": "203",
+    "tipo": "TIPO 4",
+    "tema": "Dispersão da Luz",
+    "enunciado": "No fenômeno da dispersão da luz branca ao passar do ar para o vidro, a componente que MAIS se desvia é o raio _________.",
+    "alternativas": {
+      "a": "Vermelho",
+      "b": "Verde",
+      "c": "Violeta",
+      "d": "Amarelo"
+    },
+    "resposta_correta": "c",
+    "justificativa": "Página 11. O violeta possui o maior índice de refração e o maior desvio."
+  },
+  {
+    "id": "301",
+    "tipo": "TIPO 1",
+    "tema": "Lentes Convergentes - Imagem",
+    "enunciado": "Quando um objeto real é situado ANTES do ponto Antiprincipal Objeto (Ao) em uma lente convergente, as características da imagem formada são:",
+    "alternativas": {
+      "a": "Real, Direta e Menor.",
+      "b": "Real, Invertida e Menor.",
+      "c": "Virtual, Direita e Maior.",
+      "d": "Real, Invertida e do mesmo tamanho."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 18. O Quadro 2 (Caso I) define a imagem como real, invertida e menor, situada entre Fi e Ai."
+  },
+  {
+    "id": "303",
+    "tipo": "TIPO 4",
+    "tema": "Lente Divergente - Características",
+    "enunciado": "Qualquer que seja a posição do objeto real em relação a uma lente divergente, a imagem será sempre _________, _________ e _________.",
+    "alternativas": {
+      "a": "Real, Invertida e Menor.",
+      "b": "Virtual, Direita e Maior.",
+      "c": "Virtual, Direita e Menor.",
+      "d": "Real, Direita e do mesmo tamanho."
+    },
+    "resposta_correta": "c",
+    "justificativa": "Página 19. O Quadro 3 mostra que lentes divergentes produzem apenas imagens virtuais, direitas e menores."
+  },
+  {
+    "id": "304",
+    "tipo": "TIPO 1",
+    "tema": "Equação de Gauss",
+    "enunciado": "Na Equação de Gauss (1/f = 1/p + 1/p'), a grandeza p' representa:",
+    "alternativas": {
+      "a": "A distância focal da lente.",
+      "b": "A distância do objeto à lente.",
+      "c": "A distância da imagem à lente.",
+      "d": "O aumento linear transversal."
+    },
+    "resposta_correta": "c",
+    "justificativa": "Página 20. f é distância focal, p é distância do objeto e p' é distância da imagem."
+  },
+  {
+    "id": "307",
+    "tipo": "TIPO 1",
+    "tema": "Vergência",
+    "enunciado": "A unidade de medida da vergência (V) de uma lente no Sistema Internacional (SI) é a:",
+    "alternativas": {
+      "a": "Candela.",
+      "b": "Lumen.",
+      "c": "Dioptria (di).",
+      "d": "Lux."
+    },
+    "resposta_correta": "c",
+    "justificativa": "Página 22. A dioptria (popular 'grau') é o inverso do metro (m^-1)."
+  },
+  {
+    "id": "312",
+    "tipo": "TIPO 1",
+    "tema": "Aberrações",
+    "enunciado": "Como se denominam as distorções na imagem causadas pela variação do índice de refração do vidro para diferentes cores (comprimentos de onda)?",
+    "alternativas": {
+      "a": "Aberrações Geométricas.",
+      "b": "Aberrações Cromáticas.",
+      "c": "Coma.",
+      "d": "Astigmatismo."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 25. Aberrações cromáticas têm origem nas distintas refrações para diferentes cores."
+  },
+  {
+    "id": "326",
+    "tipo": "TIPO 4",
+    "tema": "Aberração de Coma",
+    "enunciado": "A aberração de _________ afeta a imagem de pontos não situados sobre o eixo principal da lente, provocando uma mancha luminosa em forma de cometa ou pera.",
+    "alternativas": {
+      "a": "Esfericidade",
+      "b": "Coma",
+      "c": "Astigmatismo",
+      "d": "Distorção"
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 28. O coma ocorre por raios centrais e marginais de pontos fora do eixo convergirem em pontos diferentes em um plano perpendicular."
+  },
+  {
+    "id": "332",
+    "tipo": "TIPO 1",
+    "tema": "Curvatura de Campo",
+    "enunciado": "A aberração que faz com que a imagem de um objeto plano tenha a forma de uma superfície curva é a:",
+    "alternativas": {
+      "a": "Distorção crescente.",
+      "b": "Curvatura de Campo.",
+      "c": "Aberração Cromática.",
+      "d": "Coma lateral."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 32. Também chamada de curvatura de superfície focal, resulta em bordas sem nitidez se o centro for focado em plano."
+  },
+  {
+    "id": "335",
+    "tipo": "TIPO 4",
+    "tema": "Distorção em Barrilete",
+    "enunciado": "Ocorre uma redução desigual na imagem (mais forte nas extremidades), resultando em uma forma arredondada chamada distorção em _________.",
+    "alternativas": {
+      "a": "Crescente",
+      "b": "Barrilete",
+      "c": "Almofada",
+      "d": "S"
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 33. Ocorre quando o diafragma é colocado entre o objeto e a lente."
+  }
+]

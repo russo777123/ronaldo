@@ -1,0 +1,376 @@
+[
+  {
+    "id": "326",
+    "tipo": "TIPO 4",
+    "tema": "Aberração de Coma",
+    "enunciado": "A aberração de _________ afeta a imagem de pontos não situados sobre o eixo principal da lente, provocando uma mancha luminosa em forma de cometa ou pera.",
+    "alternativas": {
+      "a": "Esfericidade",
+      "b": "Coma",
+      "c": "Astigmatismo",
+      "d": "Distorção"
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 28. O coma ocorre por raios centrais e marginais de pontos fora do eixo convergirem em pontos diferentes em um plano perpendicular."
+  },
+  {
+    "id": "327",
+    "tipo": "TIPO 1",
+    "tema": "Lentes Aplanéticas",
+    "enunciado": "Lentes que não possuem as aberrações de esfericidade e de coma são chamadas de:",
+    "alternativas": {
+      "a": "Lentes Ortoscópicas.",
+      "b": "Lentes Aplanéticas.",
+      "c": "Lentes Acromáticas.",
+      "d": "Lentes Cilíndricas."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 30. Definição técnica de lentes isentas dessas duas aberrações."
+  },
+  {
+    "id": "328",
+    "tipo": "TIPO 1",
+    "tema": "Astigmatismo",
+    "enunciado": "No astigmatismo, os raios de um ponto objeto convergem para duas linhas de imagem perpendiculares entre si. Como se denomina a primeira dessas linhas?",
+    "alternativas": {
+      "a": "Linha Elíptica.",
+      "b": "Segunda Focal.",
+      "c": "Primeira Focal.",
+      "d": "Eixo de Confusão."
+    },
+    "resposta_correta": "c",
+    "justificativa": "Página 30. A primeira focal é uma reta horizontal perpendicular ao plano que contém o eixo óptico."
+  },
+  {
+    "id": "329",
+    "tipo": "TIPO 1",
+    "tema": "Astigmatismo - Focais",
+    "enunciado": "As imagens intermediárias entre a primeira e a segunda focal no astigmatismo possuem formas:",
+    "alternativas": {
+      "a": "Quadradas.",
+      "b": "Puntiformes.",
+      "c": "Elípticas.",
+      "d": "Triangulares."
+    },
+    "resposta_correta": "c",
+    "justificativa": "Página 30. A convergência passa por elipses e um círculo até se contrair na segunda focal."
+  },
+  {
+    "id": "330",
+    "tipo": "TIPO 4",
+    "tema": "Círculo de Confusão no Astigmatismo",
+    "enunciado": "No astigmatismo, o ponto de melhor foco situa-se entre as duas focais e é denominado _________.",
+    "alternativas": {
+      "a": "Ponto Antiprincipal",
+      "b": "Círculo de Confusão Mínima",
+      "c": "Foco Virtual",
+      "d": "Vértice Óptico"
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 31. O círculo de confusão mínima representa a melhor imagem de um ponto com astigmatismo."
+  },
+  {
+    "id": "331",
+    "tipo": "TIPO 3",
+    "tema": "Astigmatismo - Correção",
+    "enunciado": "Sobre o astigmatismo e sua correção, julgue (V ou F):",
+    "itens": [
+      "( ) Impede a focalização simultânea de linhas horizontais e verticais.",
+      "( ) Pode ser corrigido associando lentes com vidros de índices selecionados.",
+      "( ) O uso de um diafragma adequado sobre o eixo não auxilia na correção."
+    ],
+    "comando": "A sequência é:",
+    "alternativas": {
+      "a": "V - V - F",
+      "b": "V - V - V",
+      "c": "F - V - F",
+      "d": "V - F - V"
+    },
+    "resposta_correta": "a",
+    "justificativa": "Página 31/32. O diafragma AUXILIA na atenuação (a assertiva III está falsa)."
+  },
+  {
+    "id": "332",
+    "tipo": "TIPO 1",
+    "tema": "Curvatura de Campo",
+    "enunciado": "A aberração que faz com que a imagem de um objeto plano tenha a forma de uma superfície curva é a:",
+    "alternativas": {
+      "a": "Distorção crescente.",
+      "b": "Curvatura de Campo.",
+      "c": "Aberração Cromática.",
+      "d": "Coma lateral."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 32. Também chamada de curvatura de superfície focal, resulta em bordas sem nitidez se o centro for focado em plano."
+  },
+  {
+    "id": "333",
+    "tipo": "TIPO 4",
+    "tema": "Curvatura de Campo - Correção",
+    "enunciado": "A curvatura de campo pode ser corrigida empregando uma combinação de lentes e utilizando um _________ conveniente entre elas.",
+    "alternativas": {
+      "a": "Prisma",
+      "b": "Diafragma",
+      "c": "Espelho",
+      "d": "Filtro polarizador"
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 32. O diafragma limita os raios marginais que causam a curvatura acentuada."
+  },
+  {
+    "id": "334",
+    "tipo": "TIPO 1",
+    "tema": "Distorção",
+    "enunciado": "Diferente das outras aberrações, a distorção se relaciona com:",
+    "alternativas": {
+      "a": "A nitidez da imagem de um ponto.",
+      "b": "A forma da imagem em relação ao objeto original.",
+      "c": "A separação cromática das cores.",
+      "d": "O aumento da distância focal."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 32. A distorção resulta da diferença no grau de ampliação entre o centro e as margens da lente."
+  },
+  {
+    "id": "335",
+    "tipo": "TIPO 4",
+    "tema": "Distorção em Barrilete",
+    "enunciado": "Ocorre uma redução desigual na imagem (mais forte nas extremidades), resultando em uma forma arredondada chamada distorção em _________.",
+    "alternativas": {
+      "a": "Crescente",
+      "b": "Barrilete",
+      "c": "Almofada",
+      "d": "S"
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 33. Ocorre quando o diafragma é colocado entre o objeto e a lente."
+  },
+  {
+    "id": "336",
+    "tipo": "TIPO 4",
+    "tema": "Distorção em Crescente",
+    "enunciado": "A distorção que ocorre quando o diafragma é colocado entre a lente e a imagem, tornando a forma pontiaguda nas extremidades, é a em _________.",
+    "alternativas": {
+      "a": "Barril",
+      "b": "Barrilete",
+      "c": "Crescente",
+      "d": "Globo"
+    },
+    "resposta_correta": "c",
+    "justificativa": "Página 34. Também conhecida como distorção em almofada."
+  },
+  {
+    "id": "337",
+    "tipo": "TIPO 1",
+    "tema": "Lentes Ortoscópicas",
+    "enunciado": "Lentes que não apresentam distorção são tecnicamente denominadas:",
+    "alternativas": {
+      "a": "Lentes Aplanéticas.",
+      "b": "Lentes Ortoscópicas.",
+      "c": "Lentes Acromáticas.",
+      "d": "Lentes Biconvexas."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 35. Lentes isentas de distorção (comum em fotogrametria)."
+  },
+  {
+    "id": "338",
+    "tipo": "TIPO 4",
+    "tema": "Aberração Cromática Longitudinal",
+    "enunciado": "A variação da distância entre a lente e as imagens formadas por diferentes cores (sobre o eixo) é a aberração cromática _________.",
+    "alternativas": {
+      "a": "Transversal",
+      "b": "Longitudinal",
+      "c": "Radial",
+      "d": "Tangencial"
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 35. Refere-se à posição focal distinta para cada cor ao longo do eixo principal."
+  },
+  {
+    "id": "339",
+    "tipo": "TIPO 1",
+    "tema": "Aberração Cromática Transversal",
+    "enunciado": "A variação no TAMANHO das imagens formadas por luzes de cores diferentes é a:",
+    "alternativas": {
+      "a": "Aberração Cromática Longitudinal.",
+      "b": "Aberração Cromática Transversal.",
+      "c": "Distorção de Almofada.",
+      "d": "Curvatura de Campo."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 35. Como a ampliação depende da focal, cores diferentes geram tamanhos diferentes."
+  },
+  {
+    "id": "340",
+    "tipo": "TIPO 2",
+    "tema": "Aberrações - Causa",
+    "enunciado": "Quanto às causas das aberrações nas lentes, pode-se afirmar:",
+    "itens": [
+      "I. São consequências diretas das leis de refração em superfícies esféricas.",
+      "II. São causadas unicamente por defeitos de fabricação e polimento.",
+      "III. Ocorrem mesmo em lentes com geometria perfeita."
+    ],
+    "comando": "Está correto:",
+    "alternativas": {
+      "a": "I apenas.",
+      "b": "I e III apenas.",
+      "c": "II e III apenas.",
+      "d": "I, II e III."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 25. Aberrações são intrínsecas às leis da física (refração), não dependendo de defeitos de construção."
+  },
+  {
+    "id": "341",
+    "tipo": "TIPO 1",
+    "tema": "Aberração de Esfericidade",
+    "enunciado": "Na aberração de esfericidade, os raios que atravessam as bordas da lente convergem em um ponto:",
+    "alternativas": {
+      "a": "Mais próximo da lente que os raios centrais.",
+      "b": "Mais afastado da lente que os raios centrais.",
+      "c": "Exatamente no mesmo ponto dos raios centrais.",
+      "d": "No plano infinito."
+    },
+    "resposta_correta": "a",
+    "justificativa": "Página 26. Os raios marginais sofrem maior desvio e focam mais perto da lente."
+  },
+  {
+    "id": "342",
+    "tipo": "TIPO 4",
+    "tema": "Espessura da Lente",
+    "enunciado": "A aberração esférica ocorre sempre que a lente se afasta das condições de Gauss, o que se deve, entre outros fatores, à sua excessiva _________.",
+    "alternativas": {
+      "a": "Transparência",
+      "b": "Espessura",
+      "c": "Dureza",
+      "d": "Cor"
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 26. Lentes grossas aumentam a divergência dos focos marginais."
+  },
+  {
+    "id": "343",
+    "tipo": "TIPO 1",
+    "tema": "Distorção - Terminologia",
+    "enunciado": "A distorção em barrilete também pode ser denominada distorção em:",
+    "alternativas": {
+      "a": "Almofada.",
+      "b": "Barril.",
+      "c": "Crescente.",
+      "d": "Pin-cushion."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 34. Barrilete e Barril são sinônimos para o arredondamento para fora."
+  },
+  {
+    "id": "344",
+    "tipo": "TIPO 3",
+    "tema": "Distorção - Fatores",
+    "enunciado": "Julgue a veracidade sobre a Distorção (V ou F):",
+    "itens": [
+      "( ) Uma lente delgada simples sem diafragma costuma ser isenta de distorção.",
+      "( ) A distorção é provocada pela lente, independentemente da posição do diafragma.",
+      "( ) Em objetivas fotográficas, o diafragma é colocado entre os elementos da lente para controlar a distorção."
+    ],
+    "comando": "Sequência correta:",
+    "alternativas": {
+      "a": "V - F - V",
+      "b": "V - V - V",
+      "c": "F - V - V",
+      "d": "V - F - F"
+    },
+    "resposta_correta": "a",
+    "justificativa": "Página 35. A distorção é provocada pela POSIÇÃO do diafragma, não pela lente em si (a II está falsa)."
+  },
+  {
+    "id": "345",
+    "tipo": "TIPO 4",
+    "tema": "Astigmatismo - Focais",
+    "enunciado": "No astigmatismo, a primeira focal é perpendicular ao plano contendo o eixo óptico, enquanto a segunda focal é _________ a esse plano.",
+    "alternativas": {
+      "a": "Perpendicular",
+      "b": "Paralela",
+      "c": "Inclinada 45°",
+      "d": "Secante"
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 30. A segunda focal é paralela ao plano mencionado e perpendicular à primeira focal."
+  },
+  {
+    "id": "346",
+    "tipo": "TIPO 1",
+    "tema": "Curvatura de Campo - Nitidez",
+    "enunciado": "Se a imagem com curvatura de campo for captada em um anteparo plano, as regiões marginais ficarão:",
+    "alternativas": {
+      "a": "Nítidas.",
+      "b": "Sem nitidez.",
+      "c": "Invertidas.",
+      "d": "Coloridas (iridiscência)."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 32. Como a superfície focal é curva, um anteparo plano só foca o centro ou as bordas, nunca ambos."
+  },
+  {
+    "id": "347",
+    "tipo": "TIPO 1",
+    "tema": "Aberração de Coma - Forma",
+    "enunciado": "A mancha luminosa característica do coma assemelha-se à forma de um:",
+    "alternativas": {
+      "a": "Disco circular.",
+      "b": "Anel de Saturno.",
+      "c": "Cometa ou pera.",
+      "d": "Retângulo perfeito."
+    },
+    "resposta_correta": "c",
+    "justificativa": "Página 28. Daí o nome 'coma' (cabeleira de cometa)."
+  },
+  {
+    "id": "348",
+    "tipo": "TIPO 4",
+    "tema": "Distorção em Almofada",
+    "enunciado": "A distorção em crescente também é conhecida como distorção em _________.",
+    "alternativas": {
+      "a": "Barril",
+      "b": "Almofada",
+      "c": "Pera",
+      "d": "S"
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 34. Termo comum para a distorção para dentro (crescente)."
+  },
+  {
+    "id": "349",
+    "tipo": "TIPO 1",
+    "tema": "Aberração Cromática - Cause",
+    "enunciado": "A aberração cromática ocorre devido à variação de qual pilar do Sensoriamento Remoto nas lentes de vidro?",
+    "alternativas": {
+      "a": "Velocidade da plataforma.",
+      "b": "Índice de refração em função do comprimento de onda (λ).",
+      "c": "Temperatura do sensor.",
+      "d": "Cota do terreno."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 35. Diferentes λ (cores) sofrem refração distinta (dispersão)."
+  },
+  {
+    "id": "350",
+    "tipo": "TIPO 2",
+    "tema": "Aberrações Geométricas - Tipos",
+    "enunciado": "Identifique as aberrações que ocorrem mesmo com luz monocromática (geométricas):",
+    "itens": [
+      "I. Esfericidade e Coma.",
+      "II. Astigmatismo e Curvatura de Campo.",
+      "III. Cromatismo Longitudinal."
+    ],
+    "comando": "Assinale a alternativa correta:",
+    "alternativas": {
+      "a": "I e II apenas.",
+      "b": "I e III apenas.",
+      "c": "II e III apenas.",
+      "d": "I, II e III."
+    },
+    "resposta_correta": "a",
+    "justificativa": "Página 25. O cromatismo (item III) requer luz policromática para ocorrer."
+  }
+]

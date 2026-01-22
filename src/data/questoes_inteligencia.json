@@ -1,0 +1,652 @@
+[
+  {
+    "id": "01",
+    "subject": "SISBIN",
+    "enunciado": "A Agência Brasileira de Inteligência (ABIN) figura como o órgão central do SISBIN. Sobre a composição deste sistema, é correto afirmar que o CENSIPAM o integra por meio de qual estrutura?",
+    "opcoes": {
+      "a": "Ministério da Defesa.",
+      "b": "Casa Civil da Presidência da República.",
+      "c": "Gabinete de Segurança Institucional.",
+      "d": "Ministério da Justiça."
+    },
+    "correta": "b",
+    "justificativa": "Conforme a página 9 do manual, o CENSIPAM integra o SISBIN por intermédio da Casa Civil."
+  },
+  {
+    "id": "02",
+    "subject": "SINDE",
+    "enunciado": "O Sistema de Inteligência de Defesa (SINDE) tem a finalidade de assessorar o processo decisório no âmbito do MD. Qual é o seu Órgão Central?",
+    "opcoes": {
+      "a": "Subchefia de Inteligência Estratégica.",
+      "b": "Centro de Inteligência da Aeronáutica.",
+      "c": "Departamento de Inteligência Estratégica (DIE).",
+      "d": "Estado-Maior Conjunto das Forças Armadas."
+    },
+    "correta": "c",
+    "justificativa": "A página 10 identifica o DIE como órgão central do SINDE."
+  },
+  {
+    "id": "03",
+    "subject": "SIOP",
+    "enunciado": "O controle externo da atividade de inteligência por parte do SIOp perante a ABIN é exercido pelo:",
+    "opcoes": {
+      "a": "Poder Judiciário.",
+      "b": "Poder Legislativo.",
+      "c": "Ministério Público Federal.",
+      "d": "Conselho de Defesa Nacional."
+    },
+    "correta": "b",
+    "justificativa": "A página 11 especifica que o controle externo é de responsabilidade do Poder Legislativo."
+  },
+  {
+    "id": "04",
+    "subject": "SINTAER",
+    "enunciado": "O Órgão Central do Sistema de Inteligência da Aeronáutica (SINTAER) é o:",
+    "opcoes": {
+      "a": "CIAER.",
+      "b": "DIRENS.",
+      "c": "EMAER.",
+      "d": "COMGAR."
+    },
+    "correta": "a",
+    "justificativa": "Segundo a página 13, o CIAER é o Órgão Central do SINTAER."
+  },
+  {
+    "id": "05",
+    "subject": "Níveis de Inteligência",
+    "enunciado": "A inteligência exigida para a formação de políticas e planos militares em níveis nacionais e internacionais é classificada como:",
+    "opcoes": {
+      "a": "Tática.",
+      "b": "Operacional.",
+      "c": "Estratégica.",
+      "d": "Política."
+    },
+    "correta": "c",
+    "justificativa": "A inteligência estratégica foca em planos de alto nível nacional e internacional (Página 14)."
+  },
+  {
+    "id": "06",
+    "subject": "Níveis de Inteligência",
+    "enunciado": "Qual nível de inteligência é essencial para um Comando Conjunto (C Cj) no planejamento e execução de campanhas em um Teatro de Operações?",
+    "opcoes": {
+      "a": "Estratégica.",
+      "b": "Operacional.",
+      "c": "Tática.",
+      "d": "Logística."
+    },
+    "correta": "b",
+    "justificativa": "A inteligência operacional é a necessária para Comandos Conjuntos em campanhas (Página 14)."
+  },
+  {
+    "id": "07",
+    "subject": "Níveis de Inteligência",
+    "enunciado": "A inteligência produzida dentro da área das Forças Componentes para o planejamento e condução de operações táticas é a:",
+    "opcoes": {
+      "a": "Inteligência de Combate.",
+      "b": "Inteligência Tática.",
+      "c": "Inteligência de Unidade.",
+      "d": "Inteligência Local."
+    },
+    "correta": "b",
+    "justificativa": "Inteligência Tática é a usada no nível das Forças Componentes (Página 14)."
+  },
+  {
+    "id": "08",
+    "subject": "Produtos de Inteligência",
+    "enunciado": "O documento composto por Missão, Situação e Características da Área de Operações é denominado:",
+    "opcoes": {
+      "a": "Relátorio de Inteligência (RELINT).",
+      "b": "Cenário.",
+      "c": "Pasta de Alvos.",
+      "d": "Mapa de Situação."
+    },
+    "correta": "b",
+    "justificativa": "O Cenário é o produto que consolida Missão, Situação e Área de Operações (Página 15)."
+  },
+  {
+    "id": "09",
+    "subject": "Análise da Área",
+    "enunciado": "Na análise da área de operações, fatores como clima, hidrografia e terreno são classificados como:",
+    "opcoes": {
+      "a": "Fatores Gerais.",
+      "b": "Fatores Dinâmicos.",
+      "c": "Fatores Fixos.",
+      "d": "Fatores Mutáveis."
+    },
+    "correta": "c",
+    "justificativa": "Hidrografia e terreno são características estáveis, logo, Fatores Fixos (Página 16)."
+  },
+  {
+    "id": "10",
+    "subject": "Hidrografia",
+    "enunciado": "Em operações anfibias, qual aspecto hidrográfico deve ser examinado com detalhes devido à sua influência na aproximação das praias?",
+    "opcoes": {
+      "a": "Profundidade dos rios.",
+      "b": "Gradientes e correntes.",
+      "c": "Existência de pontes.",
+      "d": "Nível de poluição das águas."
+    },
+    "correta": "b",
+    "justificativa": "Gradientes e correntes são cruciais para a aproximação em operações anfíbias (Página 17)."
+  },
+  {
+    "id": "11",
+    "subject": "Clima",
+    "enunciado": "As 'condições sonar' nas operações navais devem ser investigadas cuidadosamente por influenciarem a operação de:",
+    "opcoes": {
+      "a": "Aeronaves de patrulha.",
+      "b": "Submarinos.",
+      "c": "Navios de transporte.",
+      "d": "Comunicações via satélite."
+    },
+    "correta": "b",
+    "justificativa": "Condições sonar afetam diretamente o emprego de submarinos (Página 17)."
+  },
+  {
+    "id": "12",
+    "subject": "Terreno",
+    "enunciado": "O efeito da topografia deve ser considerado no planejamento da evasão e recuperação de:",
+    "opcoes": {
+      "a": "Tropas de elite.",
+      "b": "Pilotos abatidos.",
+      "c": "Veículos blindados.",
+      "d": "Caminhões de suprimento."
+    },
+    "correta": "b",
+    "justificativa": "A topografia é fator crítico para a recuperação de pilotos abatidos (Página 18)."
+  },
+  {
+    "id": "13",
+    "subject": "Fatores Gerais",
+    "enunciado": "A análise que abrange as condições políticas, econômicas e psicossociais faz parte dos:",
+    "opcoes": {
+      "a": "Fatores Fixos.",
+      "b": "Fatores Gerais.",
+      "c": "Fatores Estratégicos.",
+      "d": "Fatores Culturais."
+    },
+    "correta": "b",
+    "justificativa": "Condições políticas e econômicas são Fatores Gerais (Página 20)."
+  },
+  {
+    "id": "14",
+    "subject": "Fatores Políticos",
+    "enunciado": "O estudo de assuntos internos, como estabilidade política e o esforço de guerra do inimigo, é competência da análise de:",
+    "opcoes": {
+      "a": "Fatores Econômicos.",
+      "b": "Fatores Políticos.",
+      "c": "Fatores Psicossociais.",
+      "d": "Fatores Estruturais."
+    },
+    "correta": "b",
+    "justificativa": "Estabilidade e esforço de guerra são analisados nos Fatores Políticos (Página 20)."
+  },
+  {
+    "id": "15",
+    "subject": "Psicossociais",
+    "enunciado": "Qual elemento está 'sempre presente' na análise psicossocial, influenciando o treinamento e o desprendimento das forças?",
+    "opcoes": {
+      "a": "PIB do país inimigo.",
+      "b": "O moral da população e das Forças Armadas.",
+      "c": "A rede de estradas de ferro.",
+      "d": "A tecnologia de micro-ondas."
+    },
+    "correta": "b",
+    "justificativa": "O moral é o elemento central e onipresente na análise psicossocial (Página 21)."
+  },
+  {
+    "id": "16",
+    "subject": "Científico-Tecnológicos",
+    "enunciado": "Na análise científico-tecnológica, quais setores devem ser enfatizados, especialmente quanto ao uso de satélites e foguetes?",
+    "opcoes": {
+      "a": "Agrícola e Mineral.",
+      "b": "Eletrônico e Aeroespacial.",
+      "c": "Têxtil e Marítimo.",
+      "d": "Químico e Farmacêutico."
+    },
+    "correta": "b",
+    "justificativa": "Eletrônica e Aeroespacial são os focos dessa análise (Página 21)."
+  },
+  {
+    "id": "17",
+    "subject": "Forças Inimigas",
+    "enunciado": "A descrição do número e tamanho das unidades do inimigo é referida como análise do:",
+    "opcoes": {
+      "a": "Logística.",
+      "b": "Efetivo.",
+      "c": "Dispositivo.",
+      "d": "Composição."
+    },
+    "correta": "b",
+    "justificativa": "Número e tamanho correspondem ao Efetivo (Página 21)."
+  },
+  {
+    "id": "18",
+    "subject": "Forças Inimigas",
+    "enunciado": "Esboçar a estrutura das forças inimigas (Ordem de Batalha) faz parte do estudo da:",
+    "opcoes": {
+      "a": "Capacidade de reforços.",
+      "b": "Composição e organização.",
+      "c": "Localização e dispositivo.",
+      "d": "Personalidade dos comandantes."
+    },
+    "correta": "b",
+    "justificativa": "Ordem de Batalha refere-se à composição/organização (Página 21)."
+  },
+  {
+    "id": "19",
+    "subject": "Forças Inimigas",
+    "enunciado": "A análise que descreve o inventário de aeronaves por tipo, desempenho e taxas de sortidas é a de:",
+    "opcoes": {
+      "a": "Características operacionais das aeronaves.",
+      "b": "Logística aérea.",
+      "c": "Capacidade de lançamento de mísseis.",
+      "d": "Movimentos e atividades."
+    },
+    "correta": "a",
+    "justificativa": "O inventário e desempenho das aeronaves são suas características operacionais (Página 22)."
+  },
+  {
+    "id": "20",
+    "subject": "Guerra Não Convencional",
+    "enunciado": "Sabotagem, guerrilha e bioterrorismo são classificados no manual como:",
+    "opcoes": {
+      "a": "Guerra Cibernética.",
+      "b": "Ações de guerra não convencional.",
+      "c": "Crimes Transnacionais.",
+      "d": "Guerra de Informação."
+    },
+    "correta": "b",
+    "justificativa": "Essas ações compõem a guerra não convencional (Página 23)."
+  },
+  {
+    "id": "21",
+    "subject": "Possibilidades do Inimigo",
+    "enunciado": "As possibilidades do inimigo representam as linhas de ação que ele é capaz de realizar tecnicamente. Como devem ser enumeradas?",
+    "opcoes": {
+      "a": "De forma conjunta.",
+      "b": "Separadamente para cada capacidade.",
+      "c": "Apenas as capacidades aéreas.",
+      "d": "Por ordem cronológica apenas."
+    },
+    "correta": "b",
+    "justificativa": "Devem ser enumeradas separadamente (Página 24)."
+  },
+  {
+    "id": "22",
+    "subject": "Possibilidades do Inimigo",
+    "enunciado": "Ao analisar uma possibilidade do inimigo, qual destas perguntas deve ser respondida para validá-la?",
+    "opcoes": {
+      "a": "POR QUE o inimigo faria?",
+      "b": "COM QUE FORÇA ela pode ser feita?",
+      "c": "QUEM é o comandante?",
+      "d": "QUAL o custo da operação?"
+    },
+    "correta": "b",
+    "justificativa": "O QUE, ONDE, COM QUE FORÇA, COMO, QUANDO e DE ONDE são as perguntas base (Página 24)."
+  },
+  {
+    "id": "23",
+    "subject": "Análise do Inimigo",
+    "enunciado": "O analista da seção de inteligência (D-2) deve raciocinar como se fosse o 'oficial de operações inimigo' para elaborar a:",
+    "opcoes": {
+      "a": "Pasta de Alvos.",
+      "b": "Apreciação das possibilidades do inimigo.",
+      "c": "Pauta de Comunicação.",
+      "d": "Estrutura do SISBIN."
+    },
+    "correta": "b",
+    "justificativa": "O raciocínio como inimigo visa validar as possibilidades (Página 24)."
+  },
+  {
+    "id": "24",
+    "subject": "MAPSIT",
+    "enunciado": "O MAPSIT fornece uma visão em tempo real do Teatro de Operações, composta por quais forças?",
+    "opcoes": {
+      "a": "Apenas forças amigas.",
+      "b": "Apenas forças adversárias.",
+      "c": "Amigas, neutras e adversárias.",
+      "d": "Apenas forças aéreas."
+    },
+    "correta": "c",
+    "justificativa": "O MAPSIT inclui forças amigas, neutras e adversárias (Página 25)."
+  },
+  {
+    "id": "25",
+    "subject": "Consciência Situacional",
+    "enunciado": "Qual conceito é de suma importância para a tomada de decisão no MAPSIT e na Inteligência?",
+    "opcoes": {
+      "a": "Consciência Situacional (CS).",
+      "b": "Hierarquia de Comando.",
+      "c": "Ordem Unida.",
+      "d": "Segurança Orgânica."
+    },
+    "correta": "a",
+    "justificativa": "A CS é fonte primária e fundamental para a decisão (Página 26)."
+  },
+  {
+    "id": "26",
+    "subject": "Arquivo de Ameaça",
+    "enunciado": "O documento específico para um dado tipo de equipamento (concedendo infos sobre radares, aeronaves, etc.) é o:",
+    "opcoes": {
+      "a": "Pasta de Alvos.",
+      "b": "Arquivo de Ameaça.",
+      "c": "MAPSIT.",
+      "d": "Cenário Operacional."
+    },
+    "correta": "b",
+    "justificativa": "O Arquivo de Ameaça foca em equipamentos e suas capacidades (Página 26)."
+  },
+  {
+    "id": "27",
+    "subject": "Pasta de Alvos",
+    "enunciado": "A Pasta de Alvos (TARGET Folder) contém informações específicas sobre:",
+    "opcoes": {
+      "a": "A economia do país inimigo.",
+      "y": "Cada alvo (coordenadas, cota, PMDI).",
+      "c": "A saúde da população civil.",
+      "d": "O moral das tropas amigas."
+    },
+    "correta": "b",
+    "justificativa": "A Pasta de Alvos detalha dados específicos para o ataque ao alvo (Página 27)."
+  },
+  {
+    "id": "28",
+    "subject": "SINTAER",
+    "enunciado": "Qual o objetivo principal do SINTAER?",
+    "opcoes": {
+      "a": "Treinar pilotos de caça.",
+      "b": "Produzir conhecimentos necessários ao preparo e emprego da FAB.",
+      "c": "Gerenciar o tráfego aéreo comercial.",
+      "d": "Fiscalizar as fronteiras terrestres."
+    },
+    "correta": "b",
+    "justificativa": "O preparo e emprego da FAB é o core do SINTAER (Página 13)."
+  },
+  {
+    "id": "29",
+    "subject": "SINTAER",
+    "enunciado": "A organização do SINTAER, além do Órgão Central, é composta por setores de Inteligência denominados:",
+    "opcoes": {
+      "a": "Companhias e Pelotões.",
+      "b": "Elo de Inteligência (Seção, Subseção, Assessoria).",
+      "c": "Departamentos e Gerências.",
+      "d": "Núcleos e Bases."
+    },
+    "correta": "b",
+    "justificativa": "Os elos são as estruturas pontas do SINTAER (Página 13)."
+  },
+  {
+    "id": "30",
+    "subject": "Conceitos de Inteligência",
+    "enunciado": "A Inteligência que permite o assessoramento aos Comandantes, Chefes e Diretores de OMs do COMAER é um objetivo do:",
+    "opcoes": {
+      "a": "SINDE.",
+      "b": "SINTAER.",
+      "c": "SISBIN.",
+      "d": "SIOP."
+    },
+    "correta": "b",
+    "justificativa": "É o terceiro objetivo listado para o SINTAER (Página 13)."
+  },
+  {
+    "id": "31",
+    "subject": "Análise da Área",
+    "enunciado": "O estudo minucioso da área de operações a partir de conhecimentos disponíveis compreende os:",
+    "opcoes": {
+      "a": "Poderes Nacional e Estrangeiro.",
+      "b": "Fatores gerais e fatores fixos.",
+      "c": "Fatores de sorte e azar.",
+      "d": "Fatores humanos e divinos."
+    },
+    "correta": "b",
+    "justificativa": "A análise da área se divide nestes dois grandes grupos (Página 16)."
+  },
+  {
+    "id": "32",
+    "subject": "Hidrografia",
+    "enunciado": "A suscetibilidade das águas à minagem ofensiva ou defensiva deve receber atenção especial no estudo de:",
+    "opcoes": {
+      "a": "População.",
+      "b": "Hidrografia.",
+      "c": "Solo.",
+      "d": "Clima."
+    },
+    "correta": "b",
+    "justificativa": "Minagem é tópico de hidrografia (Página 17)."
+  },
+  {
+    "id": "33",
+    "subject": "Terreno",
+    "enunciado": "O 'levantamento de obstáculos de vulto à progressão terrestre' faz parte do estudo de:",
+    "opcoes": {
+      "a": "Hidrografia.",
+      "b": "Terreno e topografia.",
+      "c": "Economia.",
+      "d": "Científico-tecnológico."
+    },
+    "correta": "b",
+    "justificativa": "Obstáculos terrestres referem-se à topografia (Página 17)."
+  },
+  {
+    "id": "34",
+    "subject": "Clima",
+    "enunciado": "A presença de neve, gelo ou chuvas afeta criticamente qual área tecnológica nas comunicações militares?",
+    "opcoes": {
+      "a": "Criptografia manual.",
+      "b": "Influência dos fenômenos na propagação.",
+      "c": "Treinamento de pessoal.",
+      "d": "Construção de pontes."
+    },
+    "correta": "b",
+    "justificativa": "O clima afeta a mobilidade e as comunicações (Página 18)."
+  },
+  {
+    "id": "35",
+    "subject": "Horários",
+    "enunciado": "No planejamento de operações, é 'altamente conveniente' tabular quais horários?",
+    "opcoes": {
+      "a": "De almoço das tropas.",
+      "b": "Do nascer e do pôr do sol.",
+      "c": "De trocas de guarda apenas.",
+      "d": "De programas de rádio."
+    },
+    "correta": "b",
+    "justificativa": "Luminosidade é vital para o planejamento (Página 18)."
+  },
+  {
+    "id": "36",
+    "subject": "Pontos Importantes",
+    "enunciado": "Instalações fabris, usinas de geração de energia e represas são considerados:",
+    "opcoes": {
+      "a": "Zonas de lazer.",
+      "b": "Pontos de importância operacional de natureza fixa.",
+      "c": "Zonas de interesse comercial.",
+      "d": "Fatores psicossociais."
+    },
+    "correta": "b",
+    "justificativa": "São infraestruturas críticas de natureza fixa (Página 18)."
+  },
+  {
+    "id": "37",
+    "subject": "Transporte",
+    "enunciado": "Entroncamentos rodoferroviários, pontes e canais são considerados:",
+    "opcoes": {
+      "a": "Obstáculos naturais.",
+      "b": "Pontos focais de navegação e suprimento.",
+      "c": "Zonas desabitadas.",
+      "d": "Fatores políticos."
+    },
+    "correta": "b",
+    "justificativa": "São nós logísticos essenciais (Página 19)."
+  },
+  {
+    "id": "38",
+    "subject": "Condições Sanitárias",
+    "enunciado": "Doenças endêmicas e a disponibilidade de pessoal médico na área são estudadas em:",
+    "opcoes": {
+      "a": "Política.",
+      "b": "Condições sanitárias.",
+      "c": "Psicossocial.",
+      "d": "Hidrografia."
+    },
+    "correta": "b",
+    "justificativa": "Saúde e higiene compõem as condições sanitárias (Página 19)."
+  },
+  {
+    "id": "39",
+    "subject": "Comunicações",
+    "enunciado": "Repetidoras de micro-ondas, cabos de fibra ótica e sítios de antenas devem ser examinados no estudo de:",
+    "opcoes": {
+      "a": "Clima.",
+      "b": "Comunicações na área.",
+      "c": "Hidrografia subterrânea.",
+      "d": "Política externa."
+    },
+    "correta": "b",
+    "justificativa": "São meios de transmissão de dados (Página 19)."
+  },
+  {
+    "id": "40",
+    "subject": "Fatores Econômicos",
+    "enunciado": "A análise da capacidade de mobilização da indústria para apoio às hostilidades é um:",
+    "opcoes": {
+      "a": "Fator Político.",
+      "b": "Fator Econômico.",
+      "c": "Fator Tecnológico.",
+      "d": "Fator Social."
+    },
+    "correta": "b",
+    "justificativa": "Indústria e recursos fabris são fatores econômicos (Página 20)."
+  },
+  {
+    "id": "41",
+    "subject": "Psicossociais",
+    "enunciado": "As características raciais, religiosas e de resistência física da população são parte dos:",
+    "opcoes": {
+      "a": "Fatores Geográficos.",
+      "b": "Fatores Psicossociais.",
+      "c": "Fatores Genéticos.",
+      "d": "Fatores Médicos."
+    },
+    "correta": "b",
+    "justificativa": "Cultura, raça e religião são traços psicossociais (Página 21)."
+  },
+  {
+    "id": "42",
+    "subject": "Forças Inimigas",
+    "enunciado": "A 'localização geográfica das forças do inimigo no TO, inclusive postos de comando' define o:",
+    "opcoes": {
+      "a": "Efetivo.",
+      "b": "Localização e dispositivo.",
+      "c": "Logística.",
+      "d": "Capacidade de reforços."
+    },
+    "correta": "b",
+    "justificativa": "Dispositivo refere-se à disposição espacial das tropas (Página 21)."
+  },
+  {
+    "id": "43",
+    "subject": "Logística Inimiga",
+    "enunciado": "O estudo de aeródromos, ferrovias e capacidade de ressuprimento do inimigo trata de sua:",
+    "opcoes": {
+      "a": "Guerra Eletrônica.",
+      "b": "Logística.",
+      "c": "Inteligência.",
+      "d": "Personalidade."
+    },
+    "correta": "b",
+    "justificativa": "Infraestrutura de transporte e ressuprimento é logística (Página 22)."
+  },
+  {
+    "id": "44",
+    "subject": "Personalidade dos Comandantes",
+    "enunciado": "Por que a personalidade dos comandantes inimigos deve ser analisada?",
+    "opcoes": {
+      "a": "Para fins de relações públicas.",
+      "b": "Pela possibilidade de influência nas decisões tomadas por eles.",
+      "c": "Para preencher o histórico da guerra.",
+      "d": "Para convites diplomáticos."
+    },
+    "correta": "b",
+    "justificativa": "O fator humano do comando afeta a estratégia inimiga (Página 23)."
+  },
+  {
+    "id": "45",
+    "subject": "Possibilidades do Inimigo",
+    "enunciado": "As 'linhas de ação (LA) que o inimigo é capaz de realizar' são denominadas:",
+    "opcoes": {
+      "a": "Vontades do Inimigo.",
+      "b": "Possibilidades do Inimigo.",
+      "c": "Desejos do Inimigo.",
+      "d": "Sonhos do Inimigo."
+    },
+    "correta": "b",
+    "justificativa": "Terminologia técnica padrão (Página 24)."
+  },
+  {
+    "id": "46",
+    "subject": "Possibilidades do Inimigo",
+    "enunciado": "Qual deve ser o primeiro grupo de possibilidades a ser considerado para maior facilidade?",
+    "opcoes": {
+      "a": "Forças navais.",
+      "b": "Forças aéreas inimigas.",
+      "c": "Forças terrestres.",
+      "d": "Forças especiais."
+    },
+    "correta": "b",
+    "justificativa": "O manual sugere começar pelas aéreas (Página 24)."
+  },
+  {
+    "id": "47",
+    "subject": "Análise Situacional",
+    "enunciado": "Como devem ser relacionadas as possibilidades inimigas ao término do processo analítico?",
+    "opcoes": {
+      "a": "Em ordem alfabética.",
+      "b": "Segundo uma ordem de probabilidade de adoção.",
+      "c": "Por tamanho da força empregada.",
+      "d": "De forma aleatória."
+    },
+    "correta": "b",
+    "justificativa": "A prioridade/probabilidade é o critério de encerramento (Página 25)."
+  },
+  {
+    "id": "48",
+    "subject": "Pasta de Alvos",
+    "enunciado": "O PMDI (Ponto Médio Desejado de Impacto) é uma informação encontrada na:",
+    "opcoes": {
+      "a": "Pasta de Alvos.",
+      "b": "Mapa de Situação.",
+      "c": "Possibilidades do Inimigo.",
+      "d": "Guerra de Informação."
+    },
+    "correta": "a",
+    "justificativa": "PMDI é dado técnico para bombardeio/ataque (Página 27)."
+  },
+  {
+    "id": "49",
+    "subject": "SISBIN",
+    "enunciado": "O SISBIN tem a finalidade de integrar as ações de planejamento e execução da atividade de inteligência no país. Quem ele subsidia?",
+    "opcoes": {
+      "a": "O Comandante da Aeronáutica.",
+      "b": "O Presidente da República.",
+      "c": "O Ministro da Defesa.",
+      "d": "O Chefe do Estado-Maior."
+    },
+    "correta": "b",
+    "justificativa": "O SISBIN serve diretamente à Presidência (Página 9)."
+  },
+  {
+    "id": "50",
+    "subject": "SINTAER",
+    "enunciado": "A finalidade do SINTAER é produzir conhecimentos necessários ao preparo e ao emprego da FAB, promovendo e mantendo a:",
+    "opcoes": {
+      "a": "Paz mundial.",
+      "b": "Salvaguarda das fontes cujo sigilo seja de interesse da Força.",
+      "c": "Limpeza das bases aéreas.",
+      "d": "Arrecadação de impostos."
+    },
+    "correta": "b",
+    "justificativa": "A salvaguarda de fontes é missão crítica da inteligência aerospacial (Página 13)."
+  }
+]

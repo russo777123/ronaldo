@@ -1,0 +1,370 @@
+[
+  {
+    "id": "176",
+    "tipo": "TIPO 1",
+    "tema": "Temperatura Cinética",
+    "enunciado": "A grandeza física utilizada para medir o grau de agitação ou a energia cinética das moléculas de um corpo é a:",
+    "alternativas": {
+      "a": "Temperatura Radiométrica.",
+      "b": "Temperatura Cinética.",
+      "c": "Emissividade.",
+      "d": "Refletância Espectral."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 41. A agitação molecular define a temperatura cinética ou real do corpo."
+  },
+  {
+    "id": "177",
+    "tipo": "TIPO 4",
+    "tema": "Zero Absoluto",
+    "enunciado": "A menor temperatura cinética possível, onde a agitação molecular é nula, corresponde a _________ na escala Kelvin.",
+    "alternativas": {
+      "a": "273 K",
+      "b": "-273 K",
+      "c": "0 K",
+      "d": "100 K"
+    },
+    "resposta_correta": "c",
+    "justificativa": "Página 41. O zero absoluto é 0K ou -273,15°C."
+  },
+  {
+    "id": "178",
+    "tipo": "TIPO 1",
+    "tema": "Propagação de Calor",
+    "enunciado": "Qual processo de propagação de calor não necessita de um meio material, ocorrendo através da emissão de ondas eletromagnéticas (vácuo)?",
+    "alternativas": {
+      "a": "Condução.",
+      "b": "Convecção.",
+      "c": "Irradiação (Radiação).",
+      "d": "Difusão molecular."
+    },
+    "resposta_correta": "c",
+    "justificativa": "Página 41. A irradiação é a única forma de calor que se propaga no vácuo via REM."
+  },
+  {
+    "id": "179",
+    "tipo": "TIPO 1",
+    "tema": "Temperatura Radiométrica",
+    "enunciado": "No Sensoriamento Remoto, a medida da intensidade do fluxo radiante emitido por um alvo é definida como:",
+    "alternativas": {
+      "a": "Temperatura Cinética.",
+      "b": "Temperatura Radiométrica (ou Aparente).",
+      "c": "Banda de Absorção.",
+      "d": "Assinatura Espectral."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 41. Os sensores medem a temperatura radiométrica, que nem sempre é igual à cinética."
+  },
+  {
+    "id": "180",
+    "tipo": "TIPO 4",
+    "tema": "Lei de Stefan-Boltzmann",
+    "enunciado": "A Lei de Stefan-Boltzmann (M = σ·T⁴) demonstra que a quantidade de REM emitida por um corpo negro é proporcional à quarta potência de sua _________.",
+    "alternativas": {
+      "a": "Altitude",
+      "b": "Frequência",
+      "c": "Temperatura Cinética (K)",
+      "d": "Refletância"
+    },
+    "resposta_correta": "c",
+    "justificativa": "Página 42. Mostra a relação exponencial entre temperatura e emissão total de energia."
+  },
+  {
+    "id": "181",
+    "tipo": "TIPO 1",
+    "tema": "Lei de Wien",
+    "enunciado": "A Lei de Wien (ou Lei do Deslocamento) estabelece que o comprimento de onda de máxima emissão (λm) é:",
+    "alternativas": {
+      "a": "Diretamente proporcional à temperatura.",
+      "b": "Independente da temperatura.",
+      "c": "Inversamente proporcional à temperatura cinética.",
+      "d": "Igual à constante solar."
+    },
+    "resposta_correta": "c",
+    "justificativa": "Página 42. Quanto mais quente o alvo, menor o comprimento de onda onde ele mais emite (λm = a / T)."
+  },
+  {
+    "id": "182",
+    "tipo": "TIPO 4",
+    "tema": "Pico de Emissão - Sol",
+    "enunciado": "Com base na Lei de Wien, o Sol, possuindo uma temperatura superficial muito elevada, apresenta seu pico de emissão de REM na faixa do _________.",
+    "alternativas": {
+      "a": "Infravermelho Termal",
+      "b": "Espectro Visível",
+      "c": "Micro-ondas",
+      "d": "Raios X"
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 43. O pico solar ocorre ao redor de 0,55 μm (amarelo/verde)."
+  },
+  {
+    "id": "183",
+    "tipo": "TIPO 1",
+    "tema": "Emissividade",
+    "enunciado": "A relação entre o total de REM emitida por um alvo real e a energia emitida por um corpo negro à mesma temperatura define a:",
+    "alternativas": {
+      "a": "Absortância.",
+      "b": "Emissividade (ε).",
+      "c": "Transmitância.",
+      "d": "Constante de Planck."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 43. ε é um fator que varia de 0 a 1, indicando quão eficiente é o emissor."
+  },
+  {
+    "id": "184",
+    "tipo": "TIPO 3",
+    "tema": "Corpo Negro e Alvos Reais",
+    "enunciado": "Julgue a emissividade dos corpos (V ou F):",
+    "items": [
+      "( ) O corpo negro possui emissividade constante e igual a 1.",
+      "( ) Alvos reais possuem emissividade entre 0 e 1.",
+      "( ) Um corpo cinza possui emissividade que varia com o comprimento de onda."
+    ],
+    "comando": "A sequência correta é:",
+    "alternativas": {
+      "a": "V - V - F",
+      "b": "V - F - V",
+      "c": "F - V - V",
+      "d": "V - V - V"
+    },
+    "resposta_correta": "a",
+    "justificativa": "Página 44. Corpos cinzas têm ε constante; emissores seletivos têm ε que varia com λ."
+  },
+  {
+    "id": "185",
+    "tipo": "TIPO 1",
+    "tema": "Inércia Térmica",
+    "enunciado": "A medida da capacidade de resposta de um alvo a variações na temperatura externa, contrariando mudanças bruscas ao longo do ciclo diurno, é a:",
+    "alternativas": {
+      "a": "Capacidade Calorífica.",
+      "b": "Inércia Térmica.",
+      "c": "Emissividade Seletiva.",
+      "d": "Condutividade Óptica."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 45. Alvos com alta inércia (como água/rocha) demoram a esquentar e a esfriar."
+  },
+  {
+    "id": "186",
+    "tipo": "TIPO 1",
+    "tema": "Capacidade Térmica",
+    "enunciado": "Qual dos alvos naturais abaixo possui, tradicionalmente, a maior capacidade térmica?",
+    "alternativas": {
+      "a": "Solo seco.",
+      "b": "Asfalto.",
+      "c": "Água.",
+      "d": "Vegetação rasteira."
+    },
+    "resposta_correta": "c",
+    "justificativa": "Página 45. A água atua como um grande estabilizador térmico devido à sua alta capacidade de absorver e armazenar calor."
+  },
+  {
+    "id": "187",
+    "tipo": "TIPO 4",
+    "tema": "Textura e Emissão",
+    "enunciado": "Um alvo de superfície _________ absorve mais energia do que outro de superfície _________ feito do mesmo material, emitindo consequentemente mais energia termal.",
+    "alternativas": {
+      "a": "Lisa / Rugosa",
+      "b": "Rugosa / Lisa",
+      "c": "Fria / Quente",
+      "d": "Clara / Escura"
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 46. A rugosidade aumenta a área de contato e as múltiplas reflexões internas, aumentando a absorção."
+  },
+  {
+    "id": "188",
+    "tipo": "TIPO 1",
+    "tema": "Cor e Radiação Termal",
+    "enunciado": "Na faixa do visível, alvos mais ESCUROS tendem a:",
+    "alternativas": {
+      "a": "Refletir mais energia e emitir menos calor.",
+      "b": "Absorver menos energia.",
+      "c": "Absorver mais energia e, por consequência, emitir mais REM termal.",
+      "d": "Ser transparentes à radiação infravermelha."
+    },
+    "resposta_correta": "c",
+    "justificativa": "Página 46. Baixo albedo (cor escura) leva a maior aquecimento e emissão térmica superior."
+  },
+  {
+    "id": "189",
+    "tipo": "TIPO 1",
+    "tema": "Fenômenos Termais - Cruzamento",
+    "enunciado": "O fenômeno do 'Cruzamento Térmico' (thermal crossover) resulta em qual consequência técnica em uma imagem termal?",
+    "alternativas": {
+      "a": "Aumento excessivo do contraste.",
+      "b": "Perda de contraste entre dois objetos adjacentes, tornando-os indistinguíveis.",
+      "c": "Inversão de cores do visível.",
+      "d": "Aparecimento de listras verticais."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 47. Ocorre quando as temperaturas radiométricas de dois alvos diferentes se igualam em certos períodos do dia."
+  },
+  {
+    "id": "190",
+    "tipo": "TIPO 4",
+    "tema": "Cruzamento Térmico - Hora",
+    "enunciado": "O cruzamento térmico ocorre normalmente duas vezes por dia, nos períodos _________ e _________.",
+    "alternativas": {
+      "a": "Meio-dia / Meia-noite",
+      "b": "Ao nascer e ao pôr do sol",
+      "c": "Manhã cedo / 15:00h",
+      "d": "Noite inteira"
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 47. São os momentos de transição onde alvos de diferentes inércias cruzam suas curvas de temperatura."
+  },
+  {
+    "id": "191",
+    "tipo": "TIPO 1",
+    "tema": "Sombras Termais",
+    "enunciado": "Como se define uma 'Sombra Termal'?",
+    "alternativas": {
+      "a": "A ausência total de fótons em um pixel.",
+      "b": "Diferença de contraste causada por um gradiente térmico persistente mesmo após a remoção de um objeto.",
+      "c": "Reflexo especular em superfícies metálicas.",
+      "d": "Atenuação de nuvens cirrus."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 47/48. Uma aeronave estacionada protege o solo, criando uma silhueta fria que persiste por algum tempo após a decolagem."
+  },
+  {
+    "id": "192",
+    "tipo": "TIPO 1",
+    "tema": "Saturação",
+    "enunciado": "A condição na qual um pixel opera no seu limite máximo de coleta de REM, degradando a relação linear com o sinal gerado, é a:",
+    "alternativas": {
+      "a": "Quantização.",
+      "b": "Saturação.",
+      "c": "Inércia Térmica.",
+      "d": "Transmitância."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 48. Saturação impede o registro de variações em áreas muito radiantes."
+  },
+  {
+    "id": "193",
+    "tipo": "TIPO 4",
+    "tema": "Blooming",
+    "enunciado": "O fenômeno do espalhamento de energia excedente de um pixel saturado para pixels vizinhos é conhecido como _________.",
+    "alternativas": {
+      "a": "Fringe effect",
+      "b": "Blooming",
+      "c": "Aliasing",
+      "d": "Flicker"
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 48. O blooming descaracteriza o contorno de objetos muito brilhantes."
+  },
+  {
+    "id": "194",
+    "tipo": "TIPO 2",
+    "tema": "Emissividade de Materiais",
+    "enunciado": "De acordo com a Tabela de Emissividade, quais materiais possuem ε muito baixa (maus emissores térmicos)?",
+    "itens": [
+      "I. Vegetação verde (0,96-0,99).",
+      "II. Alumínio polido (0,55).",
+      "III. Ouro polido (0,02-0,03)."
+    ],
+    "comando": "Está correto:",
+    "alternativas": {
+      "a": "II e III apenas.",
+      "b": "I e II apenas.",
+      "c": "I e III apenas.",
+      "d": "I, II e III."
+    },
+    "resposta_correta": "a",
+    "justificativa": "Página 45. Metais polidos refletem muito e emitem pouco calor (baixa emissividade)."
+  },
+  {
+    "id": "195",
+    "tipo": "TIPO 1",
+    "tema": "Inércia Térmica - Materiais",
+    "enunciado": "Materiais com baixa inércia térmica (mudam de temperatura rapidamente) são geralmente:",
+    "alternativas": {
+      "a": "Vegetação e Solo úmido.",
+      "b": "Grandes massas de água.",
+      "c": "Objetos metálicos e superfícies finas.",
+      "d": "Florestas tropicais."
+    },
+    "resposta_correta": "c",
+    "justificativa": "Página 47. Metais têm baixa capacidade de reter calor comparado à água."
+  },
+  {
+    "id": "196",
+    "tipo": "TIPO 4",
+    "tema": "Sombra Termal Quente",
+    "enunciado": "Uma sobra termal QUENTE pode ser provocada por _________ que aquecem a superfície imediatamente abaixo deles.",
+    "alternativas": {
+      "a": "Asas de planadores",
+      "b": "Motores a jato estacionários",
+      "c": "Tanques de água fria",
+      "d": "Árvores isoladas"
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 48. O fluxo de gases quentes aquece o pátio, deixando uma assinatura quente residual."
+  },
+  {
+    "id": "197",
+    "tipo": "TIPO 1",
+    "tema": "Pico de Emissão - Terra",
+    "enunciado": "A Terra, com temperatura média de 300K, tem seu pico de emissão radiométrica em qual comprimento de onda (lei de Wien)?",
+    "alternativas": {
+      "a": "0,5 micrômetros.",
+      "b": "2,0 micrômetros.",
+      "c": "9,6 micrômetros.",
+      "d": "100 micrômetros."
+    },
+    "resposta_correta": "c",
+    "justificativa": "Página 43. Gráfico de distribuição espectral de emissão (λm ≈ 10 μm)."
+  },
+  {
+    "id": "198",
+    "tipo": "TIPO 2",
+    "tema": "Aumentando a Absorção",
+    "enunciado": "Quais fatores colaboram para um alvo absorver mais energia, e por consequência, emitir mais radiação térmica?",
+    "itens": [
+      "I. Superfície rugosa.",
+      "II. Cor clara (alto albedo).",
+      "III. Composição químico-molecular favorável."
+    ],
+    "comando": "Assinale a correta:",
+    "alternativas": {
+      "a": "I e III apenas.",
+      "b": "I e II apenas.",
+      "c": "II e III apenas.",
+      "d": "I, II e III."
+    },
+    "resposta_correta": "a",
+    "justificativa": "Página 44/46. Cores claras (II) refletem a energia antes da absorção térmica."
+  },
+  {
+    "id": "199",
+    "tipo": "TIPO 1",
+    "tema": "Emissão de REM",
+    "enunciado": "Qual a condição fundamental para que um alvo emita radiação eletromagnética nativa?",
+    "alternativas": {
+      "a": "Estar em contato com o ar ambiente.",
+      "b": "Possuir temperatura superior ao zero absoluto (0 K).",
+      "c": "Ser feito de material metálico.",
+      "d": "Estar sob incidência direta do Sol."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 41. Todo corpo acima de 0K emite energia devido à agitação molecular."
+  },
+  {
+    "id": "200",
+    "tipo": "TIPO 1",
+    "tema": "Identificação de Alvos - Termal",
+    "enunciado": "A identificação de alvos no infravermelho termal baseia-se primordialmente em:",
+    "alternativas": {
+      "a": "Cores naturais.",
+      "b": "Diferenças de contraste de temperatura (radiométrica) entre o alvo e o fundo.",
+      "c": "Alturas dos objetos via paralaxe.",
+      "d": "Textura visual estereoscópica."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 47. O contraste térmico é o que define as formas na imagem termal."
+  }
+]

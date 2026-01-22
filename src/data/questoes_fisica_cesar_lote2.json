@@ -1,0 +1,382 @@
+[
+  {
+    "id": "301",
+    "tipo": "TIPO 1",
+    "tema": "Lentes Convergentes - Imagem",
+    "enunciado": "Quando um objeto real é situado ANTES do ponto Antiprincipal Objeto (Ao) em uma lente convergente, as características da imagem formada são:",
+    "alternativas": {
+      "a": "Real, Direta e Menor.",
+      "b": "Real, Invertida e Menor.",
+      "c": "Virtual, Direita e Maior.",
+      "d": "Real, Invertida e do mesmo tamanho."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 18. O Quadro 2 (Caso I) define a imagem como real, invertida e menor, situada entre Fi e Ai."
+  },
+  {
+    "id": "302",
+    "tipo": "TIPO 1",
+    "tema": "Lentes Convergentes - Imagem Imprópria",
+    "enunciado": "Em uma lente convergente, se o objeto for posicionado exatamente sobre o Foco Principal Objeto (Fo), a imagem será:",
+    "alternativas": {
+      "a": "Real e invertida.",
+      "b": "Virtual e direita.",
+      "c": "Imprópria (formada no infinito).",
+      "d": "Real e do mesmo tamanho."
+    },
+    "resposta_correta": "c",
+    "justificativa": "Página 18. No Caso IV, os raios emergem paralelos, não formando imagem em distância finita."
+  },
+  {
+    "id": "303",
+    "tipo": "TIPO 4",
+    "tema": "Lente Divergente - Características",
+    "enunciado": "Qualquer que seja a posição do objeto real em relação a uma lente divergente, a imagem será sempre _________, _________ e _________.",
+    "alternativas": {
+      "a": "Real, Invertida e Menor.",
+      "b": "Virtual, Direita e Maior.",
+      "c": "Virtual, Direita e Menor.",
+      "d": "Real, Direita e do mesmo tamanho."
+    },
+    "resposta_correta": "c",
+    "justificativa": "Página 19. O Quadro 3 mostra que lentes divergentes produzem apenas imagens virtuais, direitas e menores."
+  },
+  {
+    "id": "304",
+    "tipo": "TIPO 1",
+    "tema": "Equação de Gauss",
+    "enunciado": "Na Equação de Gauss (1/f = 1/p + 1/p'), a grandeza p' representa:",
+    "alternativas": {
+      "a": "A distância focal da lente.",
+      "b": "A distância do objeto à lente.",
+      "c": "A distância da imagem à lente.",
+      "d": "O aumento linear transversal."
+    },
+    "resposta_correta": "c",
+    "justificativa": "Página 20. f é distância focal, p é distância do objeto e p' é distância da imagem."
+  },
+  {
+    "id": "305",
+    "tipo": "TIPO 3",
+    "tema": "Convenção de Sinais - Gauss",
+    "enunciado": "Sobre a convenção de sinais para lentes delgadas, julgue (V ou F):",
+    "itens": [
+      "( ) Para uma lente divergente, a distância focal (f) é negativa.",
+      "( ) Se a imagem é real, p' deve ser positivo.",
+      "( ) Se a imagem é virtual, p' deve ser negativo."
+    ],
+    "comando": "A sequência correta é:",
+    "alternativas": {
+      "a": "V - V - V",
+      "b": "V - F - V",
+      "c": "F - V - V",
+      "d": "V - V - F"
+    },
+    "resposta_correta": "a",
+    "justificativa": "Página 20. Convenção padrão de Gauss adotada no concurso."
+  },
+  {
+    "id": "306",
+    "tipo": "TIPO 1",
+    "tema": "Aumento Linear Transversal",
+    "enunciado": "Se o aumento linear transversal (A) de uma lente é NEGATIVO (A < 0), isso significa que a imagem é:",
+    "alternativas": {
+      "a": "Direita (virtual).",
+      "b": "Invertida (real).",
+      "c": "Maior que o objeto.",
+      "d": "Menor que o objeto."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 21. Aumento negativo indica que a imagem e o objeto têm sinais de altura opostos (invertida/real)."
+  },
+  {
+    "id": "307",
+    "tipo": "TIPO 1",
+    "tema": "Vergência",
+    "enunciado": "A unidade de medida da vergência (V) de uma lente no Sistema Internacional (SI) é a:",
+    "alternativas": {
+      "a": "Candela.",
+      "b": "Lumen.",
+      "c": "Dioptria (di).",
+      "d": "Lux."
+    },
+    "resposta_correta": "c",
+    "justificativa": "Página 22. A dioptria (popular 'grau') é o inverso do metro (m^-1)."
+  },
+  {
+    "id": "308",
+    "tipo": "TIPO 4",
+    "tema": "Vergência - Cálculo",
+    "enunciado": "Uma lente com distância focal de 0,25 metros possui uma vergência de _________ dioptrias.",
+    "alternativas": {
+      "a": "2,0",
+      "b": "4,0",
+      "c": "0,25",
+      "d": "10,0"
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 22. V = 1 / f. V = 1 / 0,25 = 4,0 di."
+  },
+  {
+    "id": "309",
+    "tipo": "TIPO 2",
+    "tema": "Lentes Justapostas",
+    "enunciado": "Considere duas lentes delgadas em contato (justapostas) com vergências V1 e V2. Analise:",
+    "itens": [
+      "I. A vergência da lente equivalente é a soma algébrica das vergências das componentes.",
+      "II. O sistema se comporta como uma única lente de distância focal f = f1 + f2.",
+      "III. O Teorema das Vergências aplica-se a este sistema."
+    ],
+    "comando": "Assinale a correta:",
+    "alternativas": {
+      "a": "I apenas.",
+      "b": "I e III apenas.",
+      "c": "II e III apenas.",
+      "d": "I, II e III."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 23. V = V1 + V2. A distância focal 1/f = 1/f1 + 1/f2 (a II está incorreta)."
+  },
+  {
+    "id": "310",
+    "tipo": "TIPO 4",
+    "tema": "Microscópio Composto",
+    "enunciado": "No microscópio composto, a ampliação final é dada pelo _________ da ampliação da objetiva pela ampliação da ocular.",
+    "alternativas": {
+      "a": "Soma",
+      "b": "Diferença",
+      "c": "Produto",
+      "d": "Quociente"
+    },
+    "resposta_correta": "c",
+    "justificativa": "Página 24. A = Aobj * Aocu."
+  },
+  {
+    "id": "311",
+    "tipo": "TIPO 1",
+    "tema": "Associação de Lentes - Instrumentos",
+    "enunciado": "Qual instrumento óptico é caracterizado por uma associação de lentes convergentes onde o objeto se encontra muito afastado (no infinito)?",
+    "alternativas": {
+      "a": "Microscópio Composto.",
+      "b": "Luneta Astronômica.",
+      "c": "Lupa Simples.",
+      "d": "Projetor de Slides."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 25. A luneta astronômica capta raios paralelos vindos do infinito."
+  },
+  {
+    "id": "312",
+    "tipo": "TIPO 1",
+    "tema": "Aberrações",
+    "enunciado": "Como se denominam as distorções na imagem causadas pela variação do índice de refração do vidro para diferentes cores (comprimentos de onda)?",
+    "alternativas": {
+      "a": "Aberrações Geométricas.",
+      "b": "Aberrações Cromáticas.",
+      "c": "Coma.",
+      "d": "Astigmatismo."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 25. Aberrações cromáticas têm origem nas distintas refrações para diferentes cores."
+  },
+  {
+    "id": "313",
+    "tipo": "TIPO 4",
+    "tema": "Aberração Esférica",
+    "enunciado": "A aberração de esfericidade sobre o eixo ocorre quando a lente se afasta das condições de _________.",
+    "alternativas": {
+      "a": "Newton",
+      "b": "Gauss",
+      "c": "Snell",
+      "d": "Huygens"
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 26. Ocorre quando os raios são marginais (não paraxiais), violando Gauss."
+  },
+  {
+    "id": "314",
+    "tipo": "TIPO 1",
+    "tema": "Correção de Aberrações",
+    "enunciado": "Uma forma de reduzir a aberração de esfericidade interceptando os raios marginais é o uso de um:",
+    "alternativas": {
+      "a": "Prisma de Porro.",
+      "b": "Diafragma.",
+      "c": "Filtro UV.",
+      "d": "Espelho Plano."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 27. O diafragma ou orifício regulável bloqueia os raios distantes do eixo."
+  },
+  {
+    "id": "315",
+    "tipo": "TIPO 2",
+    "tema": "Lentes Convergentes - Imagem Real",
+    "enunciado": "Para que uma lente convergente forme uma imagem REAL, INVERTIDA e MAIOR, o objeto deve estar:",
+    "itens": [
+      "I. No ponto Antiprincipal Objeto.",
+      "II. Entre o ponto Antiprincipal Objeto e o Foco Objeto.",
+      "III. No Foco Principal Objeto."
+    ],
+    "comando": "Assinale a opção correta:",
+    "alternativas": {
+      "a": "Apenas I.",
+      "b": "Apenas II.",
+      "c": "Apenas III.",
+      "d": "I e II."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 18. Caso III: objeto entre Ao e Fo gera imagem real, invertida e maior."
+  },
+  {
+    "id": "316",
+    "tipo": "TIPO 1",
+    "tema": "Círculo de Confusão",
+    "enunciado": "Na aberração esférica, a seção onde se obtém a melhor imagem possível no anteparo é denominada:",
+    "alternativas": {
+      "a": "Ponto Focal Teórico.",
+      "b": "Círculo de Confusão Mínima.",
+      "c": "Mancha de Airy.",
+      "d": "Eixo de Estigmatismo."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 26. É o menor diâmetro do feixe de raios refratados."
+  },
+  {
+    "id": "317",
+    "tipo": "TIPO 1",
+    "tema": "Lentes Convergentes - Único Caso Virtual",
+    "enunciado": "Qual a única posição do objeto real que faz uma lente convergente produzir uma imagem VIRTUAL, DIREITA e MAIOR?",
+    "alternativas": {
+      "a": "Entre o Foco Objeto e o Centro Óptico.",
+      "b": "Sobre o ponto Antiprincipal.",
+      "c": "Muito afastado da lente.",
+      "d": "Situado entre o Fo e o Fi."
+    },
+    "resposta_correta": "a",
+    "justificativa": "Página 19. Caso V: Esta configuração é a utilizada na Lupa Simples."
+  },
+  {
+    "id": "318",
+    "tipo": "TIPO 3",
+    "tema": "Vergência e Foco",
+    "enunciado": "Sobre a Vergência (V), julgue (V ou F):",
+    "itens": [
+      "( ) É inversamente proporcional à distância focal.",
+      "( ) Uma lente mais 'potente' possui menor distância focal.",
+      "( ) Lentes divergentes possuem vergência positiva."
+    ],
+    "comando": "Sequência:",
+    "alternativas": {
+      "a": "V - V - F",
+      "b": "V - F - V",
+      "c": "F - V - V",
+      "d": "V - V - V"
+    },
+    "resposta_correta": "a",
+    "justificativa": "Página 22. Vergência de lente divergente é NEGATIVA (pois f < 0)."
+  },
+  {
+    "id": "319",
+    "tipo": "TIPO 1",
+    "tema": "Associação Coaxial",
+    "enunciado": "Dizemos que duas lentes estão associadas por justaposição quando a distância entre elas é:",
+    "alternativas": {
+      "a": "Igual à soma das distâncias focais.",
+      "b": "Infinita.",
+      "c": "Nula.",
+      "d": "Igual ao dobro do raio de curvatura."
+    },
+    "resposta_correta": "c",
+    "justificativa": "Página 22. Lentes justapostas têm espessura desprezível e estão encostadas."
+  },
+  {
+    "id": "320",
+    "tipo": "TIPO 4",
+    "tema": "Aumento Linear",
+    "enunciado": "Se o tamanho da imagem (i) é igual ao triplo do tamanho do objeto (o), e ambos estão do mesmo lado do eixo (imagem direita), o aumento linear vale _________.",
+    "alternativas": {
+      "a": "3,0",
+      "b": "-3,0",
+      "c": "0,33",
+      "d": "1,5"
+    },
+    "resposta_correta": "a",
+    "justificativa": "Página 21. A = i / o. Como é direita, o sinal é positivo."
+  },
+  {
+    "id": "321",
+    "tipo": "TIPO 1",
+    "tema": "Aberrações Geométricas",
+    "enunciado": "Qual das opções abaixo NÃO é classificada como uma aberração geométrica?",
+    "alternativas": {
+      "a": "Coma.",
+      "b": "Distorção.",
+      "c": "Aberração Cromática Longitudinal.",
+      "d": "Astigmatismo."
+    },
+    "resposta_correta": "c",
+    "justificativa": "Página 25. Aberrações cromáticas formam um grupo distinto das geométricas (que ocorrem com luz monocromática)."
+  },
+  {
+    "id": "322",
+    "tipo": "TIPO 4",
+    "tema": "Instrumentos Ópticos",
+    "enunciado": "No microscópio composto, a primeira lente (mais próxima ao objeto) é chamada de _________ e a segunda (próxima ao olho) de _________.",
+    "alternativas": {
+      "a": "Ocular / Objetiva",
+      "b": "Objetiva / Ocular",
+      "c": "Focalizadora / Dispersora",
+      "d": "Plana / Esférica"
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 24. A objetiva conjuga a primeira imagem I', que serve de objeto para a ocular."
+  },
+  {
+    "id": "323",
+    "tipo": "TIPO 1",
+    "tema": "Espessura da Lente",
+    "enunciado": "As leis de Gauss e as fórmulas dos pontos conjugados aplicam-se rigorosamente a lentes:",
+    "alternativas": {
+      "a": "Muito espessas.",
+      "b": "Delgadas (espessura desprezível).",
+      "c": "Com grandes raios de curvatura marginais.",
+      "d": "De quartzo apenas."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 15/20. Lentes delgadas são premissas para a óptica gaussiana."
+  },
+  {
+    "id": "324",
+    "tipo": "TIPO 3",
+    "tema": "Lentes Convergentes - Imagem no Ai",
+    "enunciado": "Sobre o Caso II (Objeto no ponto Antiprincipal Objeto), julgue:",
+    "itens": [
+      "( ) A imagem é formada sobre o ponto Antiprincipal Imagem (Ai).",
+      "( ) A imagem é invertida e do mesmo tamanho do objeto.",
+      "( ) O aumento linear vale +1,0."
+    ],
+    "comando": "Sequência:",
+    "alternativas": {
+      "a": "V - V - F",
+      "b": "V - F - V",
+      "c": "V - V - V",
+      "d": "F - V - V"
+    },
+    "resposta_correta": "a",
+    "justificativa": "Página 18. O aumento vale -1,0 (menos um) porque a imagem é invertida."
+  },
+  {
+    "id": "325",
+    "tipo": "TIPO 1",
+    "tema": "Correção de Aberrações",
+    "enunciado": "Para reduzir ao mínimo a aberração esférica em uma lente plano-convexa, recomenda-se que a incidência da luz ocorra inicialmente na face:",
+    "alternativas": {
+      "a": "Plana.",
+      "b": "Curva (CONVEXA).",
+      "c": "Indiferente.",
+      "d": "Através de um prisma."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 27. Se a luz incidir na face curva, o desvio é melhor distribuído entre as superfícies, reduzindo a aberração."
+  }
+]

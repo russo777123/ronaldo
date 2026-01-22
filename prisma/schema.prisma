@@ -1,0 +1,40 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+}
+
+model Question {
+  id               String   @id @default(uuid())
+  originalId       String?
+  tipo             String
+  tema             String
+  materia          String   @default("Geral")
+  enunciado        String
+  itens            String?  // Armazenado como JSON string
+  comando          String?
+  alternativas     String   // Armazenado como JSON string
+  resposta_correta String
+  justificativa    String
+  responses        Response[]
+}
+
+model Response {
+  id         String   @id @default(uuid())
+  questionId String
+  question   Question @relation(fields: [questionId], references: [id])
+  selected   String
+  isCorrect  Boolean
+  timeSeconds Int     @default(0)
+  timestamp  DateTime @default(now())
+}
+
+model Simulation {
+  id        String   @id @default(uuid())
+  type      String   // "OFFICIAL" (60 qs) ou "STRICT"
+  score     Float
+  startTime DateTime @default(now())
+  endTime   DateTime?
+}

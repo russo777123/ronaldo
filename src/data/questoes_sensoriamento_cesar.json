@@ -1,0 +1,804 @@
+[
+  {
+    "id": "101",
+    "tipo": "TIPO 1",
+    "tema": "Classificação de Sensores - Fonte",
+    "enunciado": "Sensores que detectam apenas a energia emitida pelos alvos ou a energia refletida por fontes externas padrão são denominados:",
+    "alternativas": {
+      "a": "Sensores Ativos.",
+      "b": "Sensores Passivos.",
+      "c": "Sensores de Micro-ondas.",
+      "d": "Sensores de Varredura Direta."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 25. Sensores passivos não possuem fonte própria e dependem da energia do alvo ou de fontes externas como o Sol."
+  },
+  {
+    "id": "102",
+    "tipo": "TIPO 2",
+    "tema": "Processo de Formação da Imagem",
+    "enunciado": "Sobre a classificação dos sensores imageadores quanto ao processo de aquisição, analise as assertivas abaixo:",
+    "itens": [
+      "I. No sensor de quadro, toda a área da imagem é adquirida de forma instantânea, como em fotografias.",
+      "II. O sensor de varredura forma a imagem pela justaposição de faixas imageadas de modo sucessivo.",
+      "III. Os imageadores de quadro são os mais comuns no Sensoriamento Remoto por exigirem poucos detectores."
+    ],
+    "comando": "Estão corretas apenas as assertivas:",
+    "alternativas": {
+      "a": "I e II.",
+      "b": "II e III.",
+      "c": "I e III.",
+      "d": "I, II e III."
+    },
+    "resposta_correta": "a",
+    "justificativa": "Página 27. A assertiva III está incorreta porque os imageadores de quadro exigem uma quantidade MUITO GRANDE de detectores, sendo por isso menos comuns que os de varredura."
+  },
+  {
+    "id": "103",
+    "tipo": "TIPO 4",
+    "tema": "Órbitas de Satélites",
+    "enunciado": "As órbitas _________ são aquelas em que o satélite se mantém fixo em relação a uma posição sobre a superfície terrestre, sendo comumente utilizadas por satélites de telecomunicações.",
+    "alternativas": {
+      "a": "Heliossíncronas",
+      "b": "Polares",
+      "c": "Geoestacionárias",
+      "d": "Elipticas"
+    },
+    "resposta_correta": "c",
+    "justificativa": "Página 33. Órbitas geoestacionárias possuem velocidade angular igual à da Terra, mantendo-se 'paradas' sobre um ponto."
+  },
+  {
+    "id": "104",
+    "tipo": "TIPO 3",
+    "tema": "Níveis de Aquisição",
+    "enunciado": "No que tange aos níveis de aquisição de dados, assinale a sequência correta de Verdadeiro (V) ou Falso (F):",
+    "itens": [
+      "( ) O nível campo é considerado menos complexo que o nível laboratório devido à interferência ambiental.",
+      "( ) O nível aeronave é adequado para monitorar áreas extensas de forma detalhada, apesar do alto custo.",
+      "( ) O nível orbital está sujeito a uma maior interferência das condições atmosféricas comparado ao nível aeronave."
+    ],
+    "comando": "A sequência correta é:",
+    "alternativas": {
+      "a": "V - F - V",
+      "b": "F - V - V",
+      "c": "F - V - F",
+      "d": "V - V - F"
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 30-32. O nível campo é MAIS complexo que o laboratório. O nível aeronave é detalhado e caro. O nível orbital percorre um caminho maior na atmosfera, sofrendo mais interferência."
+  },
+  {
+    "id": "105",
+    "tipo": "TIPO 1",
+    "tema": "Espectro Visível - Divisão",
+    "enunciado": "Para fins didáticos, o espectro visível é segmentado em três sub-regiões. Quais são os intervalos aproximados da banda VERDE?",
+    "alternativas": {
+      "a": "400 nm a 500 nm.",
+      "b": "500 nm a 600 nm.",
+      "c": "600 nm a 700 nm.",
+      "d": "700 nm a 800 nm."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 34. Azul (400-500), Verde (500-600) e Vermelho (600-700)."
+  },
+  {
+    "id": "106",
+    "tipo": "TIPO 4",
+    "tema": "Interação REM-Atmosfera",
+    "enunciado": "Os intervalos de comprimento de onda para os quais a atmosfera é relativamente transparente, ocorrendo baixa atenuação da REM, são chamados de _________.",
+    "alternativas": {
+      "a": "Bandas de Absorção",
+      "b": "Janelas Atmosféricas",
+      "c": "Zonas de Difração",
+      "d": "Canais Visíveis"
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 34. Janelas atmosféricas permitem a passagem da REM com mínima interferência dos gases e aerossóis."
+  },
+  {
+    "id": "107",
+    "tipo": "TIPO 2",
+    "tema": "Classificação quanto ao Tipo de Dado",
+    "enunciado": "Sobre o tipo de dado gerado pelos sensores remotos, analise:",
+    "itens": [
+      "I. Sensores imageadores registram o resultado na forma de uma imagem bidimensional ou tridimensional.",
+      "II. Sensores não-imageadores apresentam dados na forma de valores numéricos, tabelas ou gráficos.",
+      "III. Um exemplo de sensor não-imageador é a câmera fotográfica digital."
+    ],
+    "comando": "Está(ão) correta(s) apenas:",
+    "alternativas": {
+      "a": "I.",
+      "b": "I e II.",
+      "c": "II e III.",
+      "d": "I, II e III."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 26. Câmeras digitais são sensores imageadores. A assertiva III está incorreta."
+  },
+  {
+    "id": "108",
+    "tipo": "TIPO 1",
+    "tema": "Plataformas de SR",
+    "enunciado": "Qual das funções abaixo NÃO é responsabilidade de uma plataforma de sensoriamento remoto?",
+    "alternativas": {
+      "a": "Suprimento de energia elétrica para o sensor.",
+      "b": "Transporte e posicionamento do sensor.",
+      "c": "Processamento qualitativo final dos dados coletados.",
+      "d": "Manutenção das condições de abrigo para os sistemas embarcados."
+    },
+    "resposta_correta": "c",
+    "justificativa": "Página 30. As plataformas são responsáveis por energia, transporte e posicionamento. O processamento é feito em unidades de processamento de dados."
+  },
+  {
+    "id": "109",
+    "tipo": "TIPO 4",
+    "tema": "Órbitas Heliossíncronas",
+    "enunciado": "As órbitas _________ cruzam o equador em uma nova região com o sol aproximadamente na mesma hora solar em cada passagem.",
+    "alternativas": {
+      "a": "Geoestacionárias",
+      "b": "Equatoriais",
+      "c": "Heliossíncronas",
+      "d": "De apogeu variável"
+    },
+    "resposta_correta": "c",
+    "justificativa": "Página 33. A órbita heliossíncrona mantém a mesma inclinação solar em relação ao nadir do satélite."
+  },
+  {
+    "id": "110",
+    "tipo": "TIPO 2",
+    "tema": "Sensores Ativos - Exemplos",
+    "enunciado": "Identifique os sistemas dotados de fontes artificiais de radiação (ativos):",
+    "itens": [
+      "I. RADAR (Radio Detection and Ranging).",
+      "II. LIDAR (Light Detection and Ranging).",
+      "III. Telescópio Óptico Passivo."
+    ],
+    "comando": "Assinale a alternativa correta:",
+    "alternativas": {
+      "a": "Apenas I.",
+      "b": "I e II.",
+      "c": "II e III.",
+      "d": "I, II e III."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 13/25. RADAR e LIDAR emitem seu próprio sinal. Telescópios ópticos (sem laser) são passivos."
+  },
+  {
+    "id": "111",
+    "tipo": "TIPO 1",
+    "tema": "Espalhamento Rayleigh",
+    "enunciado": "O espalhamento que ocorre quando o diâmetro das moléculas é significativamente MENOR que o comprimento de onda da radiação, originando a cor azulada do céu, é o:",
+    "alternativas": {
+      "a": "Espalhamento Mie.",
+      "b": "Espalhamento Rayleigh.",
+      "c": "Espalhamento Não-Seletivo.",
+      "d": "Espalhamento de Difração."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 20. Rayleigh ocorre com moléculas pequenas e afeta mais comprimentos curtos (azul)."
+  },
+  {
+    "id": "112",
+    "tipo": "TIPO 3",
+    "tema": "Processos de Interação",
+    "enunciado": "Sobre a interação da REM com a matéria, julgue os itens (V ou F):",
+    "itens": [
+      "( ) Na reflexão, a REM é redirecionada para o meio de origem.",
+      "( ) Na refração, a REM desvia sua trajetória ao atravessar de um meio para o outro.",
+      "( ) A soma dos processos de absorção e espalhamento é chamada de atenuação."
+    ],
+    "comando": "A sequência é:",
+    "alternativas": {
+      "a": "V - V - V",
+      "b": "V - F - V",
+      "c": "F - V - V",
+      "d": "V - V - F"
+    },
+    "resposta_correta": "a",
+    "justificativa": "Página 18-22. Todas as definições estão rigorosamente conforme o MCA."
+  },
+  {
+    "id": "113",
+    "tipo": "TIPO 1",
+    "tema": "Reflexão Especular",
+    "enunciado": "A reflexão que ocorre quando o tamanho das irregularidades da superfície é DESPREZÍVEL em relação ao comprimento de onda (superfície lisa) é classificada como:",
+    "alternativas": {
+      "a": "Difusa.",
+      "b": "Lambertiana.",
+      "c": "Especular.",
+      "d": "Aleatória."
+    },
+    "resposta_correta": "c",
+    "justificativa": "Página 18. Reflexão especular mantém o paralelismo dos feixes incidentes."
+  },
+  {
+    "id": "114",
+    "tipo": "TIPO 4",
+    "tema": "Absorção Seletiva",
+    "enunciado": "Na atmosfera, a radiação _________ (30 nm a 400 nm) é absorvida quase totalmente pelas moléculas de ozônio (O3).",
+    "alternativas": {
+      "a": "Infravermelha",
+      "b": "Micro-ondas",
+      "c": "Ultravioleta",
+      "d": "Visível"
+    },
+    "resposta_correta": "c",
+    "justificativa": "Página 21. O ozônio funciona como escudo para a radiação UV."
+  },
+  {
+    "id": "115",
+    "tipo": "TIPO 1",
+    "tema": "Emissão de Radiação",
+    "enunciado": "Todo alvo acima de qual temperatura emite radiação eletromagnética?",
+    "alternativas": {
+      "a": "100° C.",
+      "b": "Zero absoluto (0 K).",
+      "c": "0° C.",
+      "d": "Ponto de ebulição da água."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 23. A emissão térmica ocorre em qualquer corpo acima do zero absoluto."
+  },
+  {
+    "id": "116",
+    "tipo": "TIPO 2",
+    "tema": "Atributos da REM",
+    "enunciado": "Analise as afirmações sobre os atributos da onda eletromagnética:",
+    "itens": [
+      "I. Frequência é o número de ciclos completos em um segundo.",
+      "II. Amplitude é a intensidade de oscilação da onda.",
+      "III. A velocidade da REM é variável dependendo da sua frequência no vácuo."
+    ],
+    "comando": "Está(ão) correta(s):",
+    "alternativas": {
+      "a": "I apenas.",
+      "b": "I e II.",
+      "c": "II e III.",
+      "d": "I, II e III."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 10. A velocidade da REM no vácuo é constante (~300.000 km/s) para todas as frequências."
+  },
+  {
+    "id": "117",
+    "tipo": "TIPO 1",
+    "tema": "Espalhamento Não-Seletivo",
+    "enunciado": "O espalhamento responsável pela coloração BRANCA das nuvens, por afetar uma extensa faixa de comprimentos de onda, é o:",
+    "alternativas": {
+      "a": "Rayleigh.",
+      "b": "Mie.",
+      "c": "Não-seletivo.",
+      "d": "Atômico."
+    },
+    "resposta_correta": "c",
+    "justificativa": "Página 20. O espalhamento não-seletivo ocorre com partículas maiores que o comprimento da onda (como gotas d'água)."
+  },
+  {
+    "id": "118",
+    "tipo": "TIPO 4",
+    "tema": "Refração",
+    "enunciado": "Na refração, o desvio realizado pela onda eletromagnética é _________ ao seu comprimento de onda.",
+    "alternativas": {
+      "a": "Diretamente proporcional",
+      "b": "Inversamente proporcional",
+      "c": "Igual",
+      "d": "Nulo"
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 19. Ondas de menor λ (azul) sofrem MAIOR desvio que ondas de maior λ (vermelho)."
+  },
+  {
+    "id": "119",
+    "tipo": "TIPO 2",
+    "tema": "Sensores de Micro-ondas",
+    "enunciado": "Considere as características dos sensores de micro-ondas. Analise:",
+    "itens": [
+      "I. Utilizam antenas para a detecção da REM.",
+      "II. Operam em comprimentos de onda longos (1 mm a 1 m).",
+      "III. São fortemente afetados pela cobertura de nuvens."
+    ],
+    "comando": "Está correto apenas o que se afirma em:",
+    "alternativas": {
+      "a": "I.",
+      "b": "I e II.",
+      "c": "II e III.",
+      "d": "I, II e III."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 26. Os sensores de micro-ondas (como RADAR) NÃO são afetados pelas nuvens, sendo esta sua principal vantagem."
+  },
+  {
+    "id": "120",
+    "tipo": "TIPO 1",
+    "tema": "Nível Laboratório",
+    "enunciado": "Qual nível de aquisição permite conhecer de maneira mais PRECISA como ocorrem as interações da REM com a matéria por quase não sofrer interferência ambiental?",
+    "alternativas": {
+      "a": "Nível Campo.",
+      "b": "Nível Aeronave.",
+      "c": "Nível Laboratório.",
+      "d": "Nível Orbital."
+    },
+    "resposta_correta": "c",
+    "justificativa": "Página 30. O laboratório oferece ambiente controlado e livre de variáveis atmosféricas."
+  },
+  {
+    "id": "121",
+    "tipo": "TIPO 4",
+    "tema": "Sensores Digitais",
+    "enunciado": "Sensores _________ armazenam dados discretos (descontínuos) através do uso de aproximações e empregam lógica binária.",
+    "alternativas": {
+      "a": "Analógicos",
+      "b": "Ópticos",
+      "c": "Digitais",
+      "d": "Polares"
+    },
+    "resposta_correta": "c",
+    "justificativa": "Página 28. Definição de sensores digitais e uso de bits (0 e 1)."
+  },
+  {
+    "id": "122",
+    "tipo": "TIPO 3",
+    "tema": "Processos de Varredura",
+    "enunciado": "Julgue as técnicas de varredura (V ou F):",
+    "itens": [
+      "( ) 'Pushbroom scanning' é a varredura paralela ao deslocamento.",
+      "( ) 'Whiskbroom scanning' utiliza varredura transversal em linhas paralelas.",
+      "( ) 'Line scanning' é a varredura transversal em uma única linha."
+    ],
+    "comando": "Sequência correta:",
+    "alternativas": {
+      "a": "V - V - V",
+      "b": "F - V - V",
+      "c": "V - F - V",
+      "d": "V - V - F"
+    },
+    "resposta_correta": "a",
+    "justificativa": "Página 28. Todas as definições de varredura de sensores de quadro/varredura estão corretas."
+  },
+  {
+    "id": "123",
+    "tipo": "TIPO 1",
+    "tema": "Mídias de Gravação",
+    "enunciado": "Qual dessas mídias é tipicamente utilizada por sensores ANALÓGICOS?",
+    "alternativas": {
+      "a": "Memória de estado sólido.",
+      "b": "Disco Rígido (HD).",
+      "c": "Filme fotográfico.",
+      "d": "Pendrive."
+    },
+    "resposta_correta": "c",
+    "justificativa": "Página 28. O filme fotográfico é a mídia analógica por excelência no SR."
+  },
+  {
+    "id": "124",
+    "tipo": "TIPO 2",
+    "tema": "Atributos da REM - Polarização",
+    "enunciado": "Sobre a polarização da REM, analise as assertivas:",
+    "itens": [
+      "I. É dada pela orientação do plano que contém o vetor amplitude do campo elétrico.",
+      "II. Sensores de micro-ondas não podem utilizar a polarização no imageamento.",
+      "III. A polarização pode ser horizontal ou vertical."
+    ],
+    "comando": "Corretas:",
+    "alternativas": {
+      "a": "I e II.",
+      "b": "I e III.",
+      "c": "II e III.",
+      "d": "I, II e III."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 11. Sensores de radar utilizam extensivamente a polarização (H e V) para diferenciar alvos."
+  },
+  {
+    "id": "125",
+    "tipo": "TIPO 1",
+    "tema": "Pilares do SR - REM",
+    "enunciado": "Qual pilar do Sensoriamento Remoto atua como MEIO pelo qual os dados são transmitidos do alvo ao sensor?",
+    "alternativas": {
+      "a": "Os Alvos.",
+      "b": "A Radiação Eletromagnética (REM).",
+      "c": "O Processador de Imagem.",
+      "d": "O Satélite."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 8. A REM é o veículo de transporte da informação sem contato físico."
+  },
+  {
+    "id": "126",
+    "tipo": "TIPO 1",
+    "tema": "Teoria Quântica",
+    "enunciado": "Segundo a teoria quântica, a quantidade de energia (Q) de um fóton é maior se sua frequência for:",
+    "alternativas": {
+      "a": "Mais alta.",
+      "b": "Mais baixa.",
+      "c": "Igual a zero.",
+      "d": "Constante."
+    },
+    "resposta_correta": "a",
+    "justificativa": "Página 12. Q = f * h. Relação direta entre energia e frequência."
+  },
+  {
+    "id": "127",
+    "tipo": "TIPO 4",
+    "tema": "Velocidade da Luz",
+    "enunciado": "No Sensoriamento Remoto, a velocidade da REM é considerada constante, valendo aproximadamente _________.",
+    "alternativas": {
+      "a": "300.000 m/s.",
+      "b": "3 x 10^8 m/s.",
+      "c": "30.000 km/h.",
+      "d": "3.000.000 m/s."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 10. Valor padrão da velocidade da luz no vácuo."
+  },
+  {
+    "id": "128",
+    "tipo": "TIPO 2",
+    "tema": "Espectro Eletromagnético",
+    "enunciado": "Ordene as regiões do espectro da MENOR frequência para a MAIOR frequência:",
+    "itens": [
+      "I. Micro-ondas.",
+      "II. Luz Visível.",
+      "III. Infravermelho."
+    ],
+    "comando": "A ordem correta do aumento de frequência é:",
+    "alternativas": {
+      "a": "I - II - III.",
+      "b": "I - III - II.",
+      "c": "II - III - I.",
+      "d": "III - I - II."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 13. Micro-ondas (λ longo = f baixa) < Infravermelho < Visível (λ curto = f alta)."
+  },
+  {
+    "id": "129",
+    "tipo": "TIPO 1",
+    "tema": "Fontes de Energia",
+    "enunciado": "Um sensor de imagem térmica que detecta o calor emitido por um motor de aeronave está utilizando qual fonte de energia?",
+    "alternativas": {
+      "a": "Fonte Solar.",
+      "b": "O próprio alvo.",
+      "c": "Fonte Artificial do Sensor.",
+      "d": "Reflexão Atmosférica."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 12. Corpos aquecidos emitem sua própria radiação térmica."
+  },
+  {
+    "id": "130",
+    "tipo": "TIPO 3",
+    "tema": "Classificação de Sensores",
+    "enunciado": "Identifique a veracidade (V ou F) sobre a dependência da fonte:",
+    "itens": [
+      "( ) Câmeras fotográficas com flash podem ser consideradas sensores ativos.",
+      "( ) Sensores térmicos são sempre ativos por gerarem calor.",
+      "( ) Radares são o exemplo clássico de sensores ativos."
+    ],
+    "comando": "Sequência:",
+    "alternativas": {
+      "a": "V - F - V",
+      "b": "V - V - V",
+      "c": "F - F - V",
+      "d": "V - F - F"
+    },
+    "resposta_correta": "a",
+    "justificativa": "Página 25. O flash é uma fonte artificial (ativo). Sensores térmicos captam a emissão do alvo (passivos)."
+  },
+  {
+    "id": "131",
+    "tipo": "TIPO 1",
+    "tema": "Sensores Ópticos",
+    "enunciado": "Sensores ópticos que empregam lentes e prismas operam comumente na região espectral entre:",
+    "alternativas": {
+      "a": "0,01 nm e 30 nm.",
+      "b": "0,30 μm e 15 μm.",
+      "c": "1 mm e 1 m.",
+      "d": "100 m e 10 km."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 25. Faixa óptica do espectro (UV, Visível e Infravermelho)."
+  },
+  {
+    "id": "132",
+    "tipo": "TIPO 4",
+    "tema": "Aquisição de Dados",
+    "enunciado": "Imageadores de _________ são menos vulneráveis às oscilações da plataforma devido ao imageamento instantâneo.",
+    "alternativas": {
+      "a": "Varredura",
+      "b": "Quadro",
+      "c": "Satélite",
+      "d": "Micro-ondas"
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 27. O sensor de quadro captura tudo de uma vez, reduzindo distorções de movimento."
+  },
+  {
+    "id": "133",
+    "tipo": "TIPO 1",
+    "tema": "Conceitos Fundamentais",
+    "enunciado": "A ciência e a arte de obter informações sem contato físico é a definição de Sensoriamento Remoto em sentido:",
+    "alternativas": {
+      "a": "Restrito.",
+      "b": "Amplo.",
+      "c": "Técnico.",
+      "d": "Militar."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 7. Definição abrangente que inclui até a visão humana."
+  },
+  {
+    "id": "134",
+    "tipo": "TIPO 2",
+    "tema": "Atmosfera e Janelas",
+    "enunciado": "Sobre a atenuação da REM pela atmosfera, analise:",
+    "itens": [
+      "I. A atenuação é causada pelos processos de absorção e espalhamento.",
+      "II. O vapor d'água é um grande agente de absorção no infravermelho.",
+      "III. As janelas atmosféricas são regiões de atenuação máxima."
+    ],
+    "comando": "Corretas:",
+    "alternativas": {
+      "a": "I apenas.",
+      "b": "I e II.",
+      "c": "II e III.",
+      "d": "I, II e III."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 34. Janelas atmosféricas são as regiões de atenuação MÍNIMA (transparência)."
+  },
+  {
+    "id": "135",
+    "tipo": "TIPO 1",
+    "tema": "Infravermelho Próximo",
+    "enunciado": "Qual região do infravermelho é comumente empregada em conjunto com o espectro visível para estudos de vegetação?",
+    "alternativas": {
+      "a": "Infravermelho Termal.",
+      "b": "Infravermelho Distante.",
+      "c": "Infravermelho Próximo.",
+      "d": "Infravermelho Médio."
+    },
+    "resposta_correta": "c",
+    "justificativa": "Página 15. O IR próximo (0,7 - 1,3 μm) é vizinho ao vermelho visível e muito usado em agro/bio."
+  },
+  {
+    "id": "136",
+    "tipo": "TIPO 3",
+    "tema": "Plataformas Orbitais",
+    "enunciado": "Julgue os itens sobre o nível orbital (V ou F):",
+    "itens": [
+      "( ) Indicado para monitoramento periódico de grandes áreas.",
+      "( ) Não possui problemas com mudanças de atitude da plataforma.",
+      "( ) Permite imagens com detalhes de pronto resposta melhores que aeronaves."
+    ],
+    "comando": "Sequência:",
+    "alternativas": {
+      "a": "V - F - F",
+      "b": "V - V - F",
+      "c": "F - F - V",
+      "d": "V - F - V"
+    },
+    "resposta_correta": "a",
+    "justificativa": "Página 32. Orbitais têm menor pronto resposta e menor detalhamento que aeronaves."
+  },
+  {
+    "id": "137",
+    "tipo": "TIPO 1",
+    "tema": "Sensores de Varredura",
+    "enunciado": "O 'Pushbroom scanning' é caracterizado por uma varredura:",
+    "alternativas": {
+      "a": "Transversal à trajetória.",
+      "b": "Paralela ao deslocamento da plataforma.",
+      "c": "Por rotação de espelhos.",
+      "d": "Circular."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 28. É o 'pente' de detectores que varre longitudinalmente."
+  },
+  {
+    "id": "138",
+    "tipo": "TIPO 4",
+    "tema": "Absorção Seletiva",
+    "enunciado": "A _________ é o processo através do qual a energia é convertida em calor por substâncias na atmosfera ou superfície.",
+    "alternativas": {
+      "a": "Reflexão",
+      "b": "Absorção",
+      "c": "Difração",
+      "d": "Propagação"
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 21. Definição termodinâmica de absorção seletiva."
+  },
+  {
+    "id": "139",
+    "tipo": "TIPO 1",
+    "tema": "Unidades Espectrais",
+    "enunciado": "O intervalo visível situa-se aproximadamente entre:",
+    "alternativas": {
+      "a": "0,4 nm e 0,7 nm.",
+      "b": "400 nm e 700 nm.",
+      "c": "40 μm e 70 μm.",
+      "d": "4 m e 10 m."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 34. Unidade padrão para luz visível é o nanômetro."
+  },
+  {
+    "id": "140",
+    "tipo": "TIPO 2",
+    "tema": "Classificação de Órbitas",
+    "enunciado": "Sobre órbitas satelitais, analise:",
+    "itens": [
+      "I. Satélites meteorológicos comumente usam órbitas geoestacionárias.",
+      "II. Satélites de observação da terra preferem órbitas heliossíncronas polares.",
+      "III. A órbita heliossíncrona mantém o satélite sempre sobre o mesmo país."
+    ],
+    "comando": "Está correto:",
+    "alternativas": {
+      "a": "I e II.",
+      "b": "I e III.",
+      "c": "II e III.",
+      "d": "I, II e III."
+    },
+    "resposta_correta": "a",
+    "justificativa": "Página 33. Quem mantém posição fixa é a geoestacionária. A heliossíncrona percorre o globo."
+  },
+  {
+    "id": "141",
+    "tipo": "TIPO 1",
+    "tema": "Criptografia e Canais",
+    "enunciado": "O canal visível que apresenta a maior iluminação solar e é o mais amplamente disponível para os sensores é o:",
+    "alternativas": {
+      "a": "Azul.",
+      "b": "Verde.",
+      "c": "Vermelho.",
+      "d": "Espectro Visível como um todo."
+    },
+    "resposta_correta": "d",
+    "justificativa": "Página 34. O espectro visível é a região de maior energia solar incidente na Terra."
+  },
+  {
+    "id": "142",
+    "tipo": "TIPO 4",
+    "tema": "Detecção de REM",
+    "enunciado": "A etapa de _________ visa à captação, através do sensor, da energia radiante proveniente do alvo.",
+    "alternativas": {
+      "a": "Registro",
+      "b": "Análise",
+      "c": "Detecção",
+      "d": "Transmissão"
+    },
+    "resposta_correta": "c",
+    "justificativa": "Página 9. Primeira sub-etapa da aquisição técnica."
+  },
+  {
+    "id": "143",
+    "tipo": "TIPO 1",
+    "tema": "Micro-ondas e Clima",
+    "enunciado": "Qual a principal vantagem da faixa de micro-ondas para aplicações florestais e nos polos?",
+    "alternativas": {
+      "a": "Capacidade de ver cores reais.",
+      "b": "Independência de condições meteorológicas e iluminação.",
+      "c": "Custo extremamente baixo de processamento.",
+      "d": "Resolução óptica superior ao visível."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 16. Micro-ondas atravessam nuvens e não dependem do Sol."
+  },
+  {
+    "id": "144",
+    "tipo": "TIPO 2",
+    "tema": "Interação com Alvos",
+    "enunciado": "Pelo princípio da conservação da energia, a soma de quais fluxos é igual ao fluxo incidente?",
+    "itens": [
+      "I. Refletido (Φr).",
+      "II. Absorvido (Φa).",
+      "III. Transmitido (Φt)."
+    ],
+    "comando": "Assinale a correta:",
+    "alternativas": {
+      "a": "I e II apenas.",
+      "b": "I e III apenas.",
+      "c": "II e III apenas.",
+      "d": "I, II e III."
+    },
+    "resposta_correta": "d",
+    "justificativa": "Página 18. Equação Fundamental: Φi = Φr + Φa + Φt."
+  },
+  {
+    "id": "145",
+    "tipo": "TIPO 1",
+    "tema": "Reflectância",
+    "enunciado": "A razão entre o fluxo de energia refletido e o fluxo incidente define a grandeza radiométrica denominada:",
+    "alternativas": {
+      "a": "Absortância.",
+      "b": "Transmitância.",
+      "c": "Reflectância (ρ).",
+      "d": "Albedo Quântico."
+    },
+    "resposta_correta": "c",
+    "justificativa": "Página 18. Definição técnica de reflectância."
+  },
+  {
+    "id": "146",
+    "tipo": "TIPO 4",
+    "tema": "Interação Atmosférica",
+    "enunciado": "O espalhamento _________ afeta intensamente a radiação visível, reduzindo severamente o contraste da imagem.",
+    "alternativas": {
+      "a": "Nulo",
+      "b": "Aleatório",
+      "c": "Mie",
+      "d": "Selectivo"
+    },
+    "resposta_correta": "c",
+    "justificativa": "Página 21. O espalhamento Mie (aerossóis) degrada a qualidade visual das imagens."
+  },
+  {
+    "id": "147",
+    "tipo": "TIPO 1",
+    "tema": "Infravermelho Termal",
+    "enunciado": "Qual região do infravermelho é fundamental em aplicações relacionadas à temperatura de alvos?",
+    "alternativas": {
+      "a": "Infravermelho Próximo.",
+      "b": "Infravermelho Termal.",
+      "c": "Infravermelho Azul.",
+      "d": "Infravermelho Solar."
+    },
+    "resposta_correta": "b",
+    "justificativa": "Página 15. O termal capta a emissão de calor."
+  },
+  {
+    "id": "148",
+    "tipo": "TIPO 2",
+    "tema": "Sensores e Sinais",
+    "enunciado": "Sobre o modo de gravação de dados, analise:",
+    "itens": [
+      "I. Sensores analógicos armazenam sinais contínuos.",
+      "II. Sensores digitais armazenam sinais discretos.",
+      "III. Fitas magnéticas podem ser usadas apenas por sensores digitais."
+    ],
+    "comando": "Está correto:",
+    "alternativas": {
+      "a": "I e II.",
+      "b": "I e III.",
+      "c": "II e III.",
+      "d": "I, II e III."
+    },
+    "resposta_correta": "a",
+    "justificativa": "Página 28. Fitas magnéticas podem ser empregadas por AMBOS os tipos de sensores."
+  },
+  {
+    "id": "149",
+    "tipo": "TIPO 1",
+    "tema": "Atributos da REM - Amplitude",
+    "enunciado": "O máximo afastamento de uma onda em relação à sua posição de equilíbrio é a:",
+    "alternativas": {
+      "a": "Frequência.",
+      "b": "Comprimento.",
+      "c": "Amplitude.",
+      "d": "Velocidade de escape."
+    },
+    "resposta_correta": "c",
+    "justificativa": "Página 11. Definição geométrica da amplitude da onda."
+  },
+  {
+    "id": "150",
+    "tipo": "TIPO 3",
+    "tema": "Órbita Heliossíncrona",
+    "enunciado": "Julgue a veracidade (V ou F) sobre órbitas heliossíncronas:",
+    "itens": [
+      "( ) Passam aproximadamente sobre os polos.",
+      "( ) Mantêm sempre o mesmo plano enquanto a Terra gira.",
+      "( ) São comuns em satélites de observação da Terra."
+    ],
+    "comando": "A sequência é:",
+    "alternativas": {
+      "a": "V - V - V",
+      "b": "V - F - V",
+      "c": "F - V - V",
+      "d": "V - V - F"
+    },
+    "resposta_correta": "a",
+    "justificativa": "Página 33. Definição completa e precisa do MCA sobre órbitas heliossíncronas."
+  }
+]
