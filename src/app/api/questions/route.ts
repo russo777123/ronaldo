@@ -30,8 +30,15 @@ export async function GET(request: Request) {
     }).filter(q => q !== null)
 
     return NextResponse.json(parsedQuestions)
-  } catch (error) {
-    console.error('API Error:', error)
-    return NextResponse.json({ error: 'Falha ao buscar questões' }, { status: 500 })
+  } catch (error: any) {
+    console.error('API Error details:', {
+      message: error.message,
+      code: error.code,
+      meta: error.meta
+    })
+    return NextResponse.json({ 
+      error: 'Falha ao buscar questões', 
+      details: error.message 
+    }, { status: 500 })
   }
 }
