@@ -29,7 +29,14 @@ export async function GET(request: Request) {
       }
     }).filter(q => q !== null)
 
-    return NextResponse.json(parsedQuestions)
+    // Randomize questions using Fisher-Yates shuffle
+    const shuffled = [...parsedQuestions]
+    for (let i = shuffled.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]]
+    }
+
+    return NextResponse.json(shuffled)
   } catch (error: any) {
     console.error('API Error details:', {
       message: error.message,

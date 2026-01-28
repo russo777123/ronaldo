@@ -291,14 +291,22 @@ export default function Home() {
 
         {/* Feedback Panel */}
         {revealed && (
-          <div className="bg-[#111827] border border-emerald-500/30 rounded-[2rem] p-10 space-y-10 animate-in fade-in slide-in-from-bottom-8 duration-500 shadow-2xl">
+          <div className={`bg-[#111827] border ${selectedOpt === q.resposta_correta ? 'border-emerald-500/30' : 'border-rose-500/30'} rounded-[2rem] p-10 space-y-10 animate-in fade-in slide-in-from-bottom-8 duration-500 shadow-2xl`}>
             <div className="flex items-center gap-5">
-               <div className="w-14 h-14 bg-emerald-500/20 rounded-2xl flex items-center justify-center border border-emerald-500/40 shadow-inner">
-                 <svg className="w-8 h-8 text-emerald-500" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="3" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
+               <div className={`w-14 h-14 ${selectedOpt === q.resposta_correta ? 'bg-emerald-500/20 border-emerald-500/40' : 'bg-rose-500/20 border-rose-500/40'} rounded-2xl flex items-center justify-center border shadow-inner`}>
+                 {selectedOpt === q.resposta_correta ? (
+                   <svg className="w-8 h-8 text-emerald-500" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="3" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
+                 ) : (
+                   <svg className="w-8 h-8 text-rose-500" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="3" d="M6 18L18 6M6 6l12 12"/></svg>
+                 )}
                </div>
                <div className="space-y-1">
-                 <h3 className="text-emerald-500 text-3xl font-black tracking-tight uppercase">Resposta Correta!</h3>
-                 <p className="text-emerald-500/60 text-xs font-bold uppercase tracking-widest">Excelente desempenho, Guerreiro.</p>
+                 <h3 className={`${selectedOpt === q.resposta_correta ? 'text-emerald-500' : 'text-rose-500'} text-3xl font-black tracking-tight uppercase`}>
+                   {selectedOpt === q.resposta_correta ? 'Resposta Correta!' : 'Resposta Incorreta!'}
+                 </h3>
+                 <p className={`${selectedOpt === q.resposta_correta ? 'text-emerald-500/60' : 'text-rose-500/60'} text-xs font-bold uppercase tracking-widest`}>
+                   {selectedOpt === q.resposta_correta ? 'Excelente desempenho, Guerreiro.' : 'Continue treinando, Guerreiro.'}
+                 </p>
                </div>
             </div>
             
