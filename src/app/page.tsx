@@ -84,8 +84,8 @@ export default function Home() {
     }
 
     try {
-      // Save response
-      await fetch('/api/responses', {
+      // Save response and wait for it to complete
+      const saveResp = await fetch('/api/responses', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
@@ -96,10 +96,21 @@ export default function Home() {
         })
       });
 
-      // Fetch real stats
+      if (!saveResp.ok) {
+        console.error("Erro ao salvar resposta:", await saveResp.text());
+      }
+
+      // Small delay to ensure database is updated
+      await new Promise(resolve => setTimeout(resolve, 100));
+
+      // Fetch real stats after saving
       const statsResp = await fetch(`/api/stats/${currentQuestion.id}`);
-      const statsData = await statsResp.json();
-      setRealStats(statsData);
+      if (statsResp.ok) {
+        const statsData = await statsResp.json();
+        setRealStats(statsData);
+      } else {
+        console.error("Erro ao buscar stats:", await statsResp.text());
+      }
     } catch (e) {
       console.error("Erro ao processar resposta:", e);
     }
@@ -313,11 +324,15 @@ export default function Home() {
             <div className="grid grid-cols-1 md:grid-cols-3 gap-5">
                <div className="bg-[#1e293b]/40 p-8 rounded-3xl border border-slate-800/50 space-y-2 backdrop-blur-sm">
                  <p className="text-slate-500 text-[10px] font-black uppercase tracking-[0.2em]">Taxa de Acerto</p>
-                 <p className="text-3xl font-black text-white tracking-tighter">{realStats ? `${realStats.accuracyRate}%` : '--'}</p>
+                 <p className="text-3xl font-black text-white tracking-tighter">
+                   {realStats ? `${realStats.accuracyRate}%` : '...'}
+                 </p>
                </div>
                <div className="bg-[#1e293b]/40 p-8 rounded-3xl border border-slate-800/50 space-y-2 backdrop-blur-sm">
                  <p className="text-slate-500 text-[10px] font-black uppercase tracking-[0.2em]">Tempo Médio</p>
-                 <p className="text-3xl font-black text-white tracking-tighter">{realStats ? `${realStats.averageTime}s` : '--'}</p>
+                 <p className="text-3xl font-black text-white tracking-tighter">
+                   {realStats ? `${realStats.averageTime}s` : '...'}
+                 </p>
                </div>
                <div className="bg-[#1e293b]/40 p-8 rounded-3xl border border-slate-800/50 space-y-2 backdrop-blur-sm">
                  <p className="text-slate-500 text-[10px] font-black uppercase tracking-[0.2em]">Seu Tempo</p>

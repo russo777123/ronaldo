@@ -7,12 +7,17 @@ export async function GET(
 ) {
   const { id } = await params
 
+  console.log('📊 Buscando stats para questionId:', id)
+
   try {
     const responses = await prisma.response.findMany({
       where: { questionId: id }
     }) as any[]
 
+    console.log(`📈 Encontradas ${responses.length} respostas para esta questão`)
+
     if (responses.length === 0) {
+      console.log('⚠️ Nenhuma resposta encontrada, retornando zeros')
       return NextResponse.json({
         accuracyRate: 0,
         averageTime: 0,
@@ -26,13 +31,15 @@ export async function GET(
     const totalTime = responses.reduce((acc, curr) => acc + curr.timeSeconds, 0)
     const averageTime = Math.round(totalTime / responses.length)
 
+    console.log('✅ Stats calculadas:', { accuracyRate, averageTime, totalResponses: responses.length })
+
     return NextResponse.json({
       accuracyRate,
       averageTime,
       totalResponses: responses.length
     })
   } catch (error) {
-    console.error('Stats API Error:', error)
+    console.error('❌ Stats API Error:', error)
     return NextResponse.json({ error: 'Falha ao buscar estatísticas' }, { status: 500 })
   }
 }

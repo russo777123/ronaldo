@@ -6,6 +6,8 @@ export async function POST(request: Request) {
     const body = await request.json()
     const { questionId, selected, isCorrect, timeSeconds } = body
 
+    console.log('📝 Salvando resposta:', { questionId, selected, isCorrect, timeSeconds })
+
     const response = await prisma.response.create({
       data: {
         questionId,
@@ -15,9 +17,11 @@ export async function POST(request: Request) {
       } as any
     })
 
+    console.log('✅ Resposta salva com sucesso:', response)
+
     return NextResponse.json(response)
   } catch (error: any) {
-    console.error('API Error details:', {
+    console.error('❌ API Error details:', {
       message: error.message,
       stack: error.stack,
       code: error.code,
